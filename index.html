@@ -1,0 +1,236 @@
+<!doctype html>
+<html lang="cs">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
+<meta name="description" content="81 faktů o kácení Amazonie v 11 tématech s vyhledáváním.">
+<style>body{margin:0}[hidden]{display:none!important}img{max-width:100%}</style>
+<title>Amazonie ve faktech</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;700;800&family=Source+Sans+3:ital,wght@0,400;0,600;0,700;1,400&display=swap">
+<style>
+/* Layout: field atlas index — topic tiles with fact counts, then a sidebar + fact list reader; search cuts across topics */
+:root{
+  --bg:#f2f5f2; --surface:#ffffff; --fg:#16211a; --muted:#56635b; --line:#d5ddd5;
+  --accent:#1d6a45; --accent-ink:#ffffff; --accent-soft:#e2efe6; --link:#1d5f9e; --mark:#fbe7a6; --focus:#2f6f8a;
+  --display:"Archivo","Arial Narrow",Arial,sans-serif;
+  --body:"Source Sans 3","Segoe UI",system-ui,sans-serif;
+  --r:10px;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#0f1511; --surface:#17201a; --fg:#e5ebe5; --muted:#9daba1; --line:#2b392f;
+  --accent:#5fbf8a; --accent-ink:#0c1911; --accent-soft:#1b2d22; --link:#8cc2f0; --mark:#5b4a12; --focus:#6fb3cf; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#0f1511; --surface:#17201a; --fg:#e5ebe5; --muted:#9daba1; --line:#2b392f;
+  --accent:#5fbf8a; --accent-ink:#0c1911; --accent-soft:#1b2d22; --link:#8cc2f0; --mark:#5b4a12; --focus:#6fb3cf; color-scheme:dark}
+
+*{box-sizing:border-box}
+html,body{background:var(--bg)}
+body{color:var(--fg);font-family:var(--body);font-size:17px;line-height:1.55;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:20px 48px}
+.wrap{max-width:1040px;margin:0 auto;display:flex;flex-direction:column;gap:20px}
+a{color:var(--link);text-underline-offset:2px}
+:focus-visible{outline:3px solid var(--focus);outline-offset:2px;border-radius:6px}
+h1,h2,h3{font-family:var(--display);text-wrap:balance;margin:0;line-height:1.15}
+.eyebrow{font-family:var(--display);font-size:12px;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--muted)}
+button{font:inherit;color:inherit}
+
+.top{display:flex;flex-direction:column;gap:8px}
+.top h1{font-size:clamp(28px,5vw,42px);font-weight:800;letter-spacing:-.01em}
+.top p{margin:0;color:var(--muted);max-width:64ch}
+.search{display:flex;gap:8px;align-items:center;background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:4px 6px 4px 14px}
+.search input{flex:1;min-width:0;border:0;background:transparent;font:inherit;font-size:17px;padding:9px 0;color:var(--fg)}
+.search input:focus{outline:none}
+.search:focus-within{border-color:var(--accent);box-shadow:0 0 0 2px var(--accent-soft)}
+.clear{all:unset;cursor:pointer;padding:6px 10px;border-radius:6px;color:var(--muted);font-weight:600;font-size:14px}
+
+/* tiles */
+.tiles{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:10px}
+.tile{all:unset;box-sizing:border-box;cursor:pointer;background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:14px 15px;display:flex;flex-direction:column;gap:5px;transition:border-color .15s,transform .15s}
+.tile:hover{border-color:var(--accent);transform:translateY(-2px)}
+.tile:focus-visible{outline:3px solid var(--focus)}
+.tile .row{display:flex;justify-content:space-between;align-items:baseline;gap:8px}
+.tile .n{font-family:var(--display);font-weight:800;font-size:13px;color:var(--accent);letter-spacing:.04em}
+.tile .cnt{font-size:13px;color:var(--muted);font-variant-numeric:tabular-nums;white-space:nowrap}
+.tile h2{font-size:18.5px;font-weight:700}
+.tile p{margin:0;font-size:14.5px;color:var(--muted);line-height:1.4}
+
+/* reader */
+.reader{display:grid;grid-template-columns:240px minmax(0,1fr);gap:18px;align-items:start}
+.side{position:sticky;top:calc(env(safe-area-inset-top,0px) + 12px);display:flex;flex-direction:column;gap:2px}
+.side .home{all:unset;cursor:pointer;font-weight:600;color:var(--muted);font-size:14.5px;padding:6px 10px;margin-bottom:6px}
+.side .home:hover{color:var(--fg)}
+.navitem{all:unset;cursor:pointer;display:flex;gap:8px;align-items:baseline;padding:7px 10px;border-radius:8px;font-size:15px;line-height:1.3}
+.navitem .k{font-family:var(--display);font-weight:700;font-size:12px;color:var(--muted);min-width:1.6em;font-variant-numeric:tabular-nums}
+.navitem:hover{background:var(--accent-soft)}
+.navitem[aria-current="true"]{background:var(--accent);color:var(--accent-ink)}
+.navitem[aria-current="true"] .k{color:inherit;opacity:.85}
+.navitem:focus-visible{outline:3px solid var(--focus)}
+.chips{display:none;gap:6px;overflow-x:auto;padding-bottom:4px}
+.chip{all:unset;cursor:pointer;white-space:nowrap;font-size:14.5px;font-weight:600;padding:7px 12px;border-radius:999px;border:1px solid var(--line);background:var(--surface);color:var(--muted)}
+.chip[aria-current="true"]{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
+.main{display:flex;flex-direction:column;gap:14px;min-width:0}
+.head{display:flex;flex-direction:column;gap:4px}
+.head h2{font-size:clamp(24px,4vw,32px);font-weight:800}
+.head p{margin:0;color:var(--muted)}
+.facts{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:8px;counter-reset:f}
+.fact{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:12px 16px 12px 52px;position:relative;counter-increment:f;max-width:74ch}
+.fact::before{content:counter(f);position:absolute;left:14px;top:12px;font-family:var(--display);font-weight:800;font-size:15px;color:var(--accent);font-variant-numeric:tabular-nums;width:26px;text-align:right}
+.fact .from{display:block;font-size:12.5px;color:var(--muted);font-family:var(--display);font-weight:700;letter-spacing:.06em;text-transform:uppercase;margin-bottom:2px}
+mark{background:var(--mark);color:inherit;border-radius:3px;padding:0 1px}
+.pager{display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap}
+.btn{all:unset;cursor:pointer;box-sizing:border-box;padding:10px 15px;border-radius:8px;font-weight:600;font-size:15px;border:1px solid var(--line);background:var(--surface);display:inline-flex;flex-direction:column;gap:1px;max-width:100%}
+.btn small{font-size:11.5px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+.btn.next{margin-left:auto;text-align:right;background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
+.btn.next small{color:inherit;opacity:.8}
+.btn:focus-visible{outline:3px solid var(--focus)}
+.empty{color:var(--muted);font-style:italic}
+footer{font-size:13.5px;color:var(--muted)}
+@media (max-width:760px){
+  .reader{grid-template-columns:minmax(0,1fr)}
+  .side{display:none}
+  .chips{display:flex}
+  .fact{padding-left:44px}
+  .fact::before{left:8px}
+}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+</head>
+<body>
+
+<div class="wrap">
+  <header class="top">
+    <div class="eyebrow">Role play · podklady k faktům</div>
+    <h1>Kácení deštných pralesů v Amazonii</h1>
+    <p>Všechna fakta z podkladů k debatě, seřazená podle témat. Vyber téma, nebo hledej slovo napříč všemi fakty. U každého údaje je odkaz na zdroj.</p>
+    <label class="search" for="q">
+      <span aria-hidden="true" style="color:var(--muted)">⌕</span>
+      <input id="q" type="search" placeholder="Hledat, např. sója, rtuť, 2030, Norsko…" autocomplete="off">
+      <button class="clear" id="clear" type="button" hidden>Smazat</button>
+    </label>
+  </header>
+
+  <main id="home"><div class="tiles" id="tiles"></div></main>
+  <section id="reader" class="reader" hidden>
+    <nav class="side" id="side" aria-label="Témata"></nav>
+    <div class="main">
+      <div class="chips" id="chips" role="tablist" aria-label="Témata"></div>
+      <div id="view"></div>
+    </div>
+  </section>
+
+  <footer><a href="soupis-faktu-amazonie.pdf">Soupis faktů v PDF (4 strany A4)</a><br>Stav k 22. 10. 2026. Zdroje jsou převážně v angličtině a portugalštině; pomůže automatický překlad v prohlížeči.</footer>
+</div>
+
+<script>
+const TOPICS = [{"title": "Amazonie a odlesňování", "lead": "Kolik pralesa je, kolik ho mizí a jak se tempo kácení měnilo.", "facts": ["Brazilská Amazonie (Amazônia Legal) má asi 5 mil. km², zhruba 60 % území Brazílie, a žije v ní přibližně 28 mil. obyvatel.", "Z původního amazonského pralesa už zmizelo asi 17–18 %, zachováno je tedy asi 82 % ([PIK Potsdam](https://www.pik-potsdam.de/@@multilingual-selector/58e4e869121a4af2acc6f2ab73f1fe03/en)).", "Oficiální roční měření kácení se jmenuje PRODES (ústav INPE) a počítá vždy období srpen–červenec ([INPE, prezentace](https://static.poder360.com.br/2025/11/PRODES-20242025.pdf)).", "Vykácená plocha podle PRODES: 2004: 27 772 km² · 2012: 4 571 km² · 2021: 13 038 km² · 2024: 6 518 km² · 2025: 5 796 km². Rok 2025 byl 4. pokles v řadě ([Climate Policy Initiative](https://www.climatepolicyinitiative.org/pt-br/?p=34035), [O Liberal](https://www.oliberal.com/variedades/desmatamento-na-amazonia-em-2025-caiu-11-08-em-relacao-a-2024-afirma-prodes-inpe-1.1084212)).", "V letech 2019–2022 se kácelo přes 10 000 km² ročně, nejvíc v roce 2021 ([INPE, prezentace](https://static.poder360.com.br/2025/11/PRODES-20242025.pdf)).", "Satelitní výstrahy DETER za 8/2025–7/2026: 2 874 km², o 37 % méně než o rok dříve. Oficiální číslo PRODES 2026 vyjde v listopadu ([Bem Paraná](https://www.bemparana.com.br/bem-estar/amazonia-desmatamento-cai-3687-no-ultimo-ano-e-institutos-comemoram/)).", "Ve státě Pará kleslo kácení mezi 2021 a 2025 o 60 %, z 5 238 na 2 098 km² ([O Liberal](https://www.oliberal.com/cop-30/inpe-para-tem-maior-reducao-de-desmatamento-da-amazonia-legal-em-2025-1.1044330)).", "Les se ničí i **degradací**: stromy stojí, ale kvůli suchu, výběrové těžbě a požárům les přestává fungovat. PRODES nově vykazuje ztrátu „postupnou degradací“ zvlášť ([INPE, prezentace](https://static.poder360.com.br/2025/11/PRODES-20242025.pdf)).", "Plán PPCDAm (od 2004) spojil satelitní hlídání, pokuty a nová chráněná území; výzkumy ukazují, že účinně snížil kácení, i když pomohl i pokles cen komodit ([Climate Policy Initiative](https://www.climatepolicyinitiative.org/pt-br/?p=34035)).", "Modelový návrh hry: 8 000 km² odpovídá zhruba Plzeňskému kraji (7 649 km²) nebo 16× Praze (496 km²) a je o 38 % víc než celé kácení roku 2025."], "id": "amazonie-a-odlesnovani"}, {"title": "Klima a bod zvratu", "lead": "Co říká věda o budoucnosti pralesa.", "facts": ["Studie PIK v časopise Nature (5/2026): bez kácení by se Amazonie rozpadla až při oteplení o 3,7–4,0 °C. Při kácení 22–28 % hrozí přechod 62–77 % území v degradovaný les nebo savanu už při oteplení 1,5–1,9 °C ([PIK – publikace](https://publications.pik-potsdam.de/pubman/item/item_34414)).", "Se současnou ztrátou 17–18 % je systém blízko kritického pásma ([PIK Potsdam](https://www.pik-potsdam.de/@@multilingual-selector/58e4e869121a4af2acc6f2ab73f1fe03/en)).", "Nejohroženější je západ a jihozápad Amazonie, který závisí na dešti „recyklovaném“ z jiných částí pralesa ([Carbon Copy](https://carboncopy.info/deforestation-may-push-amazon-near-tipping-point-at-even-1-5-c-report)).", "Stromy vypařují vodu, která pak znovu prší jinde v povodí. Kácení tento koloběh oslabuje ([PIK Potsdam](https://www.pik-potsdam.de/@@multilingual-selector/58e4e869121a4af2acc6f2ab73f1fe03/en)).", "Kdyby kácení znovu vzrostlo, mohl by bod zvratu přijít kolem roku 2031 ([REDD-Monitor](https://reddmonitor.substack.com/p/new-study-warns-that-deforestation)). Klimatolog Carlos Nobre varuje, že kácení je třeba zastavit do roku 2040 ([Mongabay](https://news.mongabay.com/2026/05/deforestation-and-warming-could-push-amazon-to-tipping-point-by-2040s-study/)).", "Autor studie Nico Wunderling uvádí tři důsledky přechodu v savanu: ztrátu nejbohatšího ekosystému planety, nižší zemědělské výnosy a zánik amazonského pohlcovače uhlíku ([REDD-Monitor](https://reddmonitor.substack.com/p/new-study-warns-that-deforestation)).", "Gatti a kol. (Nature 2021): 590 měřicích letů v letech 2010–2018 ukázalo, že jihovýchodní Amazonie vypouští víc uhlíku, než pohlcuje, hlavně kvůli požárům ([White Rose Research](https://eprints.whiterose.ac.uk/172427/), [Mongabay](https://news.mongabay.com/2021/07/brazils-amazon-is-now-a-carbon-source-unprecedented-study-reveals/))."], "id": "klima-a-bod-zvratu"}, {"title": "Sucha a život ve městech", "lead": "Dopady na Manaus, Belém a říční dopravu.", "facts": ["Hladina Rio Negro v Manausu klesla v roce 2023 na 12,70 m a v roce 2024 na 12,11 m, nejníže od začátku měření v roce 1902 ([Portal Amazônia](https://portalamazonia.com/meio-ambiente/rio-negro-manaus-volta-a-encher-2024/)).", "V roce 2024 zasáhlo sucho ve státě Amazonas přes 767 000 lidí ([IHU Unisinos](https://ihu.unisinos.br/644482-seca-extrema-rio-negro-atinge-seu-menor-nivel-em-122-anos)).", "Manaus vyhlásil nouzový stav na 180 dní, nouzi měly všechny obce státu Amazonas; 29 venkovských škol podél Rio Negro předčasně ukončilo výuku ([Portal Amazônia](https://portalamazonia.com/meio-ambiente/seca-historica-rio-negro-manaus/)).", "Při suchu 2023 hromadně uhynuly desítky říčních delfínů ([Canaltech](https://canaltech.com.br/meio-ambiente/rio-negro-bate-recorde-historico-de-nivel-baixo-devido-a-seca-na-amazonia/)).", "Řeky jsou v regionu hlavní dopravní cesty: dovážejí se po nich potraviny, léky i palivo ([Olhar Direto](https://olhardireto.com.br/noticias/nivel-do-rio-negro-em-manaus-e-o-menor-ja-registrado)).", "Belém hostil v listopadu 2025 klimatickou konferenci OSN COP30 ([O Liberal](https://www.oliberal.com/cop-30/inpe-para-tem-maior-reducao-de-desmatamento-da-amazonia-legal-em-2025-1.1044330))."], "id": "sucha-a-zivot-ve-mestech"}, {"title": "Zemědělství a dobytek", "lead": "Hlavní hospodářský důvod kácení.", "facts": ["Chov dobytka je hlavní příčinou kácení v Amazonii ([Beef Magazine](https://www.beefmagazine.com/market-news/jbs-among-meatpackers-fined-as-brazil-cracks-down-on-illegal-cattle)). V celé Brazílii vzniklo 55,8 % pastvin na místě původní vegetace ([MapBiomas přes Agência Gov](https://agenciagov.ebc.com.br/noticias/202309/territorios-indigenas-sao-os-mais-preservados-do-pais)).", "Brazílie je od roku 2012 největším producentem a vývozcem sóji na světě; sezóna 2024/25: 171,4 mil. t sklizeno, 106,6 mil. t vyvezeno ([Food & Agribusiness](https://www.foodagribusiness.world/poultry/grain-traders-abandon-soy-moratorium-as-tax-incentives-end)).", "Zemědělství a navazující odvětví tvořila v roce 2025 25,13 % HDP Brazílie a vzrostla o 12,2 %; živočišná výroba o 32,6 % ([CNA](https://cnabrasil.org.br/noticias/cna-e-cepea-apontam-crescimento-de-12-2-do-pib-do-agronegocio-em-2025)).", "„Praní dobytka“: masné firmy hlídají přímé dodavatele, ale ne farmy, kde se dobytek narodil, takže zvířata z nelegálně vykácených farem projdou přes „čisté“ farmy ([Mongabay](https://news.mongabay.com/2020/07/investigation-links-meat-giant-jbs-to-amazon-deforestation/)).", "Více než polovina dobytka firem JBS a Marfrig pochází od nepřímých dodavatelů ([Rainforest Foundation Norway](https://www.regnskog.no/en/news/verdens-storste-kjottprodusent-anklaget-for-avskoging-i-amazonas)).", "JBS slíbila v roce 2009 sledovat všechny nepřímé dodavatele do roku 2011; podle Human Rights Watch (2025) to stále nedělá a nově slibuje termín 2026 ([Al Jazeera](https://www.aljazeera.com/news/2025/10/15/is-your-beef-linked-to-amazon-deforestation-a-report-highlights-loopholes)).", "Global Witness: JBS v roce 2020 nakupovala dobytek ze 144 farem ve státě Pará s nelegálně vykácenou plochou přes 10 000 fotbalových hřišť ([Global Witness](https://globalwitness.org/en/press-releases/banks-and-financiers-back-beef-giant-jbs-to-the-tune-of-almost-1bn-despite-links-to-widespread-deforestation-land-grabbing-and-slave-labour-in-the-amazon-with-tainted-beef-and-leather-entering-british-and-european-markets)).", "Firma Marfrig uvádí, že v nejrizikovějších oblastech už sleduje 100 % nepřímých dodavatelů; úřady při jedné akci zabavily asi 7 000 kusů nelegálně chovaného skotu ([Beef Magazine](https://www.beefmagazine.com/market-news/jbs-among-meatpackers-fined-as-brazil-cracks-down-on-illegal-cattle))."], "id": "zemedelstvi-a-dobytek"}, {"title": "Sójové moratorium a obchod", "lead": "Dobrovolná dohoda obchodníků a její konec.", "facts": ["Sójové moratorium (2006): obchodníci se zavázali nekupovat sóju z amazonské půdy vykácené po roce 2008. Vzniklo pod tlakem kampaně Greenpeace ([Greenpeace](https://www.greenpeace.org/luxembourg/de/aktualitaet/26955/amazonas-in-gefahr-das-soja-moratorium-muss-bleiben/)).", "V obcích pěstujících sóju kleslo kácení z 1,06 mil. ha ročně (2002–2008) na asi 300 000 ha ročně, tj. o 71,7 %. Méně než 3 % amazonské sóji rostou na půdě vykácené po roce 2008 ([Food & Agribusiness](https://www.foodagribusiness.world/poultry/grain-traders-abandon-soy-moratorium-as-tax-incentives-end)).", "Od roku 2008 vzrostla produkce sóji v Amazonii 4,5krát, zatímco kácení ve sledovaných obcích kleslo o 69 % ([Mongabay](https://news.mongabay.com/short-article/2025/10/brazil-soy-deal-that-curbs-amazon-deforestation-to-be-suspended-in-2026/)). Studie v časopise Science (2026) uvádí pokles kácení v rizikových oblastech o 35 % za první dekádu bez poklesu produktivity ([AP přes ABC News](https://abcnews.com/Business/wireStory/brazil-supreme-court-upholds-laws-led-downfall-amazon-135592816)).", "Zemědělská konfederace CNA označila moratorium za nezákonné, protože zakazuje i kácení, které zákon dovoluje ([Mongabay](https://news.mongabay.com/short-article/2025/10/brazil-soy-deal-that-curbs-amazon-deforestation-to-be-suspended-in-2026/)).", "Státy jako Mato Grosso zrušily daňové úlevy firmám v moratoriu. Svaz obchodníků ABIOVE z něj 5. 1. 2026 vystoupil ([NbSI Oxford](https://www.naturebasedsolutionsinitiative.org/news/soy-moratorium-amazon/)) a Nejvyšší soud státní zákony v 8/2026 potvrdil ([AP přes ABC News](https://abcnews.com/Business/wireStory/brazil-supreme-court-upholds-laws-led-downfall-amazon-135592816)).", "Přes 80 % sóji z Amazonie jde na vývoz, asi 30 % do Číny a 19 % do EU. Téměř 60 % obchodují ADM, Bunge, Cargill, Louis Dreyfus a Glencore ([Global Canopy](https://globalcanopy.org/insights/insight/amazon-soy-moratorium-almost-20-years-of-success-tackling-deforestation-under-threat/)).", "28 evropských potravinových řetězců, mezi nimi Lidl, Aldi a Tesco, vyzvalo obchodníky, aby moratorium dál dodržovali ([Global Canopy](https://globalcanopy.org/insights/insight/amazon-soy-moratorium-almost-20-years-of-success-tackling-deforestation-under-threat/), [Greenpeace](https://www.greenpeace.org/luxembourg/de/aktualitaet/26955/amazonas-in-gefahr-das-soja-moratorium-muss-bleiben/)).", "**Nařízení EU o odlesňování (EUDR)** platí od 30. 12. 2026 pro velké a střední firmy, pro malé od 30. 6. 2027. Týká se skotu, sóji, kávy, kakaa, palmového oleje, kaučuku a dřeva dováženého do EU ([HLC](https://hlc.com/en/publications/eu-deforestation-regulation-commission-publishes-simplification-package-ahead-of-december-2026), [KPMG](https://kpmg.com/pl/en/insights/law/legal-alert-eudr-the-european-parliament-adopts-proposal-for-simplification-measures-and-a-one-year-postponement-of-obligations.html))."], "id": "sojove-moratorium-a-obchod"}, {"title": "Těžba a zlato", "lead": "Legální doly, nelegální zlatokopové a rtuť.", "facts": ["V roce 2021 mělo 52,8 t zlata prodaného v Brazílii vážné známky nezákonnosti, to je 54 % celé produkce. 61 % zlata pochází z Amazonie ([Instituto Escolhas přes CartaCapital](https://www.cartacapital.com.br/?p=324666)). Za 2015–2020 šlo o 229 t ([Instituto Escolhas, PDF](https://escolhas.org/wp-content/uploads/2022/12/Ouro-200-toneladas.pdf)).", "Pět obchodních firem prodalo 79 t zlata s podezřelým původem ([Jornal Grande Bahia](https://jornalgrandebahia.com.br/2022/02/segundo-estudo-brasil-vendeu-229-toneladas-de-ouro-ilegalmente/)). Šéf těžebního svazu IBRAM přiznává slabé zákony; Brazílie nemá účinné sledování původu zlata ([DOL](https://dol.com.br/noticias/para/799700/para-e-um-dos-lideres-da-extracao-ilegal-de-ouro)).", "Plocha zlatokopectví na územích původních obyvatel vzrostla v letech 2010–2020 o 495 %, nejvíc u národů Kayapó a Munduruku ([MapBiomas přes IHU Unisinos](https://www.ihu.unisinos.br/categorias/617955-terras-indigenas-funcionam-como-salvaguarda-ao-desmatamento)).", "Na území Yanomamů pracovalo kolem 20 000 nelegálních zlatokopů. Vláda v roce 2023 vyhlásila zdravotní nouzi kvůli podvýživě a malárii ([The Garden Island / AP](https://www.thegardenisland.com/2023/02/08/news/brazil-pushes-illegal-miners-out-of-yanomami-territory/)).", "Studie Fiocruz (2024) našla rtuť u všech vyšetřených Yanomamů z 9 vesnic; rtuť slouží k oddělení zlata od písku ([CNN Brasil](https://www.cnnbrasil.com.br/nacional/pf-apreende-mais-de-103-kg-de-mercurio-do-garimpo-ilegal-na-fronteira-de-roraima-com-a-guiana/)).", "První měsíc operace na území Yanomamů (2023) zničil 200 táborů a zabavil 84 člunů a dvě letadla ([Agência Brasil přes Jornal Contábil](https://jornalcontabil.com.br/noticia/resultados-da-operacao-contra-o-garimpo-ilegal-em-terra-indigena-yanomami/)). Zlatokopové se ale často vracejí ([Planet Ark](https://indiaenvironmentportal.org.in/news-clippings/fight-against-illegal-amazon-gold-mining-intensifies)).", "Kolem nelegální těžby vznikla celá regionální ekonomika (piloti, kuchaři, obchodníci); zlatokopové popisují, že neměli jinou obživu ([AFP přes Dunya News](https://dunyanews.tv/en/World/697578-Operation-Exodus-Brazil-miners-flee-Yanomami-land)).", "Guvernér státu Roraima podepsal zákon, který uvolnil zlatokopectví všech nerostů ([Portal Amazônia](https://portalamazonia.com/roraima/exercito-desativa-seis-garimpos-na-terra-yanomami-e-apreende-aviao-ouro-e-mercurio-em-roraima/)).", "Oba prezidentští kandidáti chtějí rozšířit těžbu kritických minerálů a vzácných zemin ([SBT News](https://sbtnews.sbt.com.br/noticia/eleicoes/flavio-x-lula-o-que-defendem-para-meio-ambiente-e-energia))."], "id": "tezba-a-zlato"}, {"title": "Původní obyvatelé", "lead": "Území, práva a ohrožení.", "facts": ["Území původních obyvatel zabírají 13 % Brazílie. V letech 1985–2023 v nich zmizelo méně než 1 % původní vegetace, na soukromých pozemcích 28 % ([MapBiomas přes Exame](https://exame.com/esg/brasil-chega-a-um-terco-de-perdas-das-areas-naturais-em-2023-e-atinge-recorde/)).", "V Amazonii je 430 domorodých území o rozloze přes 115 mil. ha, tj. 23 % amazonského území ([IHU Unisinos / Brasil de Fato](https://ihu.unisinos.br/categorias/644315-protecao-de-povos-originarios-faz-de-terras-indigenas-as-areas-mais-preservadas-do-brasil)).", "**Marco temporal** je teze, podle níž mají původní obyvatelé nárok jen na půdu, kterou drželi 5. 10. 1988. Nejvyšší soud ji v prosinci 2025 znovu prohlásil za protiústavní a nařídil dokončit vymezení území ([Mais Goiás](https://www.maisgoias.com.br/brasil/stf-derruba-marco-temporal-e-determina-a-conclusao-de-demarcacoes/)).", "Senát schválil ústavní dodatek PEC 48/23, který chce marco temporal vepsat do ústavy ([Lex Legal](https://lexlegal.com.br/?p=48870)).", "Podle organizace Cimi bylo v roce 2024 zavražděno 211 příslušníků původních národů ([Lex Legal](https://lexlegal.com.br/?p=48870)).", "Celostátní organizace APIB každý rok pořádá v Brasílii protestní tábor Acampamento Terra Livre ([Outras Palavras](https://outraspalavras.net/terraeantropoceno/amazonia-por-que-indigenas-voltam-a-luta/))."], "id": "puvodni-obyvatele"}, {"title": "Zákony a politika", "lead": "Pravidla kácení, povolování a volby 2026.", "facts": ["**Lesní zákoník:** vlastník v amazonském lese musí zachovat 80 % lesa, 20 % smí legálně vykácet ([AP přes ABC News](https://abcnews.com/Business/wireStory/brazil-supreme-court-upholds-laws-led-downfall-amazon-135592816)).", "**Zákon o povolování staveb (2025)**, kritiky nazývaný „zákon devastace“: Kongres v listopadu 2025 přehlasoval 56 z 63 prezidentových vet ([Mongabay](https://news.mongabay.com/short-article/2025/12/brazil-votes-to-allow-most-projects-farms-to-skip-environmental-licensing/)).", "Podle zákona lze některá povolení získat vyplněním online formuláře ([IPAM](https://ipam.org.br/overturning-the-vetoes-of-the-environmental-licensing-law-is-a-historic-defeat-for-the-brazilian-people-laments-ipam/)). Od povolení jsou osvobozeny statky čekající na schválení v registru pozemků CAR a je možné dodatečné „nápravné“ povolení ([Mayer Brown](https://www.mayerbrown.com/de/insights/publications/2025/12/brazilian-congress-overrides-presidential-vetoes-to-the-general-environmental-licensing-law-and-approves-new-rules-on-the-special-environmental-license)).", "Vláda prezidenta Luly slibuje nulové odlesňování do roku 2030 a obnovila Fond Amazonie i plán PPCDAm ([Poder360](https://www.poder360.com.br/meio-ambiente/noruega-anuncia-mais-r-245-milhoes-para-o-fundo-amazonia-na-cop-28/)).", "**Volby 2026:** v 1. kole 4. 10. získal Flávio Bolsonaro asi 47 %, Lula asi 45 %; 2. kolo je 25. 10. 2026 ([Democracy Now!](https://www.democracynow.org/2026/10/5/headlines/brazils_presidential_election_heads_to_a_runoff)).", "Program Flávia Bolsonara slibuje nulové **nelegální** odlesňování do roku 2029, kontrolu pomocí umělé inteligence a změny v povolování ([SBT News](https://sbtnews.sbt.com.br/noticia/eleicoes/meio-ambiente-e-energia-veja-propostas-de-flavio-na-integra)). Povolení má platit automaticky, když úřad nerozhodne včas ([O Povo](https://mais.opovo.com.br/colunistas/fabio-angeoletto/2026/09/23/meio-ambiente-o-candidato-menos-pior.html)).", "Program dále chce obnovit tempo vydávání vlastnických listů k venkovské půdě (za Jaira Bolsonara přes 450 000) ([Canal Rural](https://www.canalrural.com.br/politica/eleicoes/eleicoes-2026-o-que-augusto-cury-e-flavio-bolsonaro-propoem-para-o-agro/)), proměnit biodiverzitu v byznys s léky a kosmetikou ([IstoÉ](https://istoe.com.br/lula-flavio-bolsonaro-propostas-meio-ambiente-2026)) a zavést těžbu plynu frakováním ([SBT News](https://sbtnews.sbt.com.br/noticia/eleicoes/meio-ambiente-e-energia-veja-propostas-de-flavio-na-integra)).", "Klimatická krize je v programu F. Bolsonara zmíněna jen jednou; Lulův program ji staví do středu ([Money Times](https://www.moneytimes.com.br/?p=1414023))."], "id": "zakony-a-politika"}, {"title": "Doprava, ropa a velké stavby", "lead": "Projekty, které otevírají prales.", "facts": ["**Ferrogrão:** 933 km dlouhá železnice Sinop (Mato Grosso) – Miritituba (Pará) má vozit sóju k přístavům místo kamionů ([Rádio Bandeirantes](https://www.band.com.br/radio-bandeirantes/noticias/stf-retoma-julgamento-da-ferrograo-nesta-quarta-feira-202605201032)).", "Kvůli železnici byl zmenšen národní park Jamanxim. Kontrolní úřad TCU v 3/2026 pozastavil schvalování koncese, mimo jiné kvůli chybějící konzultaci s původními obyvateli ([Outras Palavras](https://outraspalavras.net/terraeantropoceno/amazonia-por-que-indigenas-voltam-a-luta/)).", "**Ropa u ústí Amazonky:** úřad IBAMA v 10/2025 povolil Petrobrasu průzkumný vrt u pobřeží státu Amapá, i když ho v roce 2023 zamítl ([Oil & Gas Journal](https://ogj.com/exploration-development/area-drilling/news/55324386/petrobras-obtains-license-for-brazilian-equatorial-marin-well-years-after-initial-plan-rejected)).", "Petrobras v roce 2026 oznámil nález uhlovodíků, plánuje celkem 8 vrtů a při úspěchu chce těžit do 7 let ([Itatiaia](https://www.itatiaia.com.br/economia/petrobras-ibama-perfuracao-foz-amazonas-2026/), [eixos](https://eixos.com.br/petroleo-e-gas/mercado-offshore/ibama-libera-petrobras-para-perfuracao-de-mais-tres-pocos-na-bacia-da-foz-do-amazonas/), [Reuters přes Tank Terminals](https://tankterminals.com/?p=485787))."], "id": "doprava-ropa-a-velke-stavby"}, {"title": "Peníze za ochranu lesa", "lead": "Mezinárodní fondy a uhlíkové kredity.", "facts": ["**Fond Amazonie** (od 2008, spravuje banka BNDES): v letech 2019–2022 zmrazen, v roce 2023 obnoven. Na konci 2023 měl 3,5 mld. reálů; Norsko dalo přes 89 % peněz ([eixos](https://eixos.com.br/fundo-amazonia-tem-r-13-bilhao-aprovado-para-projetos-e-chamadas-publicas/)).", "**Fond TFFF** (Fond tropických lesů navždy) spustila Brazílie na COP30. Cílová velikost 125 mld. USD; investoři dostávají výnos a lesní země asi 4 USD za hektar zachovaného lesa. Nejméně 20 % plateb má jít původním obyvatelům ([AFP přes Aletihad](https://en.aletihad.ae/news/mena-world/4620366/javasxript:), [REDD-Monitor](https://reddmonitor.substack.com/p/tomorrows-tropical-forests-forever), [COP30](https://cop30.br/en/news-about-cop30/luxembourg-joins-the-tropical-forests-forever-facility-tfff-and-pledges-euro50-million)).", "První den sliby za 5,5 mld. USD: Brazílie 1 mld., Indonésie 1 mld., Norsko až 3 mld. USD ([Plans for the Planet](https://plansfortheplanet.substack.com/p/tfff-exceeds-expectations-with-55)). Norsko podmiňuje vklad tím, že fond do konce 2026 získá 10 mld. USD ([Carbon Pulse](https://carbon-pulse.com/542605/)). Velká Británie přidala v 9/2026 400 mil. liber ([Fix the News / WWF](https://fixthenews.com/s/uk-pledges-400m-to-tropical-forest-protection-fund-60cb1d)).", "Kritici upozorňují, že lesní země dostanou jen to, co zbude po výplatě investorům; odhad výplat klesl mezi dvěma verzemi návrhu o 41 % ([REDD-Monitor](https://reddmonitor.substack.com/p/tomorrows-tropical-forests-forever)).", "**Uhlíkový kredit** = potvrzení, že někdo zabránil vypuštění 1 tuny CO₂, třeba tím, že nevykácel les. Firma si ho koupí, aby vyrovnala vlastní emise.", "Stát Pará (2024) prodává až 12 mil. kreditů za 15 USD/t, celkem až 180 mil. USD; kupují Norsko, Velká Británie, USA a firmy jako Amazon, Bayer nebo H&M ([REDD-Monitor](https://reddmonitor.substack.com/p/us180-million-worth-of-carbon-credits)).", "Federální žalobci dohodu napadli kvůli prodeji kreditů předem a chybějící konzultaci s komunitami ([Carbon Herald](https://carbonherald.com/prosecutors-challenge-180m-amazon-carbon-credit-deal-in-brazil/)). Soud ji nepozastavil; USA mezitím své peníze stáhly ([Carbon Pulse](https://carbon-pulse.com/406688/)).", "Brazílie má od prosince 2024 zákon č. 15.042 o národním trhu s emisemi (SBCE) ([BMA Advogados](https://www.bmalaw.com.br/en-US/conteudo/corporate-and-ma/jurisdictional-redd-and-the-advance-sale-controversy-lessons-from-the-para-carbon-credit-deal)).", "Vyšetřování listů Guardian a Die Zeit (2023) tvrdí, že přes 90 % pralesních kreditů největšího certifikátora Verra nepředstavuje skutečné snížení emisí; Verra to odmítá ([Guardian Weekly](https://theguardianweekly.pressreader.com/article/281994676623297))."], "id": "penize-za-ochranu-lesa"}, {"title": "Příklady ze zahraničí", "lead": "Jak se s lesem a těžbou vypořádaly jiné země.", "facts": ["**Kostarika:** lesní pokryv klesl v 80. letech na 21 % území. Od roku 1997 platí stát vlastníkům za ochranu lesa z daně z paliv a z prodeje kreditů. Pokryv vzrostl mezi 1997 a 2005 ze 42 % na 51 % a dnes je kolem 57 % ([Princeton](https://successfulsocieties.princeton.edu/publications/creating-green-republic-payments-environmental-services-costa-rica-1994%E2%80%932005), [Mongabay přes Resilience](https://www.resilience.org/stories/2024-07-15/conservation-pays-and-everyones-benefitting-from-it-commentary/)).", "Nezávislé hodnocení v Kostarice zjistilo, že platby zvýšily lesní pokryv zapojených farem o 11–17 % plochy pod smlouvou za 8 let ([Land Economics, 2012](https://le.uwpress.org/highwire/citation/1988/refworks-tagged)).", "**Ekvádor – Yasuní (2023):** v prvním referendu svého druhu rozhodlo 59 % voličů nechat ropu v národním parku v zemi, asi 1,5 mld. barelů ([CBS News](https://cbsnews.com/news/ecuador-votes-stop-oil-drilling-amazon-reserve), [Amazon Watch](https://amazonwatch.org/?p=44891)). Některé místní komunity hlasovaly proti, protože z těžby měly příjmy ([Mongabay](https://news.mongabay.com/2023/08/ecuador-referendum-halts-oil-extraction-in-yasuni-national-park/)). Vlády rozhodnutí naplňují pomalu ([openDemocracy](https://www.opendemocracy.net/es/ecuador-amazonia-yasuni-prohibicion-petroleo-referendum/)).", "Už v roce 2007 žádal ekvádorský prezident Correa bohaté země o 3,6 mld. USD za to, že ropu v Yasuní nebude těžit; těžba v parku nakonec začala v roce 2016 ([Climate Home přes Changemakr](https://changemakr.asia/ecuadorians-reject-amazon-oil-drilling-in-historic-referendum/)).", "**Quito:** obyvatelé hlavního města Ekvádoru hlasovali v roce 2023 v místním referendu (asi 68 %) proti těžbě v okolních lesích ([Rainforest Rescue](https://rainforest-rescue.org/updates/11693/ecuador-referendum-halts-oil-drilling-in-yasuni-national-park?t=9143)).", "**Indonésie:** podobný problém s palmovým olejem; EU proto do nařízení EUDR zahrnula vedle sóji a skotu i palmový olej, kakao a kávu ([KPMG](https://kpmg.com/pl/en/insights/law/legal-alert-eudr-the-european-parliament-adopts-proposal-for-simplification-measures-and-a-one-year-postponement-of-obligations.html))."], "id": "priklady-ze-zahranici"}];
+const $ = id => document.getElementById(id);
+const home=$("home"), reader=$("reader"), view=$("view"), q=$("q");
+let cur = 0;
+
+function esc(s){return s.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;")}
+function plain(s){return s.replace(/\[([^\]]+)\]\([^)]+\)/g,"$1").replace(/\*\*/g,"")}
+function norm(s){return s.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g,"")}
+function inline(s, term){
+  let h = esc(s);
+  h = h.replace(/\[([^\]]+)\]\(([^)]+)\)/g,(m,t,u)=>`<a href="${u}" target="_blank" rel="noopener">${t}</a>`);
+  h = h.replace(/\*\*(.+?)\*\*/g,"<strong>$1</strong>");
+  if(term) h = highlight(h, term);
+  return h;
+}
+function highlight(html, term){
+  // mark matches only in text outside tags, accent-insensitive
+  const t = norm(term);
+  return html.split(/(<[^>]+>)/).map(part=>{
+    if(part.startsWith("<")) return part;
+    const n = norm(part); let out="", i=0, j;
+    while((j=n.indexOf(t,i))!==-1){ out+=part.slice(i,j)+"<mark>"+part.slice(j,j+t.length)+"</mark>"; i=j+t.length; }
+    return out+part.slice(i);
+  }).join("");
+}
+
+/* home tiles */
+$("tiles").innerHTML = TOPICS.map((t,i)=>`
+  <button class="tile" id="tile-${i}" data-i="${i}">
+    <span class="row"><span class="n">TÉMA ${i+1}</span><span class="cnt">${t.facts.length} faktů</span></span>
+    <h2>${esc(t.title)}</h2>
+    <p>${esc(t.lead)}</p>
+  </button>`).join("");
+$("tiles").addEventListener("click",e=>{const b=e.target.closest("[data-i]"); if(b) openTopic(+b.dataset.i,true);});
+
+/* navigation lists */
+function drawNav(){
+  const searching = q.value.trim().length>=2;
+  $("side").innerHTML = `<button class="home" id="home-btn">← Všechna témata</button>` +
+    TOPICS.map((t,i)=>`<button class="navitem" data-i="${i}" aria-current="${!searching&&i===cur}"><span class="k">${i+1}</span><span>${esc(t.title)}</span></button>`).join("");
+  $("chips").innerHTML = `<button class="chip" data-home="1">Všechna témata</button>` +
+    TOPICS.map((t,i)=>`<button class="chip" data-i="${i}" aria-current="${!searching&&i===cur}">${esc(t.title)}</button>`).join("");
+  const c=$("chips").querySelector('[aria-current="true"]'); if(c) c.scrollIntoView({block:"nearest",inline:"nearest"});
+}
+function navClick(e){
+  const b=e.target.closest("button"); if(!b) return;
+  if(b.id==="home-btn"||b.dataset.home) return goHome();
+  if(b.dataset.i){ q.value=""; $("clear").hidden=true; openTopic(+b.dataset.i,true); }
+}
+$("side").addEventListener("click",navClick); $("chips").addEventListener("click",navClick);
+
+function openTopic(i, scroll){
+  cur=i; home.hidden=true; reader.hidden=false;
+  try{history.replaceState(null,"","#"+TOPICS[i].id)}catch(e){}
+  drawNav();
+  const t=TOPICS[i], prev=TOPICS[i-1], next=TOPICS[i+1];
+  view.innerHTML = `
+    <div class="head"><span class="eyebrow">Téma ${i+1} z ${TOPICS.length} · ${t.facts.length} faktů</span><h2>${esc(t.title)}</h2><p>${esc(t.lead)}</p></div>
+    <ol class="facts">${t.facts.map(f=>`<li class="fact">${inline(f)}</li>`).join("")}</ol>
+    <div class="pager">
+      ${prev?`<button class="btn" data-go="${i-1}"><small>Předchozí téma</small>${esc(prev.title)}</button>`:""}
+      ${next?`<button class="btn next" data-go="${i+1}"><small>Další téma</small>${esc(next.title)}</button>`:`<button class="btn next" data-home="1"><small>Konec</small>Zpět na všechna témata</button>`}
+    </div>`;
+  if(scroll) window.scrollTo({top:0});
+}
+view.addEventListener("click",e=>{
+  const b=e.target.closest("[data-go],[data-home]"); if(!b) return;
+  if(b.dataset.home) return goHome();
+  openTopic(+b.dataset.go,true);
+});
+function goHome(){
+  q.value=""; $("clear").hidden=true;
+  reader.hidden=true; home.hidden=false;
+  try{history.replaceState(null,"",location.pathname)}catch(e){}
+  const tl=$("tile-"+cur); if(tl) tl.focus();
+}
+
+/* search across all topics */
+function runSearch(){
+  const term=q.value.trim();
+  $("clear").hidden = !term;
+  if(term.length<2){ if(!reader.hidden) openTopic(cur); return; }
+  const t=norm(term); let total=0;
+  const groups = TOPICS.map((tp,i)=>({i,tp,hits:tp.facts.filter(f=>norm(plain(f)).includes(t))})).filter(g=>g.hits.length);
+  groups.forEach(g=>total+=g.hits.length);
+  home.hidden=true; reader.hidden=false; drawNav();
+  view.innerHTML = `
+    <div class="head"><span class="eyebrow">Hledání</span><h2>„${esc(term)}“</h2><p>${total?`${total} ${total===1?"fakt":total<5?"fakty":"faktů"} ve ${groups.length} ${groups.length===1?"tématu":"tématech"}`:"Nic nenalezeno. Zkuste jiné slovo nebo kratší tvar (např. „sój“ místo „sóje“)."}</p></div>
+    ${groups.map(g=>`<ol class="facts" style="counter-reset:f">${g.hits.map(f=>`<li class="fact"><span class="from">${esc(g.tp.title)}</span>${inline(f,term)}</li>`).join("")}</ol>`).join("")}`;
+}
+q.addEventListener("input",runSearch);
+$("clear").addEventListener("click",()=>{q.value=""; $("clear").hidden=true; q.focus(); if(!reader.hidden) openTopic(cur);});
+document.addEventListener("keydown",e=>{
+  if(e.key==="/" && document.activeElement!==q){e.preventDefault(); q.focus(); return;}
+  if(reader.hidden || document.activeElement===q || q.value.trim().length>=2) return;
+  if(e.key==="ArrowRight" && cur<TOPICS.length-1) openTopic(cur+1);
+  if(e.key==="ArrowLeft" && cur>0) openTopic(cur-1);
+  if(e.key==="Escape") goHome();
+});
+
+/* start from hash */
+(function(){
+  const h=location.hash.slice(1); const i=TOPICS.findIndex(t=>t.id===h);
+  if(i>=0) openTopic(i);
+})();
+</script>
+
+</body>
+</html>
