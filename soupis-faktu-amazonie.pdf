@@ -2,7 +2,7 @@
 %“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/F1 2 0 R /F2+0 140 0 R /F3+0 144 0 R /F4+0 148 0 R
+/F1 2 0 R /F2+0 159 0 R /F3+0 163 0 R /F4+0 167 0 R
 >>
 endobj
 2 0 obj
@@ -12,52 +12,52 @@ endobj
 endobj
 3 0 obj
 <<
-/Border [ 0 0 0 ] /Contents () /Dest [ 34 0 R /XYZ 42.51969 596.9047 0 ] /Rect [ 42.51969 734.1247 155.9164 745.4047 ] /Subtype /Link /Type /Annot
+/Border [ 0 0 0 ] /Contents () /Dest [ 33 0 R /XYZ 42.51969 596.9047 0 ] /Rect [ 42.51969 734.1247 155.9164 745.4047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 4 0 obj
 <<
-/Border [ 0 0 0 ] /Contents () /Dest [ 34 0 R /XYZ 42.51969 269.6047 0 ] /Rect [ 42.51969 719.9247 130.8191 731.2047 ] /Subtype /Link /Type /Annot
+/Border [ 0 0 0 ] /Contents () /Dest [ 33 0 R /XYZ 42.51969 226.1047 0 ] /Rect [ 42.51969 719.9247 130.8191 731.2047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 5 0 obj
 <<
-/Border [ 0 0 0 ] /Contents () /Dest [ 61 0 R /XYZ 42.51969 804.7047 0 ] /Rect [ 42.51969 705.7247 160.0794 717.0047 ] /Subtype /Link /Type /Annot
+/Border [ 0 0 0 ] /Contents () /Dest [ 60 0 R /XYZ 42.51969 739.7047 0 ] /Rect [ 42.51969 705.7247 160.0794 717.0047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 6 0 obj
 <<
-/Border [ 0 0 0 ] /Contents () /Dest [ 61 0 R /XYZ 42.51969 587.8047 0 ] /Rect [ 42.51969 691.5247 147.5399 702.8047 ] /Subtype /Link /Type /Annot
+/Border [ 0 0 0 ] /Contents () /Dest [ 60 0 R /XYZ 42.51969 522.8047 0 ] /Rect [ 42.51969 691.5247 147.5399 702.8047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 7 0 obj
 <<
-/Border [ 0 0 0 ] /Contents () /Dest [ 61 0 R /XYZ 42.51969 262.9047 0 ] /Rect [ 42.51969 677.3247 173.1466 688.6047 ] /Subtype /Link /Type /Annot
+/Border [ 0 0 0 ] /Contents () /Dest [ 88 0 R /XYZ 42.51969 804.7047 0 ] /Rect [ 42.51969 677.3247 173.1466 688.6047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 8 0 obj
 <<
-/Border [ 0 0 0 ] /Contents () /Dest [ 89 0 R /XYZ 42.51969 641.9047 0 ] /Rect [ 42.51969 663.1247 109.4029 674.4047 ] /Subtype /Link /Type /Annot
+/Border [ 0 0 0 ] /Contents () /Dest [ 88 0 R /XYZ 42.51969 410.5047 0 ] /Rect [ 42.51969 663.1247 109.4029 674.4047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 9 0 obj
 <<
-/Border [ 0 0 0 ] /Contents () /Dest [ 89 0 R /XYZ 42.51969 358.1047 0 ] /Rect [ 42.51969 648.9247 130.3142 660.2047 ] /Subtype /Link /Type /Annot
+/Border [ 0 0 0 ] /Contents () /Dest [ 117 0 R /XYZ 42.51969 804.7047 0 ] /Rect [ 42.51969 648.9247 130.3142 660.2047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 10 0 obj
 <<
-/Border [ 0 0 0 ] /Contents () /Dest [ 122 0 R /XYZ 42.51969 804.7047 0 ] /Rect [ 42.51969 634.7247 123.5075 646.0047 ] /Subtype /Link /Type /Annot
+/Border [ 0 0 0 ] /Contents () /Dest [ 117 0 R /XYZ 42.51969 503.2047 0 ] /Rect [ 42.51969 634.7247 123.5075 646.0047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 11 0 obj
 <<
-/Border [ 0 0 0 ] /Contents () /Dest [ 122 0 R /XYZ 42.51969 438.7047 0 ] /Rect [ 42.51969 620.5247 174.7118 631.8047 ] /Subtype /Link /Type /Annot
+/Border [ 0 0 0 ] /Contents () /Dest [ 152 0 R /XYZ 42.51969 804.7047 0 ] /Rect [ 42.51969 620.5247 174.7118 631.8047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 12 0 obj
 <<
-/Border [ 0 0 0 ] /Contents () /Dest [ 122 0 R /XYZ 42.51969 200.8047 0 ] /Rect [ 42.51969 606.3247 156.4396 617.6047 ] /Subtype /Link /Type /Annot
+/Border [ 0 0 0 ] /Contents () /Dest [ 152 0 R /XYZ 42.51969 484.6047 0 ] /Rect [ 42.51969 606.3247 156.4396 617.6047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 13 0 obj
@@ -126,827 +126,939 @@ endobj
 22 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.climatepolicyinitiative.org/pt-br/?p=34035)
->> /Border [ 0 0 0 ] /Rect [ 153.9008 307.5647 253.6289 319.2047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://jovempan.com.br/brasil/mais-de-86-milhoes-de-brasileiros-deixaram-pobreza-em-2024-aponta-ibge/)
+>> /Border [ 0 0 0 ] /Rect [ 420.7293 348.9647 516.692 360.6047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 23 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.pik-potsdam.de/en/institute/departments/earth-system-analysis/news)
->> /Border [ 0 0 0 ] /Rect [ 242.8585 279.3647 299.4671 291.0047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://imazon.fly.storage.tigris.dev/wp-backup/wp-content/uploads/2023/07/Resumo-Executivo-IPS-Amazonia-2023.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 319.3739 320.7647 447.7047 332.4047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 24 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://publications.pik-potsdam.de/pubman/item/item_34414)
->> /Border [ 0 0 0 ] /Rect [ 480.7785 195.6647 546.8308 207.3047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.climatepolicyinitiative.org/pt-br/?p=34035)
+>> /Border [ 0 0 0 ] /Rect [ 153.9008 264.0647 253.6289 275.7047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 25 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.pik-potsdam.de/@@multilingual-selector/58e4e869121a4af2acc6f2ab73f1fe03/en)
->> /Border [ 0 0 0 ] /Rect [ 340.9269 180.3647 397.5355 192.0047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.pik-potsdam.de/en/institute/departments/earth-system-analysis/news)
+>> /Border [ 0 0 0 ] /Rect [ 242.8585 235.8647 299.4671 247.5047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 26 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://carboncopy.info/deforestation-may-push-amazon-near-tipping-point-at-even-1-5-c-report)
->> /Border [ 0 0 0 ] /Rect [ 513.4476 165.0647 545.2615 176.7047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://publications.pik-potsdam.de/pubman/item/item_34414)
+>> /Border [ 0 0 0 ] /Rect [ 480.7785 152.1647 546.8308 163.8047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 27 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://carboncopy.info/deforestation-may-push-amazon-near-tipping-point-at-even-1-5-c-report)
->> /Border [ 0 0 0 ] /Rect [ 52.51969 152.1647 75.16407 163.8047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.pik-potsdam.de/@@multilingual-selector/58e4e869121a4af2acc6f2ab73f1fe03/en)
+>> /Border [ 0 0 0 ] /Rect [ 340.9269 136.8647 397.5355 148.5047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 28 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.pik-potsdam.de/@@multilingual-selector/58e4e869121a4af2acc6f2ab73f1fe03/en)
->> /Border [ 0 0 0 ] /Rect [ 440.6976 136.8647 497.3062 148.5047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://carboncopy.info/deforestation-may-push-amazon-near-tipping-point-at-even-1-5-c-report)
+>> /Border [ 0 0 0 ] /Rect [ 513.4476 121.5647 545.2615 133.2047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 29 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://reddmonitor.substack.com/p/new-study-warns-that-deforestation)
->> /Border [ 0 0 0 ] /Rect [ 364.6417 121.5647 427.7011 133.2047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://carboncopy.info/deforestation-may-push-amazon-near-tipping-point-at-even-1-5-c-report)
+>> /Border [ 0 0 0 ] /Rect [ 52.51969 108.6647 75.16407 120.3047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 30 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://news.mongabay.com/2026/05/deforestation-and-warming-could-push-amazon-to-tipping-point-by-2040s-study/)
->> /Border [ 0 0 0 ] /Rect [ 261.7233 108.6647 307.0215 120.3047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.pik-potsdam.de/@@multilingual-selector/58e4e869121a4af2acc6f2ab73f1fe03/en)
+>> /Border [ 0 0 0 ] /Rect [ 440.6976 93.36472 497.3062 105.0047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 31 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://reddmonitor.substack.com/p/new-study-warns-that-deforestation)
->> /Border [ 0 0 0 ] /Rect [ 319.9517 80.46472 383.0112 92.10472 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 364.6417 78.06472 427.7011 89.70472 ] /Subtype /Link /Type /Annot
 >>
 endobj
 32 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://eprints.whiterose.ac.uk/172427/)
->> /Border [ 0 0 0 ] /Rect [ 240.694 52.26472 335.0369 63.90472 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://news.mongabay.com/2026/05/deforestation-and-warming-could-push-amazon-to-tipping-point-by-2040s-study/)
+>> /Border [ 0 0 0 ] /Rect [ 261.7233 65.16472 307.0215 76.80472 ] /Subtype /Link /Type /Annot
 >>
 endobj
 33 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://news.mongabay.com/2021/07/brazils-amazon-is-now-a-carbon-source-unprecedented-study-reveals/)
->> /Border [ 0 0 0 ] /Rect [ 340.4269 52.26472 385.7251 63.90472 ] /Subtype /Link /Type /Annot
->>
-endobj
-34 0 obj
-<<
 /Annots [ 3 0 R 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 
   13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 
-  23 0 R 24 0 R 25 0 R 26 0 R 27 0 R 28 0 R 29 0 R 30 0 R 31 0 R 32 0 R 
-  33 0 R ] /Contents 152 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 151 0 R /Resources <<
+  23 0 R 24 0 R 25 0 R 26 0 R 27 0 R 28 0 R 29 0 R 30 0 R 31 0 R 32 0 R ] /Contents 171 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 170 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
 
 >> /Type /Page
+>>
+endobj
+34 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://reddmonitor.substack.com/p/new-study-warns-that-deforestation)
+>> /Border [ 0 0 0 ] /Rect [ 319.9517 777.6647 383.0112 789.3047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 35 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://portalamazonia.com/meio-ambiente/rio-negro-manaus-volta-a-encher-2024/)
->> /Border [ 0 0 0 ] /Rect [ 101.588 730.7647 172.7561 742.4047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://eprints.whiterose.ac.uk/172427/)
+>> /Border [ 0 0 0 ] /Rect [ 240.694 749.4647 335.0369 761.1047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 36 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://ihu.unisinos.br/644482-seca-extrema-rio-negro-atinge-seu-menor-nivel-em-122-anos)
->> /Border [ 0 0 0 ] /Rect [ 335.5653 715.4647 392.1645 727.1047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://news.mongabay.com/2021/07/brazils-amazon-is-now-a-carbon-source-unprecedented-study-reveals/)
+>> /Border [ 0 0 0 ] /Rect [ 340.4269 749.4647 385.7251 761.1047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 37 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://portalamazonia.com/meio-ambiente/seca-historica-rio-negro-manaus/)
->> /Border [ 0 0 0 ] /Rect [ 199.1753 687.2647 270.3434 698.9047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://portalamazonia.com/meio-ambiente/rio-negro-manaus-volta-a-encher-2024/)
+>> /Border [ 0 0 0 ] /Rect [ 101.588 665.7647 172.7561 677.4047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 38 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://canaltech.com.br/meio-ambiente/rio-negro-bate-recorde-historico-de-nivel-baixo-devido-a-seca-na-amazonia/)
->> /Border [ 0 0 0 ] /Rect [ 303.202 671.9647 346.8804 683.6047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://ihu.unisinos.br/644482-seca-extrema-rio-negro-atinge-seu-menor-nivel-em-122-anos)
+>> /Border [ 0 0 0 ] /Rect [ 335.5653 650.4647 392.1645 662.1047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 39 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://olhardireto.com.br/noticias/nivel-do-rio-negro-em-manaus-e-o-menor-ja-registrado)
->> /Border [ 0 0 0 ] /Rect [ 424.5041 656.6647 476.7932 668.3047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://portalamazonia.com/meio-ambiente/seca-historica-rio-negro-manaus/)
+>> /Border [ 0 0 0 ] /Rect [ 199.1753 622.2647 270.3434 633.9047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 40 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.oliberal.com/cop-30/inpe-para-tem-maior-reducao-de-desmatamento-da-amazonia-legal-em-2025-1.1044330)
->> /Border [ 0 0 0 ] /Rect [ 341.4573 641.3647 380.8162 653.0047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://canaltech.com.br/meio-ambiente/rio-negro-bate-recorde-historico-de-nivel-baixo-devido-a-seca-na-amazonia/)
+>> /Border [ 0 0 0 ] /Rect [ 303.202 606.9647 346.8804 618.6047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 41 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://rainforest-rescue.org/updates/11693/ecuador-referendum-halts-oil-drilling-in-yasuni-national-park?t=9143)
->> /Border [ 0 0 0 ] /Rect [ 323.7029 597.5647 403.4958 609.2047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://olhardireto.com.br/noticias/nivel-do-rio-negro-em-manaus-e-o-menor-ja-registrado)
+>> /Border [ 0 0 0 ] /Rect [ 424.5041 591.6647 476.7932 603.3047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 42 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.beefmagazine.com/market-news/jbs-among-meatpackers-fined-as-brazil-cracks-down-on-illegal-cattle)
->> /Border [ 0 0 0 ] /Rect [ 275.6934 526.7647 340.4011 538.4047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.oliberal.com/cop-30/inpe-para-tem-maior-reducao-de-desmatamento-da-amazonia-legal-em-2025-1.1044330)
+>> /Border [ 0 0 0 ] /Rect [ 341.4573 576.3647 380.8162 588.0047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 43 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://agenciagov.ebc.com.br/noticias/202309/territorios-indigenas-sao-os-mais-preservados-do-pais)
->> /Border [ 0 0 0 ] /Rect [ 135.0265 513.8647 266.0381 525.5047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://rainforest-rescue.org/updates/11693/ecuador-referendum-halts-oil-drilling-in-yasuni-national-park?t=9143)
+>> /Border [ 0 0 0 ] /Rect [ 323.7029 532.5647 403.4958 544.2047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 44 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.foodagribusiness.world/poultry/grain-traders-abandon-soy-moratorium-as-tax-incentives-end)
->> /Border [ 0 0 0 ] /Rect [ 149.5623 485.6647 239.0647 497.3047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.beefmagazine.com/market-news/jbs-among-meatpackers-fined-as-brazil-cracks-down-on-illegal-cattle)
+>> /Border [ 0 0 0 ] /Rect [ 275.6934 461.7647 340.4011 473.4047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 45 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://cnabrasil.org.br/noticias/cna-e-cepea-apontam-crescimento-de-12-2-do-pib-do-agronegocio-em-2025)
->> /Border [ 0 0 0 ] /Rect [ 88.64366 457.4647 109.1235 469.1047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://agenciagov.ebc.com.br/noticias/202309/territorios-indigenas-sao-os-mais-preservados-do-pais)
+>> /Border [ 0 0 0 ] /Rect [ 135.0265 448.8647 266.0381 460.5047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 46 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://news.mongabay.com/2020/07/investigation-links-meat-giant-jbs-to-amazon-deforestation/)
->> /Border [ 0 0 0 ] /Rect [ 294.044 429.2647 339.3422 440.9047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.foodagribusiness.world/poultry/grain-traders-abandon-soy-moratorium-as-tax-incentives-end)
+>> /Border [ 0 0 0 ] /Rect [ 149.5623 420.6647 239.0647 432.3047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 47 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.regnskog.no/en/news/verdens-storste-kjottprodusent-anklaget-for-avskoging-i-amazonas)
->> /Border [ 0 0 0 ] /Rect [ 406.1745 413.9647 537.1908 425.6047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://cnabrasil.org.br/noticias/cna-e-cepea-apontam-crescimento-de-12-2-do-pib-do-agronegocio-em-2025)
+>> /Border [ 0 0 0 ] /Rect [ 88.64366 392.4647 109.1235 404.1047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 48 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.beefmagazine.com/market-news/jbs-among-meatpackers-fined-as-brazil-cracks-down-on-illegal-cattle)
->> /Border [ 0 0 0 ] /Rect [ 368.4591 398.6647 433.1669 410.3047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://news.mongabay.com/2020/07/investigation-links-meat-giant-jbs-to-amazon-deforestation/)
+>> /Border [ 0 0 0 ] /Rect [ 294.044 364.2647 339.3422 375.9047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 49 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.aljazeera.com/news/2025/10/15/is-your-beef-linked-to-amazon-deforestation-a-report-highlights-loopholes)
->> /Border [ 0 0 0 ] /Rect [ 298.9319 354.8647 344.7606 366.5047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.regnskog.no/en/news/verdens-storste-kjottprodusent-anklaget-for-avskoging-i-amazonas)
+>> /Border [ 0 0 0 ] /Rect [ 406.1745 348.9647 537.1908 360.6047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 50 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://globalwitness.org/en/press-releases/banks-and-financiers-back-beef-giant-jbs-to-the-tune-of-almost-1bn-despite-links-to-widespread-deforestation-land-grabbing-and-slave-labour-in-the-amazon-with-tainted-beef-and-leather-entering-british-and-european-markets)
->> /Border [ 0 0 0 ] /Rect [ 55.74986 329.0647 120.9786 340.7047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.beefmagazine.com/market-news/jbs-among-meatpackers-fined-as-brazil-cracks-down-on-illegal-cattle)
+>> /Border [ 0 0 0 ] /Rect [ 368.4591 333.6647 433.1669 345.3047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 51 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.beefmagazine.com/market-news/jbs-among-meatpackers-fined-as-brazil-cracks-down-on-illegal-cattle)
->> /Border [ 0 0 0 ] /Rect [ 185.1511 300.8647 249.8588 312.5047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.agrolink.com.br/noticias/area-preservada-no-meio-rural-e-de-282-8-milhoes-de-hectares_457620.html)
+>> /Border [ 0 0 0 ] /Rect [ 275.7381 305.4647 418.0553 317.1047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 52 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://news.mongabay.com/short-article/2025/10/brazil-soy-deal-that-curbs-amazon-deforestation-to-be-suspended-in-2026/)
->> /Border [ 0 0 0 ] /Rect [ 204.0301 272.6647 249.3283 284.3047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.band.com.br/agro/noticias/pib-de-mato-grosso-cresce-mais-de-1230-em-20-anos-202411190804)
+>> /Border [ 0 0 0 ] /Rect [ 353.357 277.2647 423.45 288.9047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 53 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.greenpeace.org/luxembourg/de/aktualitaet/26955/amazonas-in-gefahr-das-soja-moratorium-muss-bleiben/)
->> /Border [ 0 0 0 ] /Rect [ 238.539 188.9647 291.9269 200.6047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.canalrural.com.br/noticias/brasil-vai-responder-por-crescimento-producao-alimentos-mundo-afirma-fao-26714/)
+>> /Border [ 0 0 0 ] /Rect [ 170.5869 249.0647 221.8055 260.7047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 54 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.foodagribusiness.world/poultry/grain-traders-abandon-soy-moratorium-as-tax-incentives-end)
->> /Border [ 0 0 0 ] /Rect [ 360.9094 173.6647 450.4118 185.3047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.aljazeera.com/news/2025/10/15/is-your-beef-linked-to-amazon-deforestation-a-report-highlights-loopholes)
+>> /Border [ 0 0 0 ] /Rect [ 298.9319 205.2647 344.7606 216.9047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 55 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://news.mongabay.com/short-article/2025/10/brazil-soy-deal-that-curbs-amazon-deforestation-to-be-suspended-in-2026/)
->> /Border [ 0 0 0 ] /Rect [ 55.74986 145.4647 101.0481 157.1047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://globalwitness.org/en/press-releases/banks-and-financiers-back-beef-giant-jbs-to-the-tune-of-almost-1bn-despite-links-to-widespread-deforestation-land-grabbing-and-slave-labour-in-the-amazon-with-tainted-beef-and-leather-entering-british-and-european-markets)
+>> /Border [ 0 0 0 ] /Rect [ 55.74986 179.4647 120.9786 191.1047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 56 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.naturebasedsolutionsinitiative.org/news/soy-moratorium-amazon/)
->> /Border [ 0 0 0 ] /Rect [ 515.6216 130.1647 537.1861 141.8047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.beefmagazine.com/market-news/jbs-among-meatpackers-fined-as-brazil-cracks-down-on-illegal-cattle)
+>> /Border [ 0 0 0 ] /Rect [ 185.1511 151.2647 249.8588 162.9047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 57 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.naturebasedsolutionsinitiative.org/news/soy-moratorium-amazon/)
->> /Border [ 0 0 0 ] /Rect [ 52.51969 117.2647 81.62916 128.9047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://news.mongabay.com/short-article/2025/10/brazil-soy-deal-that-curbs-amazon-deforestation-to-be-suspended-in-2026/)
+>> /Border [ 0 0 0 ] /Rect [ 204.0301 123.0647 249.3283 134.7047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 58 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://globalcanopy.org/insights/insight/amazon-soy-moratorium-almost-20-years-of-success-tackling-deforestation-under-threat/)
->> /Border [ 0 0 0 ] /Rect [ 200.7715 89.06472 264.9393 100.7047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://mercadoeconsumo.com.br/11/09/2025/economia/sorriso-no-mt-tem-maior-pib-agricola-do-pais-veja-o-ranking/)
+>> /Border [ 0 0 0 ] /Rect [ 336.1026 94.86472 474.6544 106.5047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 59 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://globalcanopy.org/insights/insight/amazon-soy-moratorium-almost-20-years-of-success-tackling-deforestation-under-threat/)
->> /Border [ 0 0 0 ] /Rect [ 102.6585 60.86472 166.8262 72.50472 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://blogs.worldbank.org/en/impactevaluations/how-has-our-rising-palm-oil-consumption-affected-communities-where-it-comes-guest-post-ryan-edwards)
+>> /Border [ 0 0 0 ] /Rect [ 75.69454 53.76472 239.6094 65.40472 ] /Subtype /Link /Type /Annot
 >>
 endobj
 60 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://www.greenpeace.org/luxembourg/de/aktualitaet/26955/amazonas-in-gefahr-das-soja-moratorium-muss-bleiben/)
->> /Border [ 0 0 0 ] /Rect [ 172.2162 60.86472 225.6041 72.50472 ] /Subtype /Link /Type /Annot
->>
-endobj
-61 0 obj
-<<
-/Annots [ 35 0 R 36 0 R 37 0 R 38 0 R 39 0 R 40 0 R 41 0 R 42 0 R 43 0 R 44 0 R 
-  45 0 R 46 0 R 47 0 R 48 0 R 49 0 R 50 0 R 51 0 R 52 0 R 53 0 R 54 0 R 
-  55 0 R 56 0 R 57 0 R 58 0 R 59 0 R 60 0 R ] /Contents 153 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 151 0 R /Resources <<
+/Annots [ 34 0 R 35 0 R 36 0 R 37 0 R 38 0 R 39 0 R 40 0 R 41 0 R 42 0 R 43 0 R 
+  44 0 R 45 0 R 46 0 R 47 0 R 48 0 R 49 0 R 50 0 R 51 0 R 52 0 R 53 0 R 
+  54 0 R 55 0 R 56 0 R 57 0 R 58 0 R 59 0 R ] /Contents 172 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 170 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
 
 >> /Type /Page
+>>
+endobj
+61 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.greenpeace.org/luxembourg/de/aktualitaet/26955/amazonas-in-gefahr-das-soja-moratorium-muss-bleiben/)
+>> /Border [ 0 0 0 ] /Rect [ 238.539 730.7647 291.9269 742.4047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 62 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://hlc.com/en/publications/eu-deforestation-regulation-commission-publishes-simplification-package-ahead-of-december-2026)
->> /Border [ 0 0 0 ] /Rect [ 408.9284 777.6647 428.3331 789.3047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.foodagribusiness.world/poultry/grain-traders-abandon-soy-moratorium-as-tax-incentives-end)
+>> /Border [ 0 0 0 ] /Rect [ 360.9094 715.4647 450.4118 727.1047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 63 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://kpmg.com/pl/en/insights/law/legal-alert-eudr-the-european-parliament-adopts-proposal-for-simplification-measures-and-a-one-year-postponement-of-obligations.html)
->> /Border [ 0 0 0 ] /Rect [ 433.7231 777.6647 462.2878 789.3047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://news.mongabay.com/short-article/2025/10/brazil-soy-deal-that-curbs-amazon-deforestation-to-be-suspended-in-2026/)
+>> /Border [ 0 0 0 ] /Rect [ 55.74986 687.2647 101.0481 698.9047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 64 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.foodagribusiness.world/poultry/grain-traders-abandon-soy-moratorium-as-tax-incentives-end)
->> /Border [ 0 0 0 ] /Rect [ 274.1562 733.8647 363.6586 745.5047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.naturebasedsolutionsinitiative.org/news/soy-moratorium-amazon/)
+>> /Border [ 0 0 0 ] /Rect [ 515.6216 671.9647 537.1861 683.6047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 65 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://abcnews.com/Business/wireStory/brazil-supreme-court-upholds-laws-led-downfall-amazon-135592816)
->> /Border [ 0 0 0 ] /Rect [ 425.6239 720.9647 509.7174 732.6047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.naturebasedsolutionsinitiative.org/news/soy-moratorium-amazon/)
+>> /Border [ 0 0 0 ] /Rect [ 52.51969 659.0647 81.62916 670.7047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 66 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://abcnews.com/Business/wireStory/brazil-supreme-court-upholds-laws-led-downfall-amazon-135592816)
->> /Border [ 0 0 0 ] /Rect [ 89.71407 679.8647 173.8076 691.5047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://globalcanopy.org/insights/insight/amazon-soy-moratorium-almost-20-years-of-success-tackling-deforestation-under-threat/)
+>> /Border [ 0 0 0 ] /Rect [ 200.7715 630.8647 264.9393 642.5047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 67 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://kpmg.com/pl/en/insights/law/legal-alert-eudr-the-european-parliament-adopts-proposal-for-simplification-measures-and-a-one-year-postponement-of-obligations.html)
->> /Border [ 0 0 0 ] /Rect [ 326.9425 651.6647 355.5073 663.3047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://globalcanopy.org/insights/insight/amazon-soy-moratorium-almost-20-years-of-success-tackling-deforestation-under-threat/)
+>> /Border [ 0 0 0 ] /Rect [ 102.6585 602.6647 166.8262 614.3047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 68 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.cartacapital.com.br/?p=324666)
->> /Border [ 0 0 0 ] /Rect [ 145.7922 567.9647 299.9881 579.6047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.greenpeace.org/luxembourg/de/aktualitaet/26955/amazonas-in-gefahr-das-soja-moratorium-muss-bleiben/)
+>> /Border [ 0 0 0 ] /Rect [ 172.2162 602.6647 225.6041 614.3047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 69 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://escolhas.org/wp-content/uploads/2022/12/Ouro-200-toneladas.pdf)
->> /Border [ 0 0 0 ] /Rect [ 424.5535 567.9647 525.3663 579.6047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://hlc.com/en/publications/eu-deforestation-regulation-commission-publishes-simplification-package-ahead-of-december-2026)
+>> /Border [ 0 0 0 ] /Rect [ 408.9284 574.4647 428.3331 586.1047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 70 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://jornalgrandebahia.com.br/2022/02/segundo-estudo-brasil-vendeu-229-toneladas-de-ouro-ilegalmente/)
->> /Border [ 0 0 0 ] /Rect [ 330.6964 552.6647 419.6683 564.3047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://kpmg.com/pl/en/insights/law/legal-alert-eudr-the-european-parliament-adopts-proposal-for-simplification-measures-and-a-one-year-postponement-of-obligations.html)
+>> /Border [ 0 0 0 ] /Rect [ 433.7231 574.4647 462.2878 586.1047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 71 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://dol.com.br/noticias/para/799700/para-e-um-dos-lideres-da-extracao-ilegal-de-ouro)
->> /Border [ 0 0 0 ] /Rect [ 352.315 539.7647 372.2597 551.4047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://earth.org/brazil-urges-eu-to-postpone-and-reassess-unilateral-anti-deforestation-law-over-fears-it-will-affect-trade-relations/)
+>> /Border [ 0 0 0 ] /Rect [ 390.5562 546.2647 472.5041 557.9047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 72 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.ihu.unisinos.br/categorias/617955-terras-indigenas-funcionam-como-salvaguarda-ao-desmatamento)
->> /Border [ 0 0 0 ] /Rect [ 115.0629 511.5647 247.1354 523.2047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.foodagribusiness.world/poultry/grain-traders-abandon-soy-moratorium-as-tax-incentives-end)
+>> /Border [ 0 0 0 ] /Rect [ 274.1562 502.4647 363.6586 514.1047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 73 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.cnnbrasil.com.br/nacional/pf-apreende-mais-de-103-kg-de-mercurio-do-garimpo-ilegal-na-fronteira-de-roraima-com-a-guiana/)
->> /Border [ 0 0 0 ] /Rect [ 55.74986 483.3647 103.7147 495.0047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://abcnews.com/Business/wireStory/brazil-supreme-court-upholds-laws-led-downfall-amazon-135592816)
+>> /Border [ 0 0 0 ] /Rect [ 425.6239 489.5647 509.7174 501.2047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 74 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://dunyanews.tv/en/World/697578-Operation-Exodus-Brazil-miners-flee-Yanomami-land)
->> /Border [ 0 0 0 ] /Rect [ 109.673 455.1647 207.786 466.8047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://abcnews.com/Business/wireStory/brazil-supreme-court-upholds-laws-led-downfall-amazon-135592816)
+>> /Border [ 0 0 0 ] /Rect [ 89.71407 448.4647 173.8076 460.1047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 75 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://sbtnews.sbt.com.br/noticia/eleicoes/flavio-x-lula-o-que-defendem-para-meio-ambiente-e-energia)
->> /Border [ 0 0 0 ] /Rect [ 417.9964 439.8647 463.8109 451.5047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://kpmg.com/pl/en/insights/law/legal-alert-eudr-the-european-parliament-adopts-proposal-for-simplification-measures-and-a-one-year-postponement-of-obligations.html)
+>> /Border [ 0 0 0 ] /Rect [ 326.9425 420.2647 355.5073 431.9047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 76 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://jornalcontabil.com.br/noticia/resultados-da-operacao-contra-o-garimpo-ilegal-em-terra-indigena-yanomami/)
->> /Border [ 0 0 0 ] /Rect [ 139.3366 396.0647 290.3023 407.7047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.cartacapital.com.br/?p=324666)
+>> /Border [ 0 0 0 ] /Rect [ 145.7922 336.5647 299.9881 348.2047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 77 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://indiaenvironmentportal.org.in/news-clippings/fight-against-illegal-amazon-gold-mining-intensifies)
->> /Border [ 0 0 0 ] /Rect [ 443.4136 396.0647 488.1624 407.7047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://escolhas.org/wp-content/uploads/2022/12/Ouro-200-toneladas.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 424.5535 336.5647 525.3663 348.2047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 78 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://portalamazonia.com/roraima/exercito-desativa-seis-garimpos-na-terra-yanomami-e-apreende-aviao-ouro-e-mercurio-em-roraima/)
->> /Border [ 0 0 0 ] /Rect [ 164.6759 367.8647 235.844 379.5047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://jornalgrandebahia.com.br/2022/02/segundo-estudo-brasil-vendeu-229-toneladas-de-ouro-ilegalmente/)
+>> /Border [ 0 0 0 ] /Rect [ 330.6964 321.2647 419.6683 332.9047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 79 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://exame.com/esg/brasil-chega-a-um-terco-de-perdas-das-areas-naturais-em-2023-e-atinge-recorde/)
->> /Border [ 0 0 0 ] /Rect [ 267.599 297.0647 373.2618 308.7047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://dol.com.br/noticias/para/799700/para-e-um-dos-lideres-da-extracao-ilegal-de-ouro)
+>> /Border [ 0 0 0 ] /Rect [ 352.315 308.3647 372.2597 320.0047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 80 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://ihu.unisinos.br/categorias/644315-protecao-de-povos-originarios-faz-de-terras-indigenas-as-areas-mais-preservadas-do-brasil)
->> /Border [ 0 0 0 ] /Rect [ 466.0086 281.7647 552.8655 293.4047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.ihu.unisinos.br/categorias/617955-terras-indigenas-funcionam-como-salvaguarda-ao-desmatamento)
+>> /Border [ 0 0 0 ] /Rect [ 115.0629 280.1647 247.1354 291.8047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 81 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://ihu.unisinos.br/categorias/644315-protecao-de-povos-originarios-faz-de-terras-indigenas-as-areas-mais-preservadas-do-brasil)
->> /Border [ 0 0 0 ] /Rect [ 52.51969 268.8647 85.41348 280.5047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.cnnbrasil.com.br/nacional/pf-apreende-mais-de-103-kg-de-mercurio-do-garimpo-ilegal-na-fronteira-de-roraima-com-a-guiana/)
+>> /Border [ 0 0 0 ] /Rect [ 55.74986 251.9647 103.7147 263.6047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 82 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.maisgoias.com.br/brasil/stf-derruba-marco-temporal-e-determina-a-conclusao-de-demarcacoes/)
->> /Border [ 0 0 0 ] /Rect [ 436.939 240.6647 485.4532 252.3047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://dunyanews.tv/en/World/697578-Operation-Exodus-Brazil-miners-flee-Yanomami-land)
+>> /Border [ 0 0 0 ] /Rect [ 109.673 223.7647 207.786 235.4047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 83 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://lexlegal.com.br/?p=48870)
->> /Border [ 0 0 0 ] /Rect [ 434.7441 225.3647 476.8121 237.0047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://sbtnews.sbt.com.br/noticia/eleicoes/flavio-x-lula-o-que-defendem-para-meio-ambiente-e-energia)
+>> /Border [ 0 0 0 ] /Rect [ 417.9964 208.4647 463.8109 220.1047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 84 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://lexlegal.com.br/?p=48870)
->> /Border [ 0 0 0 ] /Rect [ 431.5423 210.0647 473.6104 221.7047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://jornalcontabil.com.br/noticia/resultados-da-operacao-contra-o-garimpo-ilegal-em-terra-indigena-yanomami/)
+>> /Border [ 0 0 0 ] /Rect [ 139.3366 164.6647 290.3023 176.3047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 85 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://outraspalavras.net/terraeantropoceno/amazonia-por-que-indigenas-voltam-a-luta/)
->> /Border [ 0 0 0 ] /Rect [ 474.084 194.7647 543.6275 206.4047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://indiaenvironmentportal.org.in/news-clippings/fight-against-illegal-amazon-gold-mining-intensifies)
+>> /Border [ 0 0 0 ] /Rect [ 443.4136 164.6647 488.1624 176.3047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 86 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://exame.com/esg/brasil-chega-a-um-terco-de-perdas-das-areas-naturais-em-2023-e-atinge-recorde/)
->> /Border [ 0 0 0 ] /Rect [ 393.8479 150.9647 499.5107 162.6047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://portalamazonia.com/roraima/exercito-desativa-seis-garimpos-na-terra-yanomami-e-apreende-aviao-ouro-e-mercurio-em-roraima/)
+>> /Border [ 0 0 0 ] /Rect [ 164.6759 136.4647 235.844 148.1047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 87 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.thegardenisland.com/2023/02/08/news/brazil-pushes-illegal-miners-out-of-yanomami-territory/)
->> /Border [ 0 0 0 ] /Rect [ 341.5162 122.7647 442.8831 134.4047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.itatiaia.com.br/turismo/viagem-e-gastronomia/mosaico-de-carajas-como-conservacao-e-mineracao-coexistem-na-amazonia/)
+>> /Border [ 0 0 0 ] /Rect [ 420.7455 108.2647 449.3245 119.9047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 88 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://outraspalavras.net/terraeantropoceno/amazonia-por-que-indigenas-voltam-a-luta/)
->> /Border [ 0 0 0 ] /Rect [ 283.823 94.56472 353.3665 106.2047 ] /Subtype /Link /Type /Annot
->>
-endobj
-89 0 obj
-<<
-/Annots [ 62 0 R 63 0 R 64 0 R 65 0 R 66 0 R 67 0 R 68 0 R 69 0 R 70 0 R 71 0 R 
-  72 0 R 73 0 R 74 0 R 75 0 R 76 0 R 77 0 R 78 0 R 79 0 R 80 0 R 81 0 R 
-  82 0 R 83 0 R 84 0 R 85 0 R 86 0 R 87 0 R 88 0 R ] /Contents 154 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 151 0 R /Resources <<
+/Annots [ 61 0 R 62 0 R 63 0 R 64 0 R 65 0 R 66 0 R 67 0 R 68 0 R 69 0 R 70 0 R 
+  71 0 R 72 0 R 73 0 R 74 0 R 75 0 R 76 0 R 77 0 R 78 0 R 79 0 R 80 0 R 
+  81 0 R 82 0 R 83 0 R 84 0 R 85 0 R 86 0 R 87 0 R ] /Contents 173 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 170 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
 
 >> /Type /Page
+>>
+endobj
+89 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://exame.com/esg/brasil-chega-a-um-terco-de-perdas-das-areas-naturais-em-2023-e-atinge-recorde/)
+>> /Border [ 0 0 0 ] /Rect [ 267.599 743.6647 373.2618 755.3047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 90 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://abcnews.com/Business/wireStory/brazil-supreme-court-upholds-laws-led-downfall-amazon-135592816)
->> /Border [ 0 0 0 ] /Rect [ 475.6801 743.6647 532.8239 755.3047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://ihu.unisinos.br/categorias/644315-protecao-de-povos-originarios-faz-de-terras-indigenas-as-areas-mais-preservadas-do-brasil)
+>> /Border [ 0 0 0 ] /Rect [ 466.0086 728.3647 552.8655 740.0047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 91 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://abcnews.com/Business/wireStory/brazil-supreme-court-upholds-laws-led-downfall-amazon-135592816)
->> /Border [ 0 0 0 ] /Rect [ 52.51969 730.7647 76.77442 742.4047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://ihu.unisinos.br/categorias/644315-protecao-de-povos-originarios-faz-de-terras-indigenas-as-areas-mais-preservadas-do-brasil)
+>> /Border [ 0 0 0 ] /Rect [ 52.51969 715.4647 85.41348 727.1047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 92 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://news.mongabay.com/short-article/2025/12/brazil-votes-to-allow-most-projects-farms-to-skip-environmental-licensing/)
->> /Border [ 0 0 0 ] /Rect [ 152.8067 661.4647 198.1049 673.1047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.maisgoias.com.br/brasil/stf-derruba-marco-temporal-e-determina-a-conclusao-de-demarcacoes/)
+>> /Border [ 0 0 0 ] /Rect [ 436.939 687.2647 485.4532 698.9047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 93 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://ipam.org.br/overturning-the-vetoes-of-the-environmental-licensing-law-is-a-historic-defeat-for-the-brazilian-people-laments-ipam/)
->> /Border [ 0 0 0 ] /Rect [ 354.4207 646.1647 378.1355 657.8047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://lexlegal.com.br/?p=48870)
+>> /Border [ 0 0 0 ] /Rect [ 434.7441 671.9647 476.8121 683.6047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 94 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.mayerbrown.com/de/insights/publications/2025/12/brazilian-congress-overrides-presidential-vetoes-to-the-general-environmental-licensing-law-and-approves-new-rules-on-the-special-environmental-license)
->> /Border [ 0 0 0 ] /Rect [ 443.4183 633.2647 500.5574 644.9047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://lexlegal.com.br/?p=48870)
+>> /Border [ 0 0 0 ] /Rect [ 431.5423 656.6647 473.6104 668.3047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 95 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.poder360.com.br/meio-ambiente/noruega-anuncia-mais-r-245-milhoes-para-o-fundo-amazonia-na-cop-28/)
->> /Border [ 0 0 0 ] /Rect [ 55.74986 605.0647 97.81793 616.7047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://outraspalavras.net/terraeantropoceno/amazonia-por-que-indigenas-voltam-a-luta/)
+>> /Border [ 0 0 0 ] /Rect [ 474.084 641.3647 543.6275 653.0047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 96 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.democracynow.org/2026/10/5/headlines/brazils_presidential_election_heads_to_a_runoff)
->> /Border [ 0 0 0 ] /Rect [ 485.4464 589.7647 534.4959 601.4047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://exame.com/esg/brasil-chega-a-um-terco-de-perdas-das-areas-naturais-em-2023-e-atinge-recorde/)
+>> /Border [ 0 0 0 ] /Rect [ 393.8479 597.5647 499.5107 609.2047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 97 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.democracynow.org/2026/10/5/headlines/brazils_presidential_election_heads_to_a_runoff)
->> /Border [ 0 0 0 ] /Rect [ 52.51969 576.8647 74.61939 588.5047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.thegardenisland.com/2023/02/08/news/brazil-pushes-illegal-miners-out-of-yanomami-territory/)
+>> /Border [ 0 0 0 ] /Rect [ 341.5162 569.3647 442.8831 581.0047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 98 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://sbtnews.sbt.com.br/noticia/eleicoes/meio-ambiente-e-energia-veja-propostas-de-flavio-na-integra)
->> /Border [ 0 0 0 ] /Rect [ 144.1724 548.6647 189.9869 560.3047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://outraspalavras.net/terraeantropoceno/amazonia-por-que-indigenas-voltam-a-luta/)
+>> /Border [ 0 0 0 ] /Rect [ 283.823 541.1647 353.3665 552.8047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 99 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://mais.opovo.com.br/colunistas/fabio-angeoletto/2026/09/23/meio-ambiente-o-candidato-menos-pior.html)
->> /Border [ 0 0 0 ] /Rect [ 460.0997 548.6647 492.4488 560.3047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.canalrural.com.br/noticias/agricultura/indigenas-plantam-18-mil-hectares/)
+>> /Border [ 0 0 0 ] /Rect [ 486.5378 512.9647 537.7565 524.6047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 100 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.canalrural.com.br/politica/eleicoes/eleicoes-2026-o-que-augusto-cury-e-flavio-bolsonaro-propoem-para-o-agro/)
->> /Border [ 0 0 0 ] /Rect [ 55.74986 520.4647 106.9685 532.1047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://abcnews.com/Business/wireStory/brazil-supreme-court-upholds-laws-led-downfall-amazon-135592816)
+>> /Border [ 0 0 0 ] /Rect [ 475.6801 442.1647 532.8239 453.8047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 101 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://sbtnews.sbt.com.br/noticia/eleicoes/meio-ambiente-e-energia-veja-propostas-de-flavio-na-integra)
->> /Border [ 0 0 0 ] /Rect [ 257.9248 520.4647 303.7393 532.1047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://abcnews.com/Business/wireStory/brazil-supreme-court-upholds-laws-led-downfall-amazon-135592816)
+>> /Border [ 0 0 0 ] /Rect [ 52.51969 429.2647 76.77442 440.9047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 102 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.moneytimes.com.br/?p=1414023)
->> /Border [ 0 0 0 ] /Rect [ 474.084 505.1647 532.2982 516.8047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://news.mongabay.com/short-article/2025/12/brazil-votes-to-allow-most-projects-farms-to-skip-environmental-licensing/)
+>> /Border [ 0 0 0 ] /Rect [ 152.8067 334.1647 198.1049 345.8047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 103 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://static.poder360.com.br/2025/11/PRODES-20242025.pdf)
->> /Border [ 0 0 0 ] /Rect [ 208.3401 461.3647 284.3629 473.0047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://ipam.org.br/overturning-the-vetoes-of-the-environmental-licensing-law-is-a-historic-defeat-for-the-brazilian-people-laments-ipam/)
+>> /Border [ 0 0 0 ] /Rect [ 354.4207 318.8647 378.1355 330.5047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 104 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.poder360.com.br/meio-ambiente/noruega-anuncia-mais-r-245-milhoes-para-o-fundo-amazonia-na-cop-28/)
->> /Border [ 0 0 0 ] /Rect [ 55.74986 448.4647 97.81793 460.1047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.mayerbrown.com/de/insights/publications/2025/12/brazilian-congress-overrides-presidential-vetoes-to-the-general-environmental-licensing-law-and-approves-new-rules-on-the-special-environmental-license)
+>> /Border [ 0 0 0 ] /Rect [ 443.4183 305.9647 500.5574 317.6047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 105 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.band.com.br/radio-bandeirantes/noticias/stf-retoma-julgamento-da-ferrograo-nesta-quarta-feira-202605201032)
->> /Border [ 0 0 0 ] /Rect [ 95.10875 364.7647 180.3106 376.4047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.poder360.com.br/meio-ambiente/noruega-anuncia-mais-r-245-milhoes-para-o-fundo-amazonia-na-cop-28/)
+>> /Border [ 0 0 0 ] /Rect [ 55.74986 277.7647 97.81793 289.4047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 106 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://outraspalavras.net/terraeantropoceno/amazonia-por-que-indigenas-voltam-a-luta/)
->> /Border [ 0 0 0 ] /Rect [ 522.0298 349.4647 551.1393 361.1047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.democracynow.org/2026/10/5/headlines/brazils_presidential_election_heads_to_a_runoff)
+>> /Border [ 0 0 0 ] /Rect [ 485.4464 262.4647 534.4959 274.1047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 107 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://outraspalavras.net/terraeantropoceno/amazonia-por-que-indigenas-voltam-a-luta/)
->> /Border [ 0 0 0 ] /Rect [ 52.51969 336.5647 90.25875 348.2047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.democracynow.org/2026/10/5/headlines/brazils_presidential_election_heads_to_a_runoff)
+>> /Border [ 0 0 0 ] /Rect [ 52.51969 249.5647 74.61939 261.2047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 108 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://ogj.com/exploration-development/area-drilling/news/55324386/petrobras-obtains-license-for-brazilian-equatorial-marin-well-years-after-initial-plan-rejected)
->> /Border [ 0 0 0 ] /Rect [ 137.6978 308.3647 213.7111 320.0047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://sbtnews.sbt.com.br/noticia/eleicoes/meio-ambiente-e-energia-veja-propostas-de-flavio-na-integra)
+>> /Border [ 0 0 0 ] /Rect [ 144.1724 221.3647 189.9869 233.0047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 109 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.itatiaia.com.br/economia/petrobras-ibama-perfuracao-foz-amazonas-2026/)
->> /Border [ 0 0 0 ] /Rect [ 502.1609 293.0647 530.7399 304.7047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://mais.opovo.com.br/colunistas/fabio-angeoletto/2026/09/23/meio-ambiente-o-candidato-menos-pior.html)
+>> /Border [ 0 0 0 ] /Rect [ 460.0997 221.3647 492.4488 233.0047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 110 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://eixos.com.br/petroleo-e-gas/mercado-offshore/ibama-libera-petrobras-para-perfuracao-de-mais-tres-pocos-na-bacia-da-foz-do-amazonas/)
->> /Border [ 0 0 0 ] /Rect [ 52.51969 280.1647 75.16407 291.8047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.canalrural.com.br/politica/eleicoes/eleicoes-2026-o-que-augusto-cury-e-flavio-bolsonaro-propoem-para-o-agro/)
+>> /Border [ 0 0 0 ] /Rect [ 55.74986 193.1647 106.9685 204.8047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 111 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://tankterminals.com/?p=485787)
->> /Border [ 0 0 0 ] /Rect [ 80.55401 280.1647 205.6168 291.8047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://sbtnews.sbt.com.br/noticia/eleicoes/meio-ambiente-e-energia-veja-propostas-de-flavio-na-integra)
+>> /Border [ 0 0 0 ] /Rect [ 257.9248 193.1647 303.7393 204.8047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 112 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://cbsnews.com/news/ecuador-votes-stop-oil-drilling-amazon-reserve)
->> /Border [ 0 0 0 ] /Rect [ 241.7502 236.3647 288.6446 248.0047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.moneytimes.com.br/?p=1414023)
+>> /Border [ 0 0 0 ] /Rect [ 474.084 177.8647 532.2982 189.5047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 113 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://amazonwatch.org/?p=44891)
->> /Border [ 0 0 0 ] /Rect [ 294.0345 236.3647 359.8032 248.0047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://ihu.unisinos.br/noticias/530640-codigo-florestal-deve-anistiar-29-milhoes-de-hectares-desmatados)
+>> /Border [ 0 0 0 ] /Rect [ 218.0544 149.6647 359.8505 161.3047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 114 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://news.mongabay.com/2023/08/ecuador-referendum-halts-oil-extraction-in-yasuni-national-park/)
->> /Border [ 0 0 0 ] /Rect [ 357.6434 223.4647 402.9417 235.1047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.camara.leg.br/noticias/532920-decisao-do-stf-sobre-codigo-florestal-repercute-entre-partidos)
+>> /Border [ 0 0 0 ] /Rect [ 190.5316 121.4647 292.9783 133.1047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 115 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.opendemocracy.net/es/ecuador-amazonia-yasuni-prohibicion-petroleo-referendum/)
->> /Border [ 0 0 0 ] /Rect [ 55.74986 210.5647 126.378 222.2047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://static.poder360.com.br/2025/11/PRODES-20242025.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 208.3401 77.66472 284.3629 89.30472 ] /Subtype /Link /Type /Annot
 >>
 endobj
 116 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://eixos.com.br/fundo-amazonia-tem-r-13-bilhao-aprovado-para-projetos-e-chamadas-publicas/)
->> /Border [ 0 0 0 ] /Rect [ 292.4526 126.8647 315.097 138.5047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.poder360.com.br/meio-ambiente/noruega-anuncia-mais-r-245-milhoes-para-o-fundo-amazonia-na-cop-28/)
+>> /Border [ 0 0 0 ] /Rect [ 55.74986 64.76472 97.81793 76.40472 ] /Subtype /Link /Type /Annot
 >>
 endobj
 117 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://en.aletihad.ae/news/mena-world/4620366/javasxript:)
->> /Border [ 0 0 0 ] /Rect [ 108.0484 85.76472 186.2262 97.40472 ] /Subtype /Link /Type /Annot
+/Annots [ 89 0 R 90 0 R 91 0 R 92 0 R 93 0 R 94 0 R 95 0 R 96 0 R 97 0 R 98 0 R 
+  99 0 R 100 0 R 101 0 R 102 0 R 103 0 R 104 0 R 105 0 R 106 0 R 107 0 R 108 0 R 
+  109 0 R 110 0 R 111 0 R 112 0 R 113 0 R 114 0 R 115 0 R 116 0 R ] /Contents 174 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 170 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
 >>
 endobj
 118 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://reddmonitor.substack.com/p/tomorrows-tropical-forests-forever)
->> /Border [ 0 0 0 ] /Rect [ 191.6162 85.76472 254.6756 97.40472 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.band.com.br/radio-bandeirantes/noticias/stf-retoma-julgamento-da-ferrograo-nesta-quarta-feira-202605201032)
+>> /Border [ 0 0 0 ] /Rect [ 95.10875 730.7647 180.3106 742.4047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 119 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://cop30.br/en/news-about-cop30/luxembourg-joins-the-tropical-forests-forever-facility-tfff-and-pledges-euro50-million)
->> /Border [ 0 0 0 ] /Rect [ 260.0656 85.76472 291.8748 97.40472 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://outraspalavras.net/terraeantropoceno/amazonia-por-que-indigenas-voltam-a-luta/)
+>> /Border [ 0 0 0 ] /Rect [ 522.0298 715.4647 551.1393 727.1047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 120 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://plansfortheplanet.substack.com/p/tfff-exceeds-expectations-with-55)
->> /Border [ 0 0 0 ] /Rect [ 440.6266 70.46472 525.2837 82.10472 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://outraspalavras.net/terraeantropoceno/amazonia-por-que-indigenas-voltam-a-luta/)
+>> /Border [ 0 0 0 ] /Rect [ 52.51969 702.5647 90.25875 714.2047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 121 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://carbon-pulse.com/542605/)
->> /Border [ 0 0 0 ] /Rect [ 364.6863 57.56472 423.4594 69.20472 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://ogj.com/exploration-development/area-drilling/news/55324386/petrobras-obtains-license-for-brazilian-equatorial-marin-well-years-after-initial-plan-rejected)
+>> /Border [ 0 0 0 ] /Rect [ 137.6978 674.3647 213.7111 686.0047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 122 0 obj
 <<
-/Annots [ 90 0 R 91 0 R 92 0 R 93 0 R 94 0 R 95 0 R 96 0 R 97 0 R 98 0 R 99 0 R 
-  100 0 R 101 0 R 102 0 R 103 0 R 104 0 R 105 0 R 106 0 R 107 0 R 108 0 R 109 0 R 
-  110 0 R 111 0 R 112 0 R 113 0 R 114 0 R 115 0 R 116 0 R 117 0 R 118 0 R 119 0 R 
-  120 0 R 121 0 R ] /Contents 155 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 151 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 
-  /Trans <<
-
->> /Type /Page
+/A <<
+/S /URI /Type /Action /URI (https://www.itatiaia.com.br/economia/petrobras-ibama-perfuracao-foz-amazonas-2026/)
+>> /Border [ 0 0 0 ] /Rect [ 502.1609 659.0647 530.7399 670.7047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 123 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://fixthenews.com/s/uk-pledges-400m-to-tropical-forest-protection-fund-60cb1d)
->> /Border [ 0 0 0 ] /Rect [ 145.7969 790.5647 234.1768 802.2047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://eixos.com.br/petroleo-e-gas/mercado-offshore/ibama-libera-petrobras-para-perfuracao-de-mais-tres-pocos-na-bacia-da-foz-do-amazonas/)
+>> /Border [ 0 0 0 ] /Rect [ 52.51969 646.1647 75.16407 657.8047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 124 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://reddmonitor.substack.com/p/tomorrows-tropical-forests-forever)
->> /Border [ 0 0 0 ] /Rect [ 157.6472 762.3647 220.7067 774.0047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://tankterminals.com/?p=485787)
+>> /Border [ 0 0 0 ] /Rect [ 80.55401 646.1647 205.6168 657.8047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 125 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.bmalaw.com.br/en-US/conteudo/corporate-and-ma/jurisdictional-redd-and-the-advance-sale-controversy-lessons-from-the-para-carbon-credit-deal)
->> /Border [ 0 0 0 ] /Rect [ 408.8505 718.8647 481.1032 730.5047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.poder360.com.br/poder-infra/rodovia-da-lama-na-amazonia-espera-asfalto-ha-mais-de-meio-seculo/)
+>> /Border [ 0 0 0 ] /Rect [ 445.5212 617.9647 514.558 629.6047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 126 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.poder360.com.br/governo/fundo-amazonia-recebeu-r-33-bilhoes-em-doacoes-diz-mercadante/)
->> /Border [ 0 0 0 ] /Rect [ 166.8357 675.0647 208.9038 686.7047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.opovo.com.br/noticias/checagemopovo/2024/10/24/entenda-as-questoes-ambientais-economicas-e-juridicas-que-emperram-a-reconstrucao-da-br-319.html)
+>> /Border [ 0 0 0 ] /Rect [ 519.9479 617.9647 527.4929 629.6047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 127 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://reddmonitor.substack.com/p/us180-million-worth-of-carbon-credits)
->> /Border [ 0 0 0 ] /Rect [ 404.0073 646.8647 467.0668 658.5047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.opovo.com.br/noticias/checagemopovo/2024/10/24/entenda-as-questoes-ambientais-economicas-e-juridicas-que-emperram-a-reconstrucao-da-br-319.html)
+>> /Border [ 0 0 0 ] /Rect [ 52.51969 605.0647 74.62886 616.7047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 128 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://carbonherald.com/prosecutors-challenge-180m-amazon-carbon-credit-deal-in-brazil/)
->> /Border [ 0 0 0 ] /Rect [ 369.0153 633.9647 432.0985 645.6047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://cbsnews.com/news/ecuador-votes-stop-oil-drilling-amazon-reserve)
+>> /Border [ 0 0 0 ] /Rect [ 241.7502 561.2647 288.6446 572.9047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 129 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://carbon-pulse.com/406688/)
->> /Border [ 0 0 0 ] /Rect [ 170.0375 621.0647 228.8106 632.7047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://amazonwatch.org/?p=44891)
+>> /Border [ 0 0 0 ] /Rect [ 294.0345 561.2647 359.8032 572.9047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 130 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://istoe.com.br/lula-flavio-bolsonaro-propostas-meio-ambiente-2026)
->> /Border [ 0 0 0 ] /Rect [ 415.8671 592.8647 437.9715 604.5047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://news.mongabay.com/2023/08/ecuador-referendum-halts-oil-extraction-in-yasuni-national-park/)
+>> /Border [ 0 0 0 ] /Rect [ 357.6434 548.3647 402.9417 560.0047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 131 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://successfulsocieties.princeton.edu/publications/creating-green-republic-payments-environmental-services-costa-rica-1994%E2%80%932005)
->> /Border [ 0 0 0 ] /Rect [ 80.55401 551.7647 121.5327 563.4047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.opendemocracy.net/es/ecuador-amazonia-yasuni-prohibicion-petroleo-referendum/)
+>> /Border [ 0 0 0 ] /Rect [ 55.74986 535.4647 126.378 547.1047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 132 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.resilience.org/stories/2024-07-15/conservation-pays-and-everyones-benefitting-from-it-commentary/)
->> /Border [ 0 0 0 ] /Rect [ 126.9227 551.7647 241.2292 563.4047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.poder360.com.br/poder-infra/br-319-e-fator-fundamental-no-norte-diz-ministro-dos-transportes/)
+>> /Border [ 0 0 0 ] /Rect [ 367.9165 507.2647 436.9532 518.9047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 133 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://le.uwpress.org/highwire/citation/1988/refworks-tagged)
->> /Border [ 0 0 0 ] /Rect [ 260.1082 538.8647 358.7896 550.5047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.opovo.com.br/noticias/checagemopovo/2024/10/24/entenda-as-questoes-ambientais-economicas-e-juridicas-que-emperram-a-reconstrucao-da-br-319.html)
+>> /Border [ 0 0 0 ] /Rect [ 194.8511 494.3647 227.2002 506.0047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 134 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://changemakr.asia/ecuadorians-reject-amazon-oil-drilling-in-historic-referendum/)
->> /Border [ 0 0 0 ] /Rect [ 341 510.6647 482.242 522.3047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://eixos.com.br/fundo-amazonia-tem-r-13-bilhao-aprovado-para-projetos-e-chamadas-publicas/)
+>> /Border [ 0 0 0 ] /Rect [ 292.4526 410.6647 315.097 422.3047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 135 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://theguardianweekly.pressreader.com/article/281994676623297)
->> /Border [ 0 0 0 ] /Rect [ 392.7254 482.4647 467.1236 494.1047 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://en.aletihad.ae/news/mena-world/4620366/javasxript:)
+>> /Border [ 0 0 0 ] /Rect [ 108.0484 369.5647 186.2262 381.2047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 136 0 obj
 <<
-/Annots [ 123 0 R 124 0 R 125 0 R 126 0 R 127 0 R 128 0 R 129 0 R 130 0 R 131 0 R 132 0 R 
-  133 0 R 134 0 R 135 0 R ] /Contents 156 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 151 0 R /Resources <<
+/A <<
+/S /URI /Type /Action /URI (https://reddmonitor.substack.com/p/tomorrows-tropical-forests-forever)
+>> /Border [ 0 0 0 ] /Rect [ 191.6162 369.5647 254.6756 381.2047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+137 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cop30.br/en/news-about-cop30/luxembourg-joins-the-tropical-forests-forever-facility-tfff-and-pledges-euro50-million)
+>> /Border [ 0 0 0 ] /Rect [ 260.0656 369.5647 291.8748 381.2047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+138 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://plansfortheplanet.substack.com/p/tfff-exceeds-expectations-with-55)
+>> /Border [ 0 0 0 ] /Rect [ 440.6266 354.2647 525.2837 365.9047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+139 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://carbon-pulse.com/542605/)
+>> /Border [ 0 0 0 ] /Rect [ 364.6863 341.3647 423.4594 353.0047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+140 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://fixthenews.com/s/uk-pledges-400m-to-tropical-forest-protection-fund-60cb1d)
+>> /Border [ 0 0 0 ] /Rect [ 145.7969 328.4647 234.1768 340.1047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+141 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://reddmonitor.substack.com/p/tomorrows-tropical-forests-forever)
+>> /Border [ 0 0 0 ] /Rect [ 157.6472 300.2647 220.7067 311.9047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+142 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.bmalaw.com.br/en-US/conteudo/corporate-and-ma/jurisdictional-redd-and-the-advance-sale-controversy-lessons-from-the-para-carbon-credit-deal)
+>> /Border [ 0 0 0 ] /Rect [ 408.8505 256.7647 481.1032 268.4047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+143 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.poder360.com.br/governo/fundo-amazonia-recebeu-r-33-bilhoes-em-doacoes-diz-mercadante/)
+>> /Border [ 0 0 0 ] /Rect [ 166.8357 212.9647 208.9038 224.6047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+144 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://reddmonitor.substack.com/p/us180-million-worth-of-carbon-credits)
+>> /Border [ 0 0 0 ] /Rect [ 404.0073 184.7647 467.0668 196.4047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+145 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://carbonherald.com/prosecutors-challenge-180m-amazon-carbon-credit-deal-in-brazil/)
+>> /Border [ 0 0 0 ] /Rect [ 369.0153 171.8647 432.0985 183.5047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+146 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://carbon-pulse.com/406688/)
+>> /Border [ 0 0 0 ] /Rect [ 170.0375 158.9647 228.8106 170.6047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+147 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://istoe.com.br/lula-flavio-bolsonaro-propostas-meio-ambiente-2026)
+>> /Border [ 0 0 0 ] /Rect [ 415.8671 130.7647 437.9715 142.4047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+148 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://successfulsocieties.princeton.edu/publications/creating-green-republic-payments-environmental-services-costa-rica-1994%E2%80%932005)
+>> /Border [ 0 0 0 ] /Rect [ 80.55401 89.66472 121.5327 101.3047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+149 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.resilience.org/stories/2024-07-15/conservation-pays-and-everyones-benefitting-from-it-commentary/)
+>> /Border [ 0 0 0 ] /Rect [ 126.9227 89.66472 241.2292 101.3047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+150 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://le.uwpress.org/highwire/citation/1988/refworks-tagged)
+>> /Border [ 0 0 0 ] /Rect [ 260.1082 76.76472 358.7896 88.40472 ] /Subtype /Link /Type /Annot
+>>
+endobj
+151 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://changemakr.asia/ecuadorians-reject-amazon-oil-drilling-in-historic-referendum/)
+>> /Border [ 0 0 0 ] /Rect [ 341 48.56472 482.242 60.20472 ] /Subtype /Link /Type /Annot
+>>
+endobj
+152 0 obj
+<<
+/Annots [ 118 0 R 119 0 R 120 0 R 121 0 R 122 0 R 123 0 R 124 0 R 125 0 R 126 0 R 127 0 R 
+  128 0 R 129 0 R 130 0 R 131 0 R 132 0 R 133 0 R 134 0 R 135 0 R 136 0 R 137 0 R 
+  138 0 R 139 0 R 140 0 R 141 0 R 142 0 R 143 0 R 144 0 R 145 0 R 146 0 R 147 0 R 
+  148 0 R 149 0 R 150 0 R 151 0 R ] /Contents 175 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 170 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -954,7 +1066,31 @@ endobj
 >> /Type /Page
 >>
 endobj
-137 0 obj
+153 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://theguardianweekly.pressreader.com/article/281994676623297)
+>> /Border [ 0 0 0 ] /Rect [ 392.7254 777.6647 467.1236 789.3047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+154 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.regjeringen.no/en/whats-new/large-revenues-from-the-petroleum-industry-in-2024/id3056427/)
+>> /Border [ 0 0 0 ] /Rect [ 202.9313 749.4647 259.5399 761.1047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+155 0 obj
+<<
+/Annots [ 153 0 R 154 0 R ] /Contents 176 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 170 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+156 0 obj
 <<
 /Filter [ /FlateDecode ] /Length 737
 >>
@@ -965,7 +1101,7 @@ xœ…Õ[‹Ú@Æñ{?E.[JÑÌ{Ú<ÂBOÔ~WãVX£D÷b¿}ç™GvC¡TÐü3úK‚™áüañÐ®ÕðGwÚ®›kµ?´»®¹œ^ºm
 ¿Ò¯ð+ý
 ¿Ñoðý¿Ñoðý¿Ñoðý¿Ñoðý¿Ñoðýå¿lôüF¿ÁoôüF¿ÁoôüF¿Áïô;üN¹Ï8ý¿Óïð;ý¿Óïð;ý¿Óïð;ý¿Óïð;ý¿Óïð;ý¿Óïð;ý¿Ó_î{AÀôüAÀôüAÀôüAÀôüAÀôüAÀôüAÀôüA¹Çý·â¶`­Àø¶m_º.¯Se,–œCÛ¼-¥çÓ³ðü3Nª¾endstream
 endobj
-138 0 obj
+157 0 obj
 <<
 /Filter [ /FlateDecode ] /Length 17950 /Length1 27828
 >>
@@ -1050,16 +1186,16 @@ Lhzç`$s-_NÖšKz×ÀL²+Vb„ÔX™#±o ±ïs¸áÆXYÀ½ÚÁXY$z8++ˆ•K‹••äF>'VV,VVãÜ©be4)¾‰
 _{cm;5‹Ú[›êj-Z‰Njqv‡^iES{#¥^»è‰ÁQ.ÐjÌG‹ìkZÜÒÚ¼œ±—ÕV×ÚÐ°éÔÖ×ÎkZÔÔŽ8k[këÐ– Aiªkc¶M„¯¥vIÖ„e­Í-Èä¬‰Sû ‘­¨ik^´¼¡A/ih¨o£vª‡¸;!áEÍÍ×Ó¡ÌonEöêÛ³úñ;¿yI;vmöÕÖ×ã˜QPÍuËS†V¥=Î\m]k3¶µ,ªmG,‹©¥jdk¼…ŒÀÐ.5þÌVzûU³^ƒcú‘ÛÛ[Fdg¯X±bpmÌˆÕ¡ŒLeÿß£¥*ÒÂ”¹¿jejAq.¦¿	üK¤ÛW¶4Ä”¤µmpcûâEQ÷%·“ËúYæø*šŽ®m*sC-±µ_Ózß¨»ÒqaŽòC•w³êt.§Ošê+iA5)Â9òÅ ùâî}Èà!WŠ+jšð¹¼­ŸÁLX°½9›Ú+TÂ¦–ö¶ÁmM‹7·.È.)šµÙ_Lÿ_:?ý;ƒFå0œÌ€1±û8ˆxa,Þ½xI‚0ë‡áÛÉ#øy/rÉh‚-C°g6Þsð™ÞÁ@Òƒ=bý5øœõéxO=§ás*ÞScÏHfðÉ±çLlÇ;)%ý/ö¹©ŽvÃÁn0uCó%.AÇ…Ív\àÿu.äÍ>·ýW}²ÏVŸm>»ýì‰³âW§}Þ/Oö~q2ÝûùÉÑÞ£?ñÙh~ù4çSîSàgdÕBÍÒã§/	/¾ç$I®EŸð=^r>Fyßw€÷½wÓ¼5ïl~çÐ;<½E°pòñ@Ï¡§ßq%á}ß;}‘ñ 8$#|9Í+½0pl‘ôBrzÑðKiûG{Éh> žÕxÉ³@žõ=+=[ólË³"½m~öè³çž€OÒ#è35Ïp;ž9úGS%†g´†"ãÞê½Ü~”—²í"x•àÅ“NüdÞ%e¤,òîÎÞ]°{ûnÁ¸¤ÝGyªå©Ž§ø“O{Š{ò‰÷‰Ò4ïsà÷ÞQ”#÷~0>ÆÇàEp‚•ŒÂy°K¿*åÝ¶5Ýû^âÕ±î+Êðnÿíîßr¿)
 y[¼[¸{6§yï¾+Íkìôv6w®îììï¼#Í[²	Œw€t‡ÖXd\ï]ÏÝök£·ú×0ô–¢[¸åH{^íxµá5°<-À·Àùø[ËW-\c„[à@Ï9iUŠ³yI±wIQ®×	3\Á„Ê ?CóR‹}kªs½ÕxŸ;»Ø;§(Ý[9ûïì¢!^k®e†ˆ³+äò3šy0ò|	ßÌ¯æÅêé MÏT$MOJÆkBÑõe7•m,ã§•ð–âå*XÂ…KšJ¸`‘²ŠR½“Š\Þâ"¿w"úÇ"(öÌpäÚg˜Á8Ã”kœÁj,éñ ó^o&)ï^c±Ú¸Ú(ÙÆc³±ÓxÂØcT`ÝY#ßL „@‡D8 ›÷”OÏÌœr@ÙS6%¢,­ŒÀí‘ÔéôSš6;¢¸=BfÌ®¬Øpgø×›6‘q‰S"¹Ó+"5‰á)‘z,H´ÐSânkok_–ûƒ¶vz#ôÖ†…¶6Ú´ª„U·µµ··“h—¶Ì6’I?±ð“´1@„¡ÀWì? Ÿ„’cd€A¶µS ÖyýdO´–"bH¡­—<Ã½%ürý=ñendstream
 endobj
-139 0 obj
+158 0 obj
 <<
-/Ascent 728.0273 /CapHeight 687.9883 /Descent -210.4492 /Flags 262148 /FontBBox [ -481.9336 -376.4648 1304.199 1033.203 ] /FontFile2 138 0 R 
+/Ascent 728.0273 /CapHeight 687.9883 /Descent -210.4492 /Flags 262148 /FontBBox [ -481.9336 -376.4648 1304.199 1033.203 ] /FontFile2 157 0 R 
   /FontName /AAAAAA+LiberationSans-Bold /ItalicAngle 0 /MissingWidth 750 /StemV 165 /Type /FontDescriptor
 >>
 endobj
-140 0 obj
+159 0 obj
 <<
-/BaseFont /AAAAAA+LiberationSans-Bold /FirstChar 0 /FontDescriptor 139 0 R /LastChar 127 /Name /F2+0 /Subtype /TrueType 
-  /ToUnicode 137 0 R /Type /Font /Widths [ 750 556.1523 277.832 556.1523 556.1523 610.8398 556.1523 610.8398 389.1602 277.832 
+/BaseFont /AAAAAA+LiberationSans-Bold /FirstChar 0 /FontDescriptor 158 0 R /LastChar 127 /Name /F2+0 /Subtype /TrueType 
+  /ToUnicode 156 0 R /Type /Font /Widths [ 750 556.1523 277.832 556.1523 556.1523 610.8398 556.1523 610.8398 389.1602 277.832 
   722.168 500 556.1523 610.8398 556.1523 722.168 556.1523 610.8398 750 750 
   750 750 750 750 750 750 750 750 750 750 
   750 750 277.832 333.0078 474.1211 556.1523 556.1523 889.1602 722.168 237.793 
@@ -1074,94 +1210,102 @@ endobj
   556.1523 556.1523 500 389.1602 279.7852 389.1602 583.9844 750 ]
 >>
 endobj
-141 0 obj
+160 0 obj
 <<
-/Filter [ /FlateDecode ] /Length 753
+/Filter [ /FlateDecode ] /Length 751
 >>
 stream
-xœuÕÝnÚ@à{žÂ—­z»3³C$„Ä¯©*}bLj©dÈEÞ¾>sP"U-p°gío×Ø3^=®»öV¿÷çz×ÜªcÛúæz~éë¦zjžÛn”ruhëÛýW|Ö§ýe4ï^¯·æôØÏ£Ù¬ÿv^oýkõa¯OŸÛ§¦ßßÚs·Ûw×£ñ·þÐôm÷üÿŠÝËåò»95Ý­šŒæóêÐ‡S}Ù_¾îOM5þç°÷¢Ÿ¯—¦Êñ;Q\ŸÍõ²¯‡òî¹Í&“y5óí|Ôt‡¿ö¥<å˜§cýkßßk'Ãk>äyéÈ9òæY“EÖÈ%!ó¹°~ì‘·‘§ÜõQ?‰í‹È¾A^²~¼Ší:E^GNKäkyË¬CNô/32üy’P“23ŽŸ„y…|÷²q,æž
-çˆó&ú7ð$ú×‘ïþ8ý%ÆÒ¿‰ó®â\Óð„²Âº¥Íû:§í{ÎôçÈ\ÿŒµÊ\ÿŒãdaÆñ³2cî™þŒ¹d®ÿð5dú3®c¦?c^ùž¼`Æ¼2ýëœWÌ˜c¦?ãzeú3Ö3ÓŸqÝ…~_èø…~_èø…~_èø…~_èø…~_èø…~_èø…~_èø…~_èø•~…_éWø•~…_éWø•~…_éWø•~…_éWø•þø?+ý
+xœuÕÝnÚ@à{žÂ—­zÞ™Ù!BâWŠÔ?•¾ 1Kj©dÈEÞ¾>sP"U-p°gío×Ø3^=®»öV¿÷çfWnÕ±í}¹ž_ú¦TOå¹íFuªms»ÿŠÏæ´¿ŒÆÃàÝëõVNÝñ<šÍªñaçõÖ¿Vñúô¹}*ýþÖž»Ý¾»~¿õ‡Ò·Ýóÿ+v/—Ëïr*Ý­šŒæóêPŽÃ©¾ì/_÷§Rÿ9ì½èçë¥T)~×7çC¹^öÍPÞ=—Ñl2™W3ßÎG¥;üµ¯NSŽy:6¿öý½v2¼æC®#/9EÞ< rm‘5r®‘y‹œY¿FöÈÛÈSnú‡¨ŸÄöEdß /Y¿@^Åv"¯#×KäkyË¬C®é_&døÓ¤FM˜qüZ˜WÈw¿!ÇbîuæqÞšþ<5ýëÈw‡þcéß„aÅ†uœwÛé_aëíûš'úSd®ÂZ%®ÂØ$Ì8fRfÌ=ÑŸ0—Äõ¾†LÂuLô'Ì+=0ÃÌ˜W¢?aý	sLkf\¯DÂz&ú®»Ð/ðý¿Ð/ðý¿Ð/ðý¿Ð/ðý¿Ð/ðý¿Ð/ðý¿Ð/ðý¿Ð/ðý¿Ò¯ð+ý
 ¿Ò¯ð+ý
 ¿Ò¯ð+ý
 ¿Ò¯ð+ý
-¿Ñoðý¿Ñoðý¿Ñoðý¿Ñoðý¿Ñ÷…ÑÏ£ßà7ú~£ßà7ú~£ßà7úþBÜG…þx¶úü…þ¡¿À_è{¹Ð_à/ôøýþB¿Ð_à/ôøýþB¿Ð_à/ôÇsÏéwø~‡ßéwø~‡ßéwø~‡ßéwø~‡ßéwø~‡ßéwø~‡ßéwø~‡ßéç­Óï÷N€^ž÷Ö‡ê—¾ZT4Æh<h9m×¼õÎËù‚QxÿUü¦˜endstream
+¿Òÿg¥_áWú~¥_áWú~¥_áWú~¥_á7ú~£ßà7ú~£ßà7ú~£ßà7ú~£ßà7úã¾0úã9`ôüF¿ÁoôüF¿ÁoôüF¿ÁŸéû(ÓÏ–L†?ÓŸáÏôgø3ýq/gú3ü™þ¦?ÃŸéÏðgú3ü™þ¦?ÃŸéÏðgú3ü™þxî9ý¿Óïð;ý¿Óïð;ý¿Óïð;ý¿Óïð;ý¿Óïð;ý¿Óïð;ý¿Óïð;ýñ¼uúïâÞ	Ð+ÐóÞúPóÒ÷C‹ŠÆ-§íÊ[ï¼œ/…÷Å‡¦¯endstream
 endobj
-142 0 obj
+161 0 obj
 <<
-/Filter [ /FlateDecode ] /Length 19442 /Length1 30508
+/Filter [ /FlateDecode ] /Length 19473 /Length1 30568
 >>
 stream
-xœ¬½	`TEò0ÞõŽ™÷æÈÜW&!“LŽ„$$ ä0€B€bH	$IHÂ%JÂ!GAEC@E<OPñZaÁcu]VA÷·ëË¢«@^þÕýfÂÐýý¿ïxóúuWWWWUWWu÷¼ „IáIþ˜ñé™d÷1ç¯x•N]VkZcñrN×àù—Q—á
-ðZ5­vúìÅe-„¯m>ká´eçžêAˆa=!…ReEY¹ž¬i!¤üaÄ×§3ŒŸOâsbåì†‰ïe\Àç‹ˆ/fVÍÔ²½;cûÓÍØžyvÙ‚Zþgþ,!•>„÷U—Í®8•Y×ŽÏBô«jkêÚ„Ô¿GËkë*jÛž»e>ÿƒ~á…Ça=	·ˆYˆÑ«ÞùÉ4Î*‰œ^#pô#œ!ºö|² 1“x¼H¯Áã‡ ñµ_?VÆB–v(%pøô°¯ýÅ%´5’Šß@(ÿ°ÃD:–jb¹òSÀ–5DK$"Ñ#Œ‘D1±±qq‰&^Cb†.$±Ç“â'‰$‰$“®¤éNzl³'I#é$ƒô"™$‹ô&Ù¤éKú‘ÒŸ ÉMdÉEÚ“›É2”#ÃÉ-$Œ #É(r+¹Œ&cH>KÆ‘ñ¤€ÜN&‰¤É$RDî Åd2)!¥¤ŒL!SI9© ÓÈtRIªÈ2“Ì"³I5©!µd©#õ¤Ì%óÈ|²€,$w’Eä.Úñ˜xŒÜ\r…ì»ÓGè=ŸOHû÷ôéê·2‘ü?ýHê­•¼Fö‘ŠV‘ÅøýL§¼Ãä-ò4Km%kíKdo(µl&+nY†xvaûW?¥˜»<Œ-"O¢š$@¶:3TzŠ¼cTð¼O O!ääEüÞŠ£ew<À#ÕÜgü²”¬Æ>î€*²áKÉ.(B9.!˜ŒR¬¹i3YOž@™5]Í—´ÿ›¯<”¯F<QæsP’¦+]Ú/ÞÂß‰Qù„æãöçÈ¬Ê’p]m?ƒ;ÈqmâÃý¨1÷“2øé\Ëþnþ_4K„Jb> :Ôþ±Òˆ´ŸB	½ŒÜ8¸¥hR°ðö‚ñãÆæ}Û­£FŽÈ»eø°¡CnÈtÓÀýsúõí“Ý+#=­gj·®ÉI‰þ„ø8·Ýb6Eõ:YÒjDç€¤úZ tXŸä³/óó—åõLõsWí™:Ì?¼´ÅWækÁ›ìÏËcYþ²_©¯%oeÙ¥-„œvd@…t@‚Ù7¤Mø}-Ç‡ú}‡`ÒØBL¯êúZ~`éÛXZHfF|ˆÇŒ*J­oXËðy•ÍÃJ‘FØ¯×ñ©ÐõL%ûuzLê1ÕÒÍ_»º–àºë¿Ÿ#’‘6‹=VVÞ’?¶pØPo||°gêˆ–(ÿPVD†0”-š!-Z†ÒWEI'k|ûS4ß{ÈL¦”¦Êýåew¶ðeX·™ÖÜ¼²Å’ÒÒÝ?´¥ûgÝØóŠ–TÿÐa-)ë¨qíŒºÚ$´ˆIf¿¯ù'‚Ýñÿð}çœ²PŽ&Éü¡ÉnHŒ+Œ§ïpäusóp¿oxsisÙ¡ö¦)~ŸÙß¼ß`h®†ì&ù…ˆâPûËk¼-Ãï¶˜K+¡0ÔõáãFµØÆ¶pIÃ}•e˜ƒÿsýñý¼ñ–˜üß*&Èdr8>ž²aÍ¡ ™‚-McÕg™â=@é)Á®”–	—8n§%Má’Žê¥~”í¨ñ…Í-BÒˆrÿ0äøš²–¦)¨]3¨`üæ–¨Ÿ½ñþf«Å—“d°>¤jDy•¯ELF&a­È
-¨7´J³™=Dý¬Þ~ðbÉ«/Çh(žaþa¥¡ÿó*ÝˆÀ‡ŒÎKQ¡ °%0²Ä†íÏHÇe¥(°ª¡L˜-éþÚ»ÿæéR²†U/dUBÕZìCZÐÛÕjIÆÆ•oXséP•ŠË?¶ð%’Õ~foŸ÷y:ñ‡R`çÔ²äaÍ…åÓZâJ½å8î¦ù
-½ñ- J8è/¬RµCu?ãeÊdºRP8j¼ÔØI…ýB„¨4ì4þB¯Š°EJ’|…œ—" 3|Ã1á¿y ~·h“$¼ÌÈp–K÷æ¾Bð’04’ÑÒÝ7¬bhŽ>wB*Ru’Æ¦¡ˆgHž7>¯~z¦rXì5Œ5$ÊÔ¼pš),P?‡ä±,ÊK7Uz_¡¿ÂôWúZù…´o”=ŒË!f0ž‡dUÐé)‚YÈ&ÅáÊÌ–á)ÞHæ¶ÜÂž;ó®).ö5KþQã›)r!AÊG´ªÂ~/³t@ûÑöúÌ8¤Ù€nÞÐÁ\ÙŸ"ñ(oö/È ÑžÜí½“¶e%£`TÁÍ=SÑ´Ý¼ß«ÆîÀªñ“
-_BÓ·ª ð ÜÒ›ƒû±¬ð%!–ËÑ\šI|ôb‡ƒ÷¾@W•
-,ƒ=O=„åIá< SqjžYm(™5@qê!A-	„¡Ì“Ô¼&–Ç>û	eY@'¤€0pFÎ»hÖÌyýOÈó0‚w?ÖÇ²AÓ~9àU!š" R¸êö«Mß>©ðyôIÁË¾±¡›éÕÅ]‰ÂÆie˜¯œ*Ê]ÁÊæÒ lÄ‰¢ÁÿÐþA(&ÿ $DchÑù+nnÑûo¦ù¹4?WÍ×Ð|-ª(8«7¡ìó[€j@Qa<I_ôûÞfóTRA4*Íæoz"qÇÑÉD¿‘Gß9.`ä4"¯áeIäÌÊ=ž~Üb…œK–%«W†-Þo³Ä[Ž—·ÞÊ—\j³/»„¢oÐÞNþ¯ÃAn‹ECîî‡!Ã‹èÚÖFÂg«åÛ¿ÜâYk2úºÄ¢%‹¡ìÈåhK2]k°$¥X²IJ6ƒG$ÜÅák#f¸‚ÝnIç¡öË­ÎÞ V°d#|Nû÷üA?‡áo$Ï"~gÀ))X¥'é™¥!ð÷ üwšz„¯gðM`Gøè€‰ƒ.]"ˆ‡x¯ÇHk°*´ú \:ëÃFÓâ\Ö°!WÐ.Ô„•‰ü;?Ô_¯Ú_p!´«+Z¶Fö—ò§žÁ—„àBüé…ÔôÒ÷êÍG_Ïÿõ·,ÔßOCýF†BŒ9&Á¨èïxŒÆ¶0ø!øm„qT§CpÃ¡ö‹­+‘Â5Xk°1šê5*MC}ðbo¶·‹Ê 0M÷bX³µj^
-{¨]iõ=ÚPõâã½h$ß²:íCëÄ$„U#TgÖ‰etÍñjzˆWÈ[Î5Âu$üÇðKÉy•WœÛb!ÖuU7Ð’tç²¸eâZŒo
-t1FEaÔ¨µ{L¬Öc´Xtgƒ–/ÁC<ßÉi’›b!YnömÍ	—,öÇL×AÐwd÷Nö'h´ø•étØµQ w¤pqKf–Þ2rh¡tñÑ%½zg¹^á²¦[6rhmÿA£F•f._Tý`ó¤;zÎ¡±.·„:îVœ½	„D /M¹0„t¼ÕÀ>8"’Sò€¤§ÏIa4õÊ°dÇ;„:xkõjêÌsd”r‰+Á˜HÆøxd É¬ÓY52JR”Õê°ó¼ÑjÜS$IV‹u[‘Ö²Ï;P\LÒ³XÓÕoŠ;Ü]ÕL$Ù5ZŸlv–Ø‘âJü©'¾©¼ÜmÑäÂ·²J¼eÕâ·ÖÏ¸o0Þ(-ü!®íJK²ÉfÓ‰²Í­E'ëae[!:“nO‘`â;ˆÉ ¦ÃTY:hAÆ÷é›¥qd9â;R°)±Ç“Û.$¥,,	ò‡(yhñ@ÙƒCVßýêJ\ûyÞ"3'cÔMueÃhÞz ÀsVµz!MÉFºïäïà‰‰ž¸HJÀa ÈBÇÍ;öy9 ›öe„D»ÍÇR"l)Ø5þ„d¤	õAË”Ãawfeöáí™7oÏ“<9{ú¨QÓ«FŒ¬ÎßýÔÜ¹OížkåŒ‘#gTQ}~
-ív¥FA}Îg4.‡iê˜q¹ÄdÎs¨}O«'N0þî8[J~
-:89Ÿä‹¾:Ê~{û÷bwÍy„ÏàïBcß.&ƒ=ÉîL‘c¬á2š‡h:Öa°BLrL‚YŽÀ_ŒôüÂàÇ†àëCðiiŸaËè#FÚkÕ>¾ÖaW0ú±Ï½¨}ì¨ýLkÿáaIûŒãeZûXîn5ŽcâÊîƒ#cÐÞ¡¡(°‘ÈáHœÖgQVE·¢ÇGL–æ·wÿäôãmðÑ¾µ=nñçz(o°®¬êgONß4±{!	É@P†„øs:Ä’oèf0]PW^B‚Õ¹ÎÚy­–Yò˜ ¢x‚¸­HàødX.CSd(a¨™2$È`—Aá‚_Ëð‰Ge8 Ã.6„áËÃð½eHÃO¿(ÃK2ì‘a³«eX(Ãn’¡§q2˜dh—áœ§dø@†WdxZ†GdX+ÃÝ2ÔÈP"Ã(È"ƒW½m2ü Ã2Ão•aƒŸ)C‘·1üÝeð0ø¾—eø®s…Ír (DL«¢6$ÅÊ@UjË°O†2,b¨;ˆ@¢¹¬ËÖÉÐ(C)ú]ái'‡?%s">%u?WÁBŸ9×|þw°$7ð?– P‡AÄAîç³øl´8Ó7¸¾ó&¬å/^j|ÿ}ªùw¸¦ßå˜yN«á4èwùPg5º^YÇ‹3#í¢¢7ã>û!eáZÇ!þxE¯¨¶\F]¬¢žÇ‘•Žum—8§àÒH±1Á.ë£LVÁ¦s¹5¢Ý&ët6·(D±qÑB¼O/iƒ±KlãbLÄlñ8V‹Ù'0Æ²Î²ÃÂçZÆX8£ÅhÝ.»×É'ƒ¬¬\¼¬9ÄÏ)žƒ]ÏÊ2ÏÄOdÒ
-.œ]WÍ³5ôº°‡|¼#ž÷Ûè…3^ñ¶,ž^h¼ñÎ7Aù¦°z‚òPAuÁû_¾Ö`u!Ì,¬.ü¸-3Fós•u³”Jx˜^³`Î,5¥TÎRÖÎŸ<q¶×	ãÄïI"I%YäÓÀ½<×Ó`ŽîÞÝïO4õê¥Õ&:IqqŽD'öÎödš2ëƒ'ºÃ#ÝA\Õhÿ¬åÞþ,š;+£ŸŒæ>ë»{Áü^ÐÓÐ+ZÛ=.I"w;×:¹h'8­æ€Í•g˜L ó¦€ÞœgêÓC}ÐŸ°ßÅsµ|Ï‰¼ƒ¿¯àžôLÔ«Ìã¡)µ)úxJVVq12¨CŸ‹‹Cs«Ó\9ë%%ò}» “™ÆÓI´iÐÕÒ…wà”ìðCoú4ÀNÁN£L¾×³ã¾ý+Ç'}uâ®WŽõxÎ~çÜç7¦]øò.ØÙ{Ê}k7µÝ‘9µF¹b·ÂíIóÈp>uxQåˆ­ûäeËäM;ã'Wé•!=†.ûÄ{úÇ8÷à‚¾IJªÜÀ]0®_<EõT$#Ú/j>A¿JOL¨«]QÙ1$Ae2»ÙÒ<›Ñ„<Êîíìu0hv*2§à]ˆBoDŽ;ˆ“ê¡">	ï6œUSRˆ;7—Þ¯cGçü•D¯PDÌ¸‘iÍ'mß¶cóî]_°•ßòÈåÓ;¶ìØ¾}Ç±ø¶¢¢±cŠ
-Ç]>ë¤ÉùùwL>ûŸ¯¾8{ú›¶Zq‰áÌ—ŸûS§O_IzþÑíŸ~âIî–Çv<ÿì8K ÞåáÜØG\Mü$ä¹á½¥ÆD[´7Þk‹usÎÔLQ2öàÌì*š»Ž¦êÌ}¹ŒX·€sçz31ƒÉœkædÞ,ö$.?HœÔµpÓ+šž9Öœt:œrr!$'§Wzeˆ	]£€2Àœ”*c¨:8]}úºð–•Ù×¡	sÃ5ˆã“»†Ø"ìÙ¿pÔ‘ªÏ¾‡‰ñ/>µé¥¿®98§ÿý¹•ÖÞ’ÖO™^>¡´|ð²E¹#ßYøýÖ·Ügh<üÄ!pn´wøÆ'^>ïÐ¤ã'v_Lùõ¯SÌ+ÂÂ¼¢éEuK³GOºòØ·§Ëß_¸¶/«+Ñ¤ù˜Môô<‡Î-µ†ÔYÕÔ…Ì–6*…Üvñ‰"	³–èu¼ ÃÐÕdÖyq<åæF° q³]@Îb¶ºüÉœ¥ñ…WŸ{eß³¯=÷Z+gÇ`ïØ'•Tå[å;%íãcpâ¿ñ§\ÅÏzt?á½×â3‡þ.ZM®k–ÓjáR°WŸÛ÷
-mÀ¬œVzð|.ü÷Ñ‡Ç”,å+Â|”xî ×†ýŽ"ã™ÂkdQ'
-z¢…§•œˆR’Ä	’.Êhät:Îd>Ž¿x^äÄ(dÏ1uÖ¡’GBrÐVX²èeav5É%º´zèÚ7©¯ˆÌ{¤žÊß_š¿qÛü×”ô½a•0iúò—ò€k'y¿ŒX1º3ºÊI«p‹°Çê@2N0	{8àM\	Ç4DáÙ ü©újWj9­ø<Î[ÅÅÌ%ÏB…,é4Zü–øìx¤*ÞÁíxP)„§„§¸R¥ žy žQ
- mR.Ár
-ç³„€E‰$J:=Ÿ*’ÈV¼ÒS"è$G8À€%,®8õ(N©|-‚“Ü®õ).`AÑ!Ë^	î€À¥`ht52²adTáäÎX§TXŒ4ðÄÐ¡!°ƒô”°f¡M}å­S¡vHû÷\êOl/r"Á¹ƒT`D: `ëv¥Ê.ž¹ä£su>ú±þPÌÐ-`·jDCÜÙT”µ¼£>È{Bã:Ò0sþªºñ™V>œÎÊ´
-þ_ÿýï‹? ùõ‡×>¶ûþwîØÀ½¡ìPî…:˜
-3a†ò€²zU¹ | |¢|1H3Fþ‚	uN‡Q‹]8No×h$ Ð$îpT›••ž’"íw¼EÌN¢"ÜÓ•7á¶Ý0q³0ðo{¿¹ìÞLyQ¸`À¾u!ƒ¾e’±â|R†•úú U$†Ä„Û@;:_KYÙƒÄk¢fšYÜ<=ëÁÇv4Yµ°þ!ã!ûÞüÓ7£6|X¿ªwºqîó÷ßu×ª	MwÏ±ìyïý—Æ=öØÞÉ›†ofr|÷ mÝÈÔ@ŽVãq$IH2Çh4Ý{$YÌsCÐâ¶-½¿à6“Ì¢ÅÂ{ãâÜõÁ8-/×µT4Yªl(ÉÌî²ù‡\kmÕù§k_g|&†É)Å‘=Â¹¸ž_þþi»ûåD0­ÚºÿÉiS6<~Ï²ù^À®}òÝ¦õÛ[àž·>}ã5Ë¥Ëë—l[R7gÙ5QÏ¾ùvËÊ=]Ëæÿ¥#ßû2yZIŸ@´E´rš°Ù‰`êƒ’Åzç¹H·Ã_]«¸:@©Ò: ùŒAI<?go[%wÏkï(ë¹ÞFeS3\€\åÈ½—?xåÖûøùšÉ¶¶ïGÚÇ±5–%(ÝÉl«D;±i5nrÙiÓ±]¢QÅ££y»ÝÕ´k(C§kÁ©…zí24Œ·èâ„T#½ÓÄÎ¬›•š4;QY{•£è7¢—H§4!VùÏwo_ðÌùþþ]OÜ;bqnK:ß¶Ì;÷¹“ÿN·“gw|¸oó=»Òúr?oVOºˆü«é†“$ü@J¬EcÐ»Ñkx¢%Ú=7h·ó²U4Ö8hÀ¡ê»:T©¹ë ¹“{ÆTA¯$ËgÓ&Ó$“dÜ/x.üéÇ+ AöŽ&ûù-{z¨ë›7®X¼õÑÅK7ÀñÓŠS`TÃ*å«¸g”¯”óE%?Ý¼ûÁ%ŸÜÇø_ÅÆÞ´+=vIE"ËÄ`$²Nnê4•ýU±Snf"m:Îá7[M³`øóà«ß€¡MÏ?.œS*ÍÊ†· Š»îÙŒÖ-ˆ<ŠFyÐ{N'·ÒR4qÆh[š;§lÔh2z9å„n	ÝæM	`Ó$$ðfsÌÜ YË÷œiÓHhØÜÈGéðÚúfGú(8LøÞñafÙTÆ™qd	Ñ¿üãëöí‹êïù×'ÿµ¢aåÆ/•K÷¬¾»ñÿ¶µ«·@÷×Ãê·þòéÛÍ¯ÚoëÂGß;úäÂV—à|‰3ž[0aãÜ¶+ËîYw·òÅZ:ŽJ±Vì£ûXHëbEýEõÕXù¤dC¼)åoŠ3qQ¼ÉÄ;Þú ƒÙ—Bê{m;t¡ÃGèÐ]«ºcë¥5B`UþóÓï¦<ÓçÐÖ½B·7^?ûËß]8ºmÙÒ›F¯¸ûByH¹sÍVoø@?i6Ÿ}Ñ¦ìÚ·÷ÄþM[ž¿e)³	lú³³kÀÆkµd‰-2àP&&’ôÈiÆ†3Ïf··Þâgž8qå¡'(.6/#.™IZÀc$DÒI"eÒë¶éMê½M¡C3—ëºYÚBcau¦~ëÄ66UŸà¶a@*È!OØ‹áÀ@W^ƒ„j%1WÓ¨Y§á5|WË5qôt€IÈj„Â	t=ˆ'½8‹ÆÉj¨ìb98dpTð»²›ŸÄ8mÁùïþÍ´åP(ÜÂÏø‘è¦å‰ H2uaLbœ8F,Oˆ¢Ž! äÙ`>œÎ¤:
-Åá}JGCñÀ«[ŠåÿÆnØ Ø8ìÔô’xìŸ!Ô
-M/@.i$ëhâr¹nw‚¹ô¥o¶Ù´/“°/Û²j z‹2ù8“mŽõ®lžM ã©ñ>·G’­„È>àO´Æ˜ä\µTöÅù¶ÅÜ`äÝ11Ž’`Œ ÎìØ”<q›ßÁ”åúa…ögÿ mxÎê“˜•)à,æº¦Ž+ÎÏû¸®ƒFçß60ië½÷îŠ:Â§§´­{KFÍ+: wýÐa•ù¹99ÃÔ-¿÷NÃ;Ÿ||ù¦÷ßGúU¾ÑV£Ï”KF“Åá^m÷~·˜´€ËåŽ'¤—ÛÔO“/Äþ)(ÃÈOƒ¶!Ÿ]6“!ÎÀéyƒÍ`ë=p`Ò§Á„Ë «Ñ»wÏOƒ½Iz¸gêÄ1H¡%+%¼H|}ÔÌ¬3³9}ýjtÔÛŠãÑ•Õ7‹ÇáHGcvo.ÑŸ p»UÈÊLÄ`Ið'$rÙf+‰ÏDkAùªiêÛG[]¼qê,^só[syvÉ?Öž§éº­!ilþÊÑ[”/ß¼ ÜûÉ#Ðýû¡ÇÎ¾÷+Ï>÷/eÓá_áe°þ&¿ÔöØòêŠG&•L½ûd7÷ï—•w_´èØ» z÷ÁŠfWpró…ŸÇCŸ*³/½¡|¾}ÔÄÚ‰E‡¡ìïà†?ö”ƒ_O»»ñ«eV}ôÈÈkïq8/h‰™ú1ªáx(¡b
-’–·Z\IÐ``›~Ö+ä[á¼ŽXa½J­a…t+„×¼HnfnVN+é"Æ›VêEÇóñ<Ú2h5ZL&wÖ=Ú¶ø±w¸ÜÏ¹>mE²§W+gz!&¶)åtïPøWÌø¥J/øpØD#ÓõÔo‘N#ÎÂ]He ¿Þ&Ù¼^!JÂ™Xø8ŸÞm‹.	ÚmÜm&ðƒl àÝ,Úl8ÝYK‚ØoIP°^;×”—Ì¹—ò&¼%ÞgA3Õh ŒOt’éô.|«üx±í(Gàü½MOT~Ü¶A9ƒ7o«<¦lƒú};aí«ŠK”½wïµ¿—ê¦(7×·µÿªKÕø€­‹³ysr ‡7»œ’,;Í|´×äÂaérÙlû$É,¤|i½´S:)‘$—Aƒ²±ù¼PòÈiw®¦:ÇŸ	Du2:4”*(]úáÝß*WÀô?Ðí¡m•·OþIyÿq˜7i·¼Ðësá’ò±rIiSÞ†¤Ñ_ß#¾‚±°¸åÙ‹–ªë‹t¿¡"´?“p™D‰Ý¡‰*	jxÑ„œ·úŒÆkã;§²—ðf¢rÔ*VìUÞ;Öö/ø¦Á=G¨/£üúoýn1wâ/ÊKÏ!37+/€l—÷¯ÆC¶ÖÎ|›‚@¦ˆ~Ž×¢·c¥’à:^a¡¸ZäL"H<:> BIx"—‰ÕgŒ ,¤Åjðž£hDºžz^y€Ï¼òG~“¸d›2p‹âØÖAÃýŒ}± Š‰Óð:=k
-D­¥¨å‘zÚÜõ,õ°ièe;`:o½òãaþŸÂ7m··½©º2ue'³ëS´#±¹ÝŸœh¼‰Ü¼Óéå½æ’ ×ÆëJ‚Ú€–[¯=ƒþ³–š|PêŸWôFhˆ{­ÏÕi=$¬~UsÐ~eÓ]UŸéP·}‰cüø‘‹èZ/4Ÿ©q·×*¯¼þ…rd÷.L„ÛŸë³ Zù\¹¨ü¤|P§ìT¢ëînQ!ž‰>&·º€KËó‚„Nµ 7µhsòµp§Cí_Òl#jWk9“$­Vf¦åvÄ-FØi„&#Ô¡ÔùF ò¯Á‡Ì
-´c£óªeGi"·Q¶x	emšÃ‡¹K‡¹µmõâ’¶g¸‚K*Ï_Ã¯»ØºÓ½2ï£æX"dˆàÑº !ç¼-"ì¡V„RòÑM`˜$\¤fšÃùûDXßÑ]»}ÐyA]RRê×SC‰4úÚ¿ç+‘F3èÁsrT”žã-Vƒ­ú%Á <Ol>f²Ñ‚¬àS­6åQzñµ^™è£kÄ4€b«2v¼¯lòŠuqIåŒÇ¿´C]\ÃÒuÍü°mWüÇ¿É2—É²wÀKô’Lå©—u8EuZàp6Ñ§Bã›…1¦ëZŸ"´Lt†Æµ?„âxò«¶§8üwoÛY”É îÍ¶mWþkéØ–HâQT&-
-…§ÃYÊ!Q«lÂA{˜{O\rÙ»M­«á°n4Œœs“h³1*:*ÆËëÜ:ú~v>Êº>–Ç@m”ÇÀÐè¾°ÇÀÅ8Gc`hˆÒ(` æb`úYVÜXq>«ŸÈÊ°ò'¬hy^©Šq«¢¢Cø¾ˆëƒ\*"}Ñ+aD£Âˆ.ÇÀÙ0®¦àjYûÈeô“˜Ž¯’ßQ±tÚÜºº«å¢[;–ˆe6¦z÷EYø!âèŠAt× èYq‚Ü««²a…²®_</ì½óíI	¥]ûÿÌ¶õÏW\	ðGöV×¼v¥@\r%}ÀÊ.Ýwð2ýÛ	#FßéD§3jA4Š¦(=hx‰ U5Á´˜`§	šLPk‚Rä› ó#ŒÛŒºÖ
-„	MÎ¦v [”(îý’»dxFh){òJ!ªMÞÑB~ÒÁ‘2´¿Ÿ¡ý"Ñ$#íLD"Þ=úzAp£oakbÌ.þ­¹®cÞµji¨§ÚU"~¶G9úÙçÊÛ»¡F~Ÿ|KùõüåÐÿpDîÝ/”Ö-pÛ—âßý´òò— …TåÏhQÿ£¼=Ãs0ótÄ‚‘…Ï„3ƒ«Í„3É„3PTh²þ§üˆœ…r®ú	ÌãÁy(SÐšéœìC'çòeÊanì Q)÷À2ðŸ¿÷}Û)qÉ—ÇÀÒö	£¡L¹›ñÇñqn 1ÎêA×”˜”ìˆ)	:„¨„’ eÓ£IÒ7%ƒ/™aK$×š …Ej‚ú:ØJYòo0NùDù©û=Óú,¾}Ó[ƒÞQ¾Úô,T>Ušü‹k+œO¿§{†üé÷y)V†|Í‰t0l²ÍY¸FYà]ngÃ)
-}³°cI¬Mn¨uƒÏ­Î®™¹7^ð	­TQÅ1™ÀÀ‡Ká^ŒHGæ6ýü‹Âú_ž|D Ç7=Áh{Q\ò§×ù4¦íQþûEKÚ~YKm!;'<ïIîÄHlŒß©EgZÈ4ƒÙæÌaª¼É þCíç9˜5Ü?Á?ÍÏý`~Þãñ•kb!£bÑÆ‚,Æzý£RŒÓÀPŽ3ÛÕõ7uù¾8´HSÂæ×â”ë¢D!¾céÆu¥Ž‰ñ™NÕ¥Àð	mCQøE9¡|×Ö6î%ßÉç_z?·n{é“Ï–chÜy%ëÕ¸ç¶ì90lé›ƒ—Ì›~k
-]ë„iIó›Ð/Ù™4²èÎ1/}p|mEmÍàÛ¤˜âRúÔ!_Òp<´Ò¸2ŸãôÃiyY¢{T\`]>T(ÃåðÙõ B£\‰cdÈ`ç¦Ÿ–á„-ì,Z€¹çePóÕ#µ¬H=cpŽíŸÈe™D†¾XpR†õ24±²|ÒYÁI†e=kZÍGD>ÌìôÅv”a'PÏ1ä²ÒÎG®ž8øMƒ>'² äjÙÕ•?WNÄfŒƒ;ùº#¬¾¹ì¾ÙòAÙ¹ä«Œ¤ÍZÁŒ…S;º›èa8àˆZ°ÓM¨u@©ò@Ýÿ«†˜éP„i™ùeA2KhîÔ³Šrßá£/½þñë÷+ÿ±/>¿›_reÝïx—/¿rÿÓ¿,Sé‘q¬Þ†ôHdP Y+¡sÅsœ(ñ:Ù§Ë×qºRÝzÝÝy˜®-Ç‹ º HÏœð™u&Àè\8UñQï´½ñ>¬((€åïã\äûõWþL¸-í
-lËWínD×ìZHf°˜1ZÖ‚ž×u²lìÑ½ÆÞ#w5æåx¡‡<^ÐyáW/|ë…Ï½ð/òÂjïfï/¿ÀU^èïéäå»{!Ú/T¶yá{/|á…c^xÍO{a›ë]^˜é…;¼0Ê½â…/è½pÅßyá¯^øÀ¯†áÉZ/4za¶J¼p›Ò½¹^.Ö&/ þsÿ	†ŸñÂ:
-{·—+bÐ¼Ð»á£ú]öÂ^8å…ãÞ@¼â…g½°ÕØÀ"ÖÀ(o‘—ËayA¿2‚¾`©x„uànÖbÖ›¼@+ÄyqØy½;¼‡½§½í^ñ‚ä62o7A¢RC9Ñã$0™Üétx'ò0Îätò¹1xgx
-Ò¡hß¨ŽÐ=Ó¬bUSøä®Q@—3lNW«ÞúÈÿçìEwZtbûY¥ìÝ¶žÉîÜŸ_ü©ŸOö&€ô.ßXðyÃ¶+å¨RKž:P?ýÊƒŸ=ä¯¿Ÿ? ê2Ú,1…úÐ Þ–dÈñDÏ‹‚NÖkŒ¯q”‘[c|Åø‘ŒvcoãP£0£ÀXn\nÜ`l55ž5^4JŒh½.á”Žái#l0Â"#”!ƒ•Vz’•îd¥µ¬4`„ÞF0A0BÎ#|Â"¬],Â²csF>ÑX€íµb["mz6)`5Ž3ŒÜ|-,ÀA!è´ÔÛç©;Ž=ŸÔàÌùmR•ÈäˆAòÏdðË4( qA¡Tò?æÜŠåcXw¬táô\eÛÃÜ_¹'Ú>ãº·Mi‹¥|ÄYœÙ(	Zí Ž£Æ‚„ŒÔ^âÝ|Ïxœ	æé`Š
-t0\}t¨§{ t gtpRGuÐ¢ƒ:Ø ƒZ”ë  ƒÞÔ®¢ƒª‹:8mÕÁ.¬×A“tPªƒ|ÕA#bF¼Ÿ„ñîbxÞ†:ƒ¡&ò(Cµœ0<‰a<9*–]¬¸6\_¥Kmi:Èb$©HÔrµúYVû† ks¥¬a4’&\%DŽ˜M:ÿ}–DÄt—‘.½^¨SÄÖÛpîaâæå×Û¾þž…§?âòÚqy|N[·ƒ“Á8·?ÎÖZFR$Ž×ÊZtz-šß9	¤’ X›ôP«‡R=äë! ‡P}õDvV„ÃÙ²é>—â…Ç/oç']9Ç{e7¿z0aÛšË»i»(¹îâ1¢%É»H4sJ¨–?î§ ñ^õúÕ™Ô†Á'Ž`Ó?ÿ©LÔÎ]òëÚ%×ŸÀIéšs"=°I©Ú[C'h³2ž·Ïi >ˆí‹XzÃö³³,~àÍÿü'b›¸DS¿ä—5*.÷(%Ñ@ß@(°ƒ…<§‰ˆÕ#u—ª¤÷¥Ï%S#ÁâáÒi·Ä¯6J?K¼Frâó4é ôŽ¤,õÁ4-Ú-}*ý]ÂÇyìñï«¡°´¶ZþŽ„ŸCíGžÏ•Gï[o–'Hvi¨T í’Z%ÍÜi9K}"•4´ˆ>œ•.Ò‡L^”„ÁÒÌæi.GA
-¤IˆB„MÏß^H7z”ÇIV©N: ½)}$ijo–ÆIK¥¤Ç$‘LÁ"!‡H¥Whä'×ÑíúÉh¦Ô+2=õæxç[™£oS>PþøÔ~ uÜ£ÜÂ¶•Ü™6U^í_)UB³òÊØÕÃ/é±û”yT·8aRµt)“Éa?gÏ‘t¸©#ƒ^«†p™H:¡[CçèOèÓ‹#ÃJ²³lhUžø\ØÎXå+;;CJÏC£‰Ÿd`d0Á×½»Vëˆ2¥ñ¼É-döŠuÆ:}Ä¢í>6¨ÕZHn˜¢j¢8=e±èóƒb%ÒcdG2ag&¬Ï„¦L¨Í„ÒLÈÏ„–1¤ÃÇØJ"q¶ ßè¼¯BÝ=º‡›Ûñ»+æü…‚=tÍ76ŠsØ°ýñ]_üüïÚ«õ¯¦Áòcì1 :~è-åEÍ°'MÝ|»qÙðû3ŸjÕ–×›dÄWö+iùcµµæªÚ»¦¯œôÈø Àe”-,U×¬—³óÇˆ9TèÛEŒŠ2º1âKL-œÃáÍ:ÌF¢spñùAÎÙ’¹I°>	j“ .	Ú“àLIÕÖÕ©ýEÔ9ñ4‹dãiŸÔ}NêÜj³è¿•ÜáUê=žÅIÜsšVAÈ|âÎão¼¶`åÃkVm^µKhûCpj\£®Ïá%8¸°r’ò½òõßŽžüúO¼zÃ~ëƒ²öiaÄh·i´Z›‘öš]ùÁ8{£}ý´]°ÛÍfŸ¦VÓ¤9©9£AóeÖ”²Ç#˜¡•yF§ãóƒ:g\çý„9t©¸óÚ0¨ÛY.¶EÍŽ…£:°­Z]ºÄtÐqæ™¿;f÷©˜—¢êªÖ5q	>Y9Ë°íeˆX î™MQ“f¼®ÊbÒeAÏWLôŠ%QQ&—Æ¤Iô[Q] Iòå%3äë¡6â¡=Î$Â‘Ä"VñQír;!)D*?³ºR)¸üihñíW‰ðÙŒípß¢]™×ªy†×¶ýeÁÊÍÍÍ›V-|®rØÁÍõ™4e!¼qÙ¶§¹¡Ôþíè'§?{ïýÐxs£¬(…ùá6‹Fë!Ä`ÐZxo´ÝÉ={<²ÉäÌšÌ2²[vžôÂ/ìôÂz/4y¡Ö¥^È÷B†æ\;¾:`¿¯ér«báâU©ø,Ž®L*Z°oÙ0w­g{™òÔùË—ÿ	_¼lZ¿rÙfüçå?LÎëÙN Dƒº´½án~ú‘}ê™(t¦¸âˆƒ¬Tm AOÊ!8—SgBE!„×`l8â\é®1®W£kk‡KkråbrŸë°ë´ëœK; SœZÆ›tË]	åy®@×Ô<Ÿ+ÃUêâ.´)))ªÙ¥~Bx®Faf²•“,õ`
-º	þì,v:Âå Ò‹…,Tµ>üðÒ£z÷ôô1ÿâ•ü‹ËîÜ°Ô°Z~GÙ2U×”‰ü9añ¡·½#Pï’å8ïf±ðq|FzŒÉ¥³GÙ“òƒvsTJ~0ÊI´h	Ð ˆ7¾8‘-°ž¥IäŸÎ€#0&vf@S¤g€)ÎgÀI–&‡¥—ˆm”NeŠÐÙNâd[vÉ]éŠÏ’íjYê¯•,f¾wh)…á÷Ôåë¢r0rYæ¿ûÊûÇë÷¤q’ð´æù¼eã›Ï[wûò<eâš¦èQcaÀs•U —.€V•uÙ í³÷ÊÛJ?þå‡+Þ;óå›å¯0¸¥ü#ŽM7)pX,VIkÕz¢m˜mÕ:x#ŽHóÉh8-Ñpž}·GÃ™hèÈÜµÑÐá0Ö…­%ú{¹WÕƒo(ÚP·ØŽ ]»©ÿãw·<ùBÒÛ7·¶j_2cê¾?¶¥sÏÕÕôny¨m©xLY|ÓRÊw5}ó«´¤:ÇkµêA“à 2g_uEå´GØšÎ¶S^£9Q¤.¹ŒaEÅ×¹¸!“qˆ•AŠW·¶¶Š¾gž¹tFèùÂµÿý6•&3ùOà/hâ,V“I‹ó¬Ö«vÂ
-‡­°Î
-Ä
-5ç¬p’=äZ¡Ý
-û¬°ƒ=Ö„÷o2ØÎi+´Xa'ÛÃ€ÓYý›°Î9V|‚A`q“j­gÃ¨f¨ÕÊ˜y†µz$¸³ŸßþÚø­cé;´±”9z~«k¶‹-ò¬n]°à¶ÌAÃú©¼š´¹Y^£É«žPýÓfôñyä™ž¬LG/['ë¢§.¾`4Äsý*1¶“QM6Åc`ü„¼Rc“q§ñˆñ¤Q<Mƒ]õY F3©Páãy£¬å@«$úf4s8ƒçºr`2USæü©&'“Æ&9×oTñÊË[[áÔÇÊø#ü8[i])ãŒJzÛ&µ0ˆÉ}^`,1õòçE8#ÂéðÎàšØ>`œ&¶3x:bÓp½cDhgUN²üàßÍ5»„Í­â±K½OW¢ñãÕÚÝÝ	‰—ã}VIöÉ)=bÐæÅ˜ÝâpÔ÷1˜âeâ(OQ)›))—¦ø.N§À+)ðt
-¬IE)P“X©>f`ñ¬x+nL¢“Þ¸œçXå€) 6Â „¸˜§Â¨±îÌèÍŠ°áœË¬kîd5êQaÒô¬µù]Œ.µÔËžLî«¹>J)Ef¤@z
-ÕB‡‚Ôë·¿"ÙF»×ÅÃhÝ3s;¬zÊÕ-2UØ>YrÈÀõîšÕ…s1Ðº±lµœ'jëW<¯ÙÏñý7ÎZ´.†ï·cÎ®‡L¨·Œ{î‘-;ÛÖòã_ë!¦æŒ©Ÿ4eæìÒPËøÈ‚}¶­ËÿåMÊ­²¬#ÑºhoŒÕIœb~Ði6štÄq2ŽÄ@Kœgßí1p†íwª™;Ù†hg#îc'#a¼#û†}ÉéqGpéÆÖPg=¾ðÀÜs3çõ>°ýjj‹÷kKW}B!iÖ¡W˜Hµ°Ý,—[ŠbŽ :‚;Ý°Þê¾K©òÝá†Óî[ýÛçäã¯õ¾/ýøÃøæ—o_»ç‘ík×<ôØ®‹rVùâÁÂe(ç”¯Î|pâ¯Ÿ~v2;(‘¶ÛØ9PŒÜ$Î"I2‘““,‚ƒScƒIòr	,vH†ÜdXŸµÉ—íÉp&Ž$ÿ·Ø!Dp|BW¿³ƒ™ŽˆÐ!|ªŒÆ—&ˆB«æ9D!cû’÷ÞyíÎ{f.Ì]µyÅ"<¼*=¦EÍ“}„^ÓlåÅÊEå‹¯ßœtxóŸþðv‡OtyMýï—d±˜cy3Ÿè7{fÉ&=oÑL|4$‚/N$BK"¬gi’ˆ>óÄÇ$ÂÎDhJ„ôD0%ÂùD8É7ö~Ç_;œõ¯ã·Ð#x¶ÈßfýãtÖwöAçYm«ÀõÙþQó¦Õ®ØÜl'8¹>+º<(øþrxq×Ì"nÐÇÇŽþÛÑ¿„Æ·
-ûl£¿°ÔØÐŸ1Ø&Î,˜Ô‰ +r‡"‹²ß©r_õ7–û4{%!¥vZbRâÀÚyü ºæCIk¦éžÐ½ÑÚvŒ;öÎ	ô5{òÀ@­&Áã5âuh„”TcïvÇ¡Íu›y:¼Óœ
-$Î§Â™T8’
-¥©Ð”
-¹©€ùÌý¾ ëwŽGwo¹%§Cšz~¸ó–ÏüŸ“8¿Ãµ¾iucá”%[—üøÏó˜iYõ“7­[<¢¤lÞ}ÏÚ¸‰c
-ùÑ	Ýn«Îß°uñ{Þm#G¥ì‘”xÓÈ2ÚÇ¸öóŽ\b'Ã‰F»]o2É‚àtD‰Ú½I/$g¥c¡É>m}œ®«‡Oœ«^;Œ}È¦¾}ß,G–Ã¯.p=‚Å¾{yö‚÷ÞËÊM*¹â>ZváÂ²¶ÛGçF©þ{_‡Ðm\I`€U’ôàÑ{b¼V‘™8§Ñ!Óÿ¡‰ëôò {ØCgcÔ(’ë:jþ×[8¡Û8fã¸ú+Ï^µqÜ‡H³íò¯H³îüD#ëxŽÓèx½AæLpl5Àr” À Cà3€Ý ‚Îà5ÀNlè£LW‹Õ²È‚S,_Å[Äò½ó×°üQ,_o€¾XðAç‚Üÿ!0×pùH7€Ù ÄÚÂ,ùéõ·O¦Üø`JVî5¿°ˆW7jrÁ–ÅUüI™äGc?×Ÿ£hÝÞž;{“@{}["}#"<hbÑj¦(Þ&xo—´vŒ­%	ô’ƒ²ñ’	^ë˜ç„iN(pÂp'ôqB"'N¸è„¿;á¨8a—6:aEr(ƒ´;Aã„ªŸðµ>qÂ;N8Èà–;¡FbÔ„1dè60tUN˜F‡ gð)kav;aµêœ ¥¬ÍDFT¿‹¬©£Gkg”2X1Òs™í¤è1Ê]ä„r†½·¼N8ÏøÀ	­¬ùå¬4×	œÙ	ÄÉÌ{É#‚ëwœ‹o(ãë÷®
-Ô•…ÿÑá¦;Åt{ˆZŠ¬Ž3G~þêf\_[–~	?|-QN~é¤òáµ‰–¯ßx--îx×¶§çž¶|¼û¹‘|Q›çõ5|4³.‹ß¢üõPØIÏ¯éÐÒ8^ÔÊzÑhXn„yFj¤»^|¶æde?á¬>e›iÙnÙ<ã
-ãF#_nÑiL67N0ŠÓ5ìNKÞ1~jü»QÚlüÜÈ!ÐŠ"QÒâŸüQŠ ÙØ+
-}§w²|ÑHÎûÜts^ŽŒ 4°á.Ò‘'1¬á[é~Ýzrøv*² ¼±ç3«š`uçíd{vfc¾±ÖH¡5 å9Ic"œ£ã˜Ým-)N‰YI]]JÝä	]ï_ÝÃÿ²%rW¾PN½	K”ûß…(0¼¯Ü+àUe(—ÊE)EðDÛÅ¶¨LØ;’P&NúF›d²Xu²Ì›¬‚Û%ÙL6—E6´îÄû€–º¡Áånç†›ÝÐÛ‰n°ºsÃE7œuÃGnxÓ­nØå†Hø	ðN?]­ðiD…¿[!ZÜ€Žé7,;¦nÊ|SŸìnÜpÞgÜð‰ŽºÿWð}Ï¸“BðÀ`8#a¸ü0.â†#a—3ÓÝ`f™§H¨èn´Aþ»oÂ(¹~ ÿ—÷a¨Ç?B‡#ì´-¡k6Îö¹€CãÆÅ™™œöÔ‹2þÈY1êV~ø¯+¥CÖ*õ+5ÿI²ÛöFuýÒø6·ÿò;ÏîÏÆ2{—ý=L	\á4Z ^#	z†øü `-]Õ#ŽOôpT­zØ¥‡zX®‡=”£`»…½õàÓƒ]h.êáŒþÈoÀeð‰zôp6Œv'kº˜Aö½È U:v1ŒåH`MvE6©¨-!MÜIFTkm=ÛïÌg„#Õ‘o:ù¯¡ëµr½Nª‘§‘§ãÃÛ¦Žñ\qÛÛ¼¹í1®~5Ÿ¼fõ•¿„ö”‰Ü*ññ£oÖßÙ¥‹ž·$ðZ!1É#i%íOA“4FâÒ¥ÃÒ	‰7IéøtÅÅK’‰˜¬XLH|§ÝÍÐ"øœºÈm„~ä€nXïä®Ùƒ ï}€ƒ¹êêéæpÐ¸ºªzöŒ{–­Ì-ºmFa°ê¶¢\eâ–5P5·^lêçÂŒµ/™9KÙ6y5†s«Ê”­3f/Á~¼¨Œ†bºžƒÿ 'Á	Y.B;Â] ÂPz‹ÈÖj>á¨­"ìA…)g¼í"ÆhPyQ„³¬¸–tTV×}°Î†pµ"¤„Osç#ÖE¨	Ÿ<‹ÞïDç³èqáçg"N¡«Î±µ&„?>Ž®..!@zx=J{ÝÉ˜«ŠÑ©¨äz½¹FÒY G·Æ³,/îVFkÿ²4¬#+Ã:¢w:…ØèX¿uDë‰öD£xÆx¸tÏaÏ	oò¤ãÓ9êˆÇcIHðÿLðZÌ?-ä¡#6êº‡~Cj	ýöší?ºQTG4˜3¹hLepÂÌ1E—/»gFMmÕêÆåÊŸgÏ€Š)«ìœ}e”Ïš¹äáµÊÆ†¡Qh˜«ljÞº„öã®»ÏwÅXº& K6—›XžÒîÖäy¡[ß®˜<v²³{ U6ä‘€-Ð}`žM¯ŸÆéÇèwèù}#ÞöéOèÏéÛõZ}@6æéÕ—¶·ùhJô)))GSÂï) »lC5›…|êáYôŒnvÿˆ%…C×<Ü»qiÜ‚žKëúÏåº§F÷ìž¾® :ÍÇC=’)í¯Àë°˜ÛBxŒ‰íêoÈVö9¦dõqï9°±_‚Âëý+­›'ìG%£{×ñ´îïì[Óš¶,ä}~B9(ì·C\¬ò­z&BØÏm?&2â0E‰—x½øE@ÂÇ”CKhàç³³èñpðØ·•ÿàNU!Qö={ìlM#KXÏ¹4õì=
-#éáw¯É¦µÁóôìdœÌÉ¼ÌxÇÚ ‰Oçsù1|#¿ƒ?ÌŸÃF)±ìµlìpëÿæÕl®ûÊËï»¯|êºY£ûåŒ¾u@ÿ[Å¥4£âÞµåýFî×wÜXÖÇ7ñkýÝ-è¯«<6G"³FCúª1Q-Fudq ¢l}„}‰„™Ù¹~¿S"|aVÊ™YñFÔYÄê j®Ãš¨–¡Ã,”†¥r½e¸ê8ÜxÍôFK¥×¬S¿ÙÊvK®ÓY¢çR@ƒz ÝHþ®~­5ŠÛXuŠûGå·Ç„·©@Ãu—ÃØY¡Ô€GC‰Hz¤} ˜Ï—òÜN¾u‰½&eÎ5r½†¥v›;¹ð-Ñ5qnzù¤')}â%n£FAœ¯ª§¼¤Óïà÷!²¦8 oZ,¡GzÒ‹£_£¶]¯U[ñÒ9Çš5:†ÄKp^sKrÀ‚F»ƒÛÇæx®)Ž¤úkÍ«8é@BD"H/Ù¿Žý\=wòOäßAñ5ââ„@»Ã#»ív£Q\ôÑã|4Hàé–IºõßHÄº.(‘G<°Ö=På"Œð@ŽR<àõ€ìŸ=ðw|êXáLñÀ8ÜìL$xÀêÎÓ/xàk|â#hñÀcxÀM¨WêÞHô€Ó‚Î3ø“þ@~9k Ü<0Ü}Â¨ø?òÀQ´z`W˜ y˜Æà‘ Èð€ÏfV¡o Û8Ãh:ÊhÂ:Xµ(õ@~M„t6¼Óë#¨)C
-áæ€[Ïú‡¸r=î8˜<W‡FÉµNÕüä’âˆÏ5.Øñ¬#ÜêôLf±Ž³w=…^¿	!§(c¯ÁÄeevÁ«oVÀ÷=
-Fß×·\¤Ï››Z0zX—rË–raRÏ¤A9ÓªnÂûüØßÕà<›»Þ®ÝZbø‰SÿžÃ{_·Ðû‹Òœ—w·=¨›¡ýŒÐ?öÀõƒõ´ƒ”Ñdˆ®õòîKwêf„þBÇÕÏJ!Ç¹½äßB=™ˆ÷~¨Þ9˜¾‡Ë!+é“i>Þé5Ókðº—åÕ“	ôÂ:ÝñNð>Š^hOãø,r§ø.yŠÂá};^•âRLŸy/™†é§?Áë%î3†KÆË©%#°,V’JÄÕˆ—%ñÂ3¤aásÞ_¡u>¯mxMÇk4^éxÃ«¯*¼‚x•†à!Ž
-Š‡ÝëIGÅ¶J£é¥iáoä)M™NŸ±ÞkØoË¯Çü½––—Ñ<vWëc½4Ö×	DÖ®%2ÞÓðê‰ùƒÏ¡þšù7ˆN¨oÿ
-û2#ÄÇåŒ¿*?'"Ll(}¼KVÃ»íÄòfL7cû«0U¨|yˆÿ«¨Ì°^•¦µâ»ímxw1ù¡Ü¸gHg'/Ò;öÿÆ“½$/*·,|~“¦±»¸‡1o-k§¯N&}Èh2,&“çÈ;äKò3˜¡Üw@Ü…Ê5s;¹¿r?óQ|2?ˆŸÀ×òÛùƒüAáUá¬¸@ÓOÓª®-Õ®×¾)EIyRµÔ,=&½,]‘»Éóä³ºdÝrÝßõNý*ý»a¨aža¯á¯ÆÆQÃ£˜ì¦ÓFÓ{æóRó'§åVËëPë*ë§6·í.ÛGöÉcœc•óë÷­îUîçÜï¹ôìôò|]ý‰··wc‰™ËÅNŠÝÕeP—]þwÖ7Èw¯ïb|uüÎkÂ„„ÿ¼ÄyIä;º&v]Õ­O·-Ý~éîìÞ¯ûäî{{ì1¥Ç½=õøkªÀFÏJG
-È½+bÆ9áä×.N ji¨îcIK(ÄÝBiŽh!/”æI4¬¥„y#”‰~¥5$Šó„ÒZr'ß%”–ˆ+”–Iÿs(­ƒ*Íç¡´žÄHwwüUž4é—PÚH²åCé(-·#% Èøô£Š¦û"…Ò‰‚~¡4OzC~(- Ì£¡´ˆ}ù0”Ö¸JkÉE®[(-‘nüæPZ&1üŸCi÷‘ †ÒzÒOJÈÒ–PÚHfÈ]Cé(Ò[~Ÿ%Ud:^xÝI*H9ñáU†Ïe˜šÊþ2ÏBRÇ *1×Gß,Eºã=“ýÍ LÝ‚P5X>ëûÈL×a-ú]ÆðÖj’†%:Vöûø215.DG«ŸŠ©ˆa*ý]ÁÐªéUUwV”ûÊËÊ|SkjÖUM¯lðu›ÚÝ—™Ñ+ÃwKMÍôY¾!5uµ5ueU5Õi>Ýká2}ãG^YCªoDõTD|+R4Û¤ÙGÆãS5}sú­US*Tl¾ñeÕ˜AiœNæbŸËè”ÇULŸ;«ƒz*–U³¿tT‡8zâõ_°®ŸZQ]^Qçëé»®¡ÿ¿„M`°õ™È¶^xecQE]=ÌLë•–}cÌ7Àû{dT!¨iJ+¡}žÍ82ójÐæýž4}WÁ´þÝ§
-öTÎ°RÜ·#Äx•ÏjRž6°ÖªTÁZƒ-NÃúS™&†!§2ÜT£UÌ5˜®IgÊ°ŽQPÎê…ûVOµ-‚¹Uõ¾2_C]YyÅì²º™¾šiÈWW1½ª¾¡¢3«ª}·§Oóå—5TT7øÊªË}ÇL›V5µ‚eN­¨k(Càš†JýŒ¹uUõåUSikõi7R¤¬«Ê¡ò8_1ŽÍc|¸ÓçzµÊø†Šy¾ÛÊ*ê)ðÍPb¾*ØÁŒ)³ñ‰
-l>ûs]Sñ›¦Ë˜ÐË::Œ«C5§àÀöýnÃ¾PÝ²òT³?ý5/ÔZ'5¤ÓØw=k·ÛðaZÕL£”R7í*|L¬eLITÅœ¥v*æÏÂCFm6òQmuJÈlÍgF°²£ïŸÀÔï*/T•ža>–[‹éF{˜{=™ä(ýŒ*š*cFu
-Ö˜ÅÚQé¨dŠ[ÆÔ®"¤†ŒÚ0—ÊC½¢Ö²œždSYjH+Bœœˆ&øÖbT¹9l¨$f1zë#pW3jËY^Mg)Ô¬PKjg1S?³C*Ó˜6ªÜ+gØzþ§1Þ4„Z­a•ã?UÎªFÕ`Ý¹LjêPWu½á:Î•1þÖ„êÕ2#Ü¢e¶:to.«Ç¡ˆwp]ÕìšTßüÊª©•¾ùeõ¾òŠúªéÕX8e¡¯ó@ðaiõêêšy8ŒæU¤â°žVWQ_YU=ÝWvÐW_QW5-„Â×PYÖ@ÃìŠ†ºª©e³f-Ä	iv-V‚3Ðüª†JÚzÙ¬½i*h5¦¡	öUÍ®­«™ÇÈëY?µ®¢¢Û)+/›R5«ªqT–Õ•ME[‚¥jj=³h"|µeÕ=‡Í­«©­@"'ÞrëU@$Kµ3õ5³æUÔ3èêŠŠòzj§Ê±‹³°6<«¦f&íÊ´š:$¯¼¡²g½Ójª°j¯¬¼ûŒŒª™:w6µ`hUÂÄ•M­«Á²ÚYeˆe6µT•lŒ×’þèÈ¥£&Ðil¤GÚ¯©!ë•Òt¬ØÐPÛ?=}þüùie!#6mX•þŽ–ªH-SæHUÇÔ‚âœêò»M7,¬­)I]}ZeÃìYêô§6¶“s#,sxÇ©íV6Õ†ÆþðÖû®Á@íÜµ3u/6Sã¤ƒôPåË¬:•åø·úÆÔ¢šGùB ©ÿ_YWÅ…ï™›u«-\kÛ¸mIO
-*Ál³AQ»cnS˜Ý¦LR²>nðŽoBüÁ‡è$°Í‹…øº©aoÒÝB­«}I^|kÝmªmlÕi}’0=³I}Ðçœïœ3÷Ü¹gæÎ†ÓþÿzÞÕÙõr¹¶ž@cd{ÍëæüélëÅ]:³e ›plÂÓzl¼3îLÒ•Ñl“ÂÛÑÿ0_¥²f G™‚O¶u/8ìm†p‚4’þ˜uÃ1ò!Mqæ@<ÚkÓ”sÐâÌCmÊ›À6a—ûÚŸÃ¿™üGvàßò þ%mÌ“%7È~Pb¯?zøþº.Q¬ƒ³.[ñ—†ÄÕF½4¸Óè>,2Ïž†ø6Ô“¾?Õ)¦ol¨ßû˜ú…øóñºªWŽsõQÜÇûVS8?&Þ—«÷àv­ïfà÷?t`ødªÕB•G_¸Ãêž”ÄJºâVò•ÉÊ\¥\‰'¾…‰¥›Kf‰‹%˜^³b^Ëéå`™Ì´±Œ©™5Ã“åtÙº¹`¬ÚÂÚ‚•¼•¾eÍ}µùµyË-ù%+YÊ—î”ÂRË×7öaæägáÎ,ÌÊ6üª¸E‹“E¿cÍ83Va&ü‚oMûPó×|ËÊMå§øâÜe¸t±=FMÉŸíÁ³ò¾	õnwBÅ»¹ÚAC?E±ñ—²G†ûp˜ô[©=*FåiIq5ÎáÞÃø8¿ÀcA6tNg-'{èˆt²û;äj>“íØG™?%.K¨Ë@Z	­©wÔ› Ôî”PÐõg€(Ò"'&E‹IáŠ¼ðE]„"ž&_ xžË¢í1¨Âôâƒ¶Ý_‡Ÿ÷›xfÄÀU³0’NvØì¸j˜9¹p}èòµk¬·­ß¤OšSmCýæ4'»Û[Yïö´wÞŽ¶ ól[ëAdÙ[±&[S˜£Fdxç™¶µZÓDòÈ¯a”°¦¥‡ü¨	±¶·ó¿ÈDŒR"ÞVZS;Myôvw‰QöÝ•ìendstream
+xœ¬½	`TEò0ÞõŽ™÷æÈÜW&!“L	IH@2r@ @„1$Ž$$á%áP!ˆ ¢ˆ  "
+Œˆ'¨x­°à±¸.« ‹ûÛõ‚uÑU /ÿê~3aèþþß÷¼yýº««««ª««º{^BŒ¤™ð¤`ÜÄŒ,²ëƒ˜óW¼Ê¦Ï-¯3½l~’„—sú‚Fß¨¿Œ¾HWˆ×ªu3ç.-?`!D@xmÛÌ9‹g8¼¥œÃzBŠUU–WèÉšVB*Ž"¾¾U˜aÜ ˆ„T
+øœX5·qQÊÀÞ#ñ¹âóÍ©^þÎÙ}!df>¶g[¾¨Žÿ–ª[ÞWS>·òTV}>ßNˆ~U]mCcÇaò!Ÿ¯®¾²®ý¹›_c"!üPÂÃz‚í‰ˆÙˆÑ«ÞùÉÎ*‰œ^#pô#œ!ºŽ²1“x¼Hï'%âë¸,~¬Œ‡lí`Ø_FàÐéÿ`_ˆËhk$¿Pþa‡‰t,ÕÌr9ä§€-kˆ–HD&:¢G#‰"&b&b%6b'â$.â&M¼$†Ä’nX;qÇ“â'‰$‰$“î¤I!=I*¶Ø‹¤“’Iz“,’MúÒ—ô#ýI.@’Aä2˜ä!å7’!d(F†“ä&’OF’Qd4¹™Œ!cÉ8R@Æ“	d")$·Id2)"A2…“[I	™JJI)'ÓÈtRA*É2“T‘j2‹Ì&sÈ\RCjI™GêIi$óÉ²,"‹Émd	¹ÜAY ’;K²˜}wù°ç	éøŽ>]ùV&“ÿ§I½µ‘×È^²½KÑ*²¿Ÿé’wˆ¼Ežf©Ídíï }‰ì	¥6Mäîß„›EV žØþ•Oæ.&cË	U	­Î•ž"ï_|	ï“ûÉSy?y¿7ãhYÂýHîç&îS~YNVc·A5Y‡ðed'£$—‡LE9Ö^…´…¬'O Ôš¯d‰Ë:þMŒ—ŸGÊW#ž‡PêóP’¦ËÝ:~$}„¿£ò	9ÄÇ!íÏ‘X•eáºÚ|~w€ãÚÀ‡ûPgî#åðÒ¹–¿ñw¸ùýÑ,ªˆ]ø€êPÇÇJÒ~
+%ô2rãxà¦â)Á¢[
+'N_0nì˜›G™ÓˆáÃ†¹17ø†Aäöï×7§wfFz¯´Ý““ý	ñqn»ÅlŠ2êu²¤ÕˆÏIóµBÙðV>ÉgQîî/Ïï•æî®Ö+m¸DY«¯Ü×Š7!ÙŸŸÏ²üå­¾2_k2ÞÊ#²ËZ9ã*È€
+è„³oD›ðûZóûÂ”ñE˜^;Ìôµ~ÏÒcXZHfF|ˆÇŒ*J­oxëˆU-ÃËFØ§×õ­ÔõJ#ûtzLê1ÕÚÃ_·z–àz°#’‘6‹=^^ÑZ0¾hø0o||°WÚÈÖ(ÿ0VD†2”­š¡­Z†ÒWMI'k|ûÒ·ÜsÐL¦•¥*üå·µòåX·…ÞÒrw«%µ5Å?¬5å¶³nìyekšØðÖTŠuô„ÎvF_iZÅ$³ß×òÁîø¿ÿ®kNy(G“dþ‰Ðd+7´&ÅÓwòº¥e„ß7¢¥¬¥ü`Gó4¿ÏìoÙg0´ÔGv“‚"Dq°ãå5ÞÖ÷[ÍeU0 êúˆ	£[mã‹‹Z¹¤¾ªrÌÁÿyþøþÞxK'LÁod29OÙ°æ`€LÃ‡ÖæñEê³Lóî'ŒÔ`+WFK‡K·Ð’æpIgõ2?ÊvôÄ¢–V!id…8r|Mykó4Ô®YT0~skÔÏÞx‹ÕâËÍ2XR5²¢Ú×*&#“°VdÔZ¥ÅÌ¢~Voß{±d‹Õ—ëG4Ïpÿð²ÐÿUnDàCFç§ªŠPXÔ†‰@yHbÃ÷ef`ò2Xõ0&ÌÖ]«Ý?¤Sº”¬áÕ‹X•PµVûÐVô6BµZ3†³qåÞR6L%âò/z‰dwœÙ×Çç}žN}ÁaØ9µ,yxKQÅŒÖ¸2oŽ»¾"o|k ˆú‹*ƒTíC)g¼L9‚LW
+‹FOô?¥¨ˆµ€¢’†_…Æ_äUÑ ¶JI’¯ˆóòA4c†o&üCáw«6IÂËŒg¹Tq‡ò—„¡‘ŒÖßðÊa!8úÜ©HÕih~›†>"ž¡ùÞø`¼úé•Æa±/Ô0Ö(SóÃEh¦°@BýšÏ²(/ÝTé}EþJÐ_åkÑ¾Qö0.‡˜Áx’Ua—§f!›H<‡(3[G¤z#™Ûz{î|Ì¿ªxd¸Ø×"ùGOl¡Èý!„)ÙJ¨
+ú[¼ÌÐíGÛë3ãfºe_ @sÕ ŠÄ?²¢Å?±hƒF{r‡÷6Ú–•Œ†Ñ…Cz¥¡i²Ï«ÆïÀª‰SŠ^2£·ª°h?ÜÐ²!Á}‰XVô’ Ëåh.Í¤>ú@1MÀ‰Á{_
+ «ÇJ–Áž§Âò¤pé95Ï¬6”Ì
+ ‡8ý  –ÂÐæIj^3ËcŸ}„², R@8#çÝ4k?æ¼Œþ§äyÁ»kM`Ù¡yŸðªÍP)\uË•¦o™Rô<ú¤àeßØÐúAuqW¡°qZî« Šr{°ª¥,Hq¢hð?´‚0ŠÉ?	ÑZuþÊ!­zÿšŸGóóÔ|Í×¢Š‚°z3Ê¾ ¨ÅãôE¿ïm1O%D£Òbþºw=‘,ôyôãFN#ò^–D^À¬¼cÇ,VÈÍµd[²{gÚâ-ñ6K¼å˜PyióÍü1qÙÅ&1ç’Kø'úäßð:à±hÈÒþ2¼ˆÎm-i"|IŽZ>¹ã;Á-žµ&£¯K,ZÒuX`G.G[’¹èÂèXƒ%)Õ’CRs<"áþ(~Œðó^Cš1Ã} ìvK28v\jsÆðµ‚%ás;¾ã0øz†¿™<‹ø#¤¦b•^¤W¶†DÀß‰ðßj¾‘Á/;ÂGLtë†A<Ä{=FZƒU¡uÐå2X–3ššòX@À„<AK¸PVT&ó—ì¢P½jÁ…Ð®¾®hÙÙ_ÊŸ_‚/ñ§7RÓ[ß»}<ÿÖßi¡þžõ7
+1æ˜£6¢¿1{„Á/Áo!Œ£:‚v\h3X‰®ÁÚXƒmü‹ÑÔ¨Qišêƒëxs¼ÝT…iºÛø‘µ1WPÛøQmÃKácv(m±~£§Kª^|Ü©ÍäV‡£Ýàbh˜„°j„êLÂ:±Œ®š¯f†x…¼å\#]ÑaQGÂÜ	¿‚œWyÅ¹ÝX!b]Wt-I
+—Í­×b¤xC ›1*
+£F­Øcbµ£Å¢;´|âù:HN“¼TÉv³oknh¼d³ÿ8fº†~ƒ!§O²?A£Å‡ì,§Ã®m¼#•‹[6»¼è¦QÃŠ¤;-kzðÕÛ*ìð
+—=søŠQÃê=r˜4{å’šZ¦ÜÚku	¼%Ôs7ãàìH œ y9h‚8Èƒq dà­öÂi!œš$#µd^*£©w¦%'Þ!ÔÃ[«WSgž#£•‹\)ÆD2ÆÇ£IfÎªÁQ’¢¬V‡çVãîbI²Z¬[Šµ–½Øæ€’’‘Íú›¡~SÜáîªf"É®Ñúûæøs²ÅÎWêO[<µèMå…äK¦½•]úÀM«–¾µ~Ö½7âÒÂäJÑ©´$›l6(kÑÜZt²fÑY¶¢3év&¾“˜¼b:M•¥“d|ß~ÙG¶#¾3{Þ6µ¨ýÇ¤ÔÅ¥Aþàý¥E"î/`èê;ÞB]‰ë8Ï[Ä£ædŒº©®¬„£Ï[÷xÂª6#¤)9H÷mü­ÜAñ!¢'.’p²PãqóŽ½A^È¦½AY@!ÑnóÑÔ[
+v?!iB}Ð2åpØÙY}¹ƒ»,Øýä¢EOÎ9zôÌê‘£ª„Åw=5þS»Þ\5kÔ¨YÕTŸŸB»]¥QPŸÇ3ï„ê˜q¹ÄdÎs°cw›'N0þî8[A~
+:89Ÿä‹¾2Ê~kÇwbŠæ<Â2ø»àûÐØ·‹É`O²»Sä«BøÅŒ¦!!šŽvÚ#¬““`–#ð— =¿0ø	!ø†|z:ÂgÚ2ûŠ‘öZµwÚÇä/jŸ³²ü~;·õë6‘–H›úZg»YŸ±NojSì8Ó6`Ddc3:Æs/p«qìWN_½·ö	_^GïŒ¾K²+{?>rª4ß¸¸û¦f›lƒöŽ¬«ìy“¿`ôƒù7êÊ¡avÉÔŒ“SŠHHn‚Âx:,ÄÓÓ!ž°Ë†Ñuòõë%$¨IŸál ƒ×j9A%€	 Š1 ˆ[ŠŽ¿_†•2ÔË0M†B†É%C‚v~”á+>‘áˆûeØ)Ã†0|E¾‰aø™dxI†Ý2l’aµ‹e)Ã2ô’!N“2œ“á”ÈðŠOËð¨ke¸C†ZJe-Ã@ReðÊ —¡]†ïeø\†caøÍ2¬að³e(–aÃŸ"ƒ‡Á÷»$Ã·]+l’Å!bªYµ	$)V
+¬RsH†½2l“a	CÝIÍgÅX¶N†&ÊÐWwH;µ$ü)ñ)­ïú¹úÌ»êó¿ƒ%yÌ*ü±:(?ŸÍç •š¹Á}ä7a-ábÓûïS]˜Ì¿Ã5‡|5ÀÌsZ§A_Í‡:«áÐ]Ë>V’ic½¸Y÷Ú*‹×:òïÀ+ÊpxEµÿ2êbµ¸õ<Ž¼¨€xÐ>h»Å9—FŠqvYe²
+6Ë­í6Y§³¹E!Ú`ˆ‹â}zI+ŒÝb£Àc"f‹Çé°ZÌF8a„q–u–m>Ï2ÎÂ-F‹èvÙm¼NÖˆ8dgçáeÍÅÀ·d^É<ìzv¶ùX~"“VpátêºbÒ­¡çÐ…=äãñ¼ßF/œeðŠ·eóôBƒw¾y,Ê×E5“”k
+ßÿrìe°kŠ`vQMÑÇí˜5–Ÿ¯¬›£TÁÃôšóæ¨)¥jŽ²pÎå‰³£^˜ ~GIÉ&'÷ð\/ƒ5::%ÅïO4õî­Õ&:IqqŽD'öÉñd™²‚ÇSàÑW¥À"íŸµÜ»ÑŸFs¢áîè'£¹O{Ã®Þ°°7ô2ôŽÖ¦Ä%IäçZ'í§Õ°¹òÍ“	dÞÐ›óM=qJiú6ð;y®Žoæ9‘wð·ð•¼À’‘…z•u,4¢6EKÍÎ.)AuêsIIh~tu™#gÊ¤D¾_7tLÓy:Q¢âƒ6º[ºñœÆ~èCŸØ)˜Ài”I#öx¶Ý»ïî‰I_¿ý•£=Ÿ³ß6ÿùEé?~q;lï3íÞµÛoÍš^«\¶[á–¤…‹d8Ÿ6¢¸jäæ½òŠòÆíñS«õÊÐž#Šâ=ýÎ}ca¿$%Mnä.œÐ?žˆ¢z*’‘4Ÿ /¦'&ÔÕî(ƒÉœ’ ‰2Œ=léÍhBåôqö>4;›Sñ.D¡#ÇÀ‰ø`1Ÿ„wÎÄ©©Ä—Gï×°£ë¬~ÈN¢ÎZ("féÈ´æ“[·lÛ´kçÃ—næyôÒémlÛºuÛ#bÉ˜ââñãŠ‹&\:ó”©·Nû?ýŸ/??{úëö:q™áÌŸ}óS§O_Nzþ±­ž~âIîÖÛžö	œ%Pïòq>í+®&~’ArÉüÀˆ>ROc¢-ÚïµÅº¹LgZ–Î(tfuÍÝÇÓtæ~\f¬[Àùv½›ÁdÎ3s2oûŠNW$NêŽ¸é•AMÏ<knN¹¹È’›Û…+½3Å„îQ@`NJ•1Tœ®¾ý\xËÎêçÐ„¹áÌñÉÝClvï[<úpõ§ßÁäøÌŸÚøÒ‹_Õ˜7à¾¼ËênJï¯Ì¬˜TVqãŠ%y£ÞYüÝæ»nº×ÐtãˆãÁ¹qðž=ñðÊ§;¾ëBê¯f¾Û),Î/žY\¿<gì”Ë;¾9]ñþâµýè\]…&ÍÇl¢' ç9tˆ©5¤ÆðXÈª†ì .dþ°´I)â¶ŠGII˜µD¯ã†»&³Î‹ã)//‚èÀ›­è6r³ÕåOæ,M/¼úÜ+{Ÿ}í¹×Ú8;ˆG?8¡¤)ß(ß*é…c‡øˆ?õ
+~^Ðëˆ £ø	ï½?˜9ô‘ÑjrÝ³V—Š¼úÜÞWhfå´ÒçƒàCpá¿><ªd+_æ£Äsû¹vìw™È2^#‹:QÐ-ô8­ä”@”’$NtQF#§Óq&óiÄó"'F!{Žª³•<’‹¶Â’M/³«I.Ñ¥ÕC÷~IýDdÞ{ õRþþÒÂ‡¶,|MùG/ÐV	Sf®y1¸’ÿËÈ»fC
+£«‚´	7	[q¬$ã£Á0Â°›ÞÄ•rœAÃAžÊ'µÐO{·–ÓŠÏã¼URÂÜølTÈÒ.“¡Åo‰Ï‰GªâÜ¶”"xêxŠ+S
+á™ûá¥ð~ÚæAå",#§p>KX‘H¢¤Óñ©b‰lÆ+#5ÒñNr„ƒXÆb‘SO± ä”Ê×b8ÁãêPŸâ²ì•à68\ †SW¢)FSÅpNlßŽõpJ…¥HO\j’›1`ÉHka6ÚÔWÞ:j‡t|Çå¢ŽðÄö"'œ{1ðAÕ F¤²6oUªíâ™‹>:W ëÅ=v«Æ@4Äí‘MAYË;‚¼'4®# 3çO ªŸeåÃéì,«àÿõßÿ¾ð=_¿qíŽ]÷=°}Ûîe›rÔÃt˜³”û•MÐ¬ÊÊÊ'Ê7ƒ4oÁn™PçtéØ‰ãôQxFAâGÂÙÙÙ!)Ò~Ç[Äœ$*Â-0SyÆì‚É›„AÛóõ%÷&ÊŒÜö­ðÅ(“äˆu˜ˆç“b0Õ7­Z 1$&ÜÚ©ˆpûÊXÊÎ,^ic Íbí™ÙìØÖ<nÕâ†íÿyóO_ÞðaÃªnÜé¦ùÏßwûí«&56ß1Ï²û½÷_š°cÇž©Glbr‹|÷ m=Èô@®Vãq$IH2Çh4)=“,f‹¹1hqÛ–Á/c²€Y´Xxo\œ»!§åå† –Š&[•%™Ù]6ÿ«­­:ÿtïçŒÏÂ#9r²Y"²G8wÁóËßOv¸_NÓªÍûžœ1mÃãw®Xø€áìÚ'ßn\¿µî|ëä¯Y.Þµ²aÙ–eõóVÜVõì›o·Þ½»›`ÙÏü¿ä{?&O+éˆ¶ˆVŽC³6;,BCP²X@¯Ñ ò<éVãþ+ëW(UZ Ÿ1(‰ççíi¯âî|íe=×Ç¨lìk†!Oyòîá\¾ù^~¡fª­ý»QvÆß	l]fJwj ÇjC'ÑNlZÛ†\vÚ4Bl·hTñèhÞnw5íÊÐ™Zpj¡A»Íã-º8!ÕGÅÈè2±3ëf¥&ÍNTÖ^á(úè%Ò)MˆUþóíÛ?úä~wßÎ'î¹4¯5ƒo_áÿÜ‰ÿÀ§;È3;>Ü»éÎéý¸Ÿ7)7N¹€ü«
+é†“$‚@j¬EcÐ»Ñkx¢%Ú=?h·ó²Õ4Ö8hÀ¡ê»2T©¹ë¤¹‹{ÆTA¯$ÛgÓ&Ó$“äZàùñO?\²wâ39Ï?²»÷þ†·¾~ñ¡»–n~léòpì´¢À4˜ 5°Jù2îåKå|qé…“›v=°ìñ{ÿ«ÙØ[†v¥gÀ.	¢Hd™ŒDÖÉAF ²¿"vÊÍ,¤MÇ9üf+ iÞ|õk0´ëùÇ…sÊ¥EÙðDq·À›Ðº‘GÑÈ#zÏä–@zª&ÎmKBsç”Mfo§œÐ#¡Çü )lš„ÞlŽ™4kù^ó#m	›ëù(^[¿œH‡	ß'>Ì,›Ê83Ž,!ú—|Õ±uIÃÿúàÄ¿îj¼û¡/”‹Mw®¾£éNÿ–µ«”ÖÃê·þròí–Wí‚·mñcïyrq›Kp¾ÄÏ-Z¸¸i~ûåw®»Cù|-GeØG+öÑ…},¤w³¢þ¢új¬|R²!Þò7Å™¸(ÞdâoCÐÁì‚K!õ½ººÐé#tê®ÕFÝ1ŽõÒ¡ƒA°*ÿùé‰wSŸé{pó¡Ç›¯Ÿýåóo<²eÅò‡j{×îsåAå¶5›½­àý”¹ |úy»²sïžãû6>òüMË™M`ó˜0€Å˜Ý6^«ˆ Kl‘g€b01‘dDN36œÙx6»½õ?ûøñË?Nq±yqÉÄHÒ#!’Nù(“^·¥XoRgè-êš¹\×ÌÒ«3õ[Ç·°©ú8· RIò…=8
+tç5H¨Vó4Mšu^Ãgru\3GO˜„<¡VØ&G×ƒx2J²iœ¬†Ê.6‘ƒCG%ÿ·Ë»ø)ÜÀc°ãœÿîÛDûPEÂMüwŒyZž‚$SÆ$Æ‰ãÄRñ¸(êx@žÀ	àLª£PÒÞ§v6ï ¼*°¥Xþo|Ñ†
+Ù°Ã.}A/‰Ç¾ð™BÐ,ðä‘&²iÐˆ&.«å¶qÇ9‘»N_úåÈCû2ûò·G6A-Ô<¢L=Æd[ˆc½;›gÈ„@Z¼Ïí‘d+!²Ï#ø­1&9OF-•}q¾-Åq7ywLŒ£4#¨3;ö%OÜæw0e¹vF¡ýÇYÀ?Xž³ú&fg	8‹9„îiJ
+òGÀ^®ûà±c%m¾çžQ£A8yHûº·iô‚Šaû4^U—›;¢h`ýÊ{n3¼óÉÇ—nxÿ}¤ÿ1åkmúLyd,YáÕ¦ô¿É¤\.w<!½Ý¦þâ¸!öOAA0FÚ†žºl&CœÓó›ÁÖgÐ ¤“ÁA„Ë«Ù§O¯“Á>$#Ü3uâ¤ƒÐ’^X¾6jfÖ™Ùœ~~5:êcÅñèÊî—Íãp¤£1§—èO8‡Ý*dg%b°$ø¹³•Äg¡µ ü‰Õ4õë«­i8Ö4}¯òÖ¼GŸ]öµ§&hºoiL_p÷ØG”/ÞüQ¹ç“G!åû çö~÷)Ï>÷/eã¡_áe°þ¦¾Ô¾ceMå£SJ§ßq¢‡‹û÷ËÊÇ;‹ŠF,Yrô…½ëÀvE³38µåÇžÇƒ'•¹ßP>Û:zrÝäâCPþwpÃHÇÊ¯fÜÑôåŠE«>zôVäµ€÷œ´ÄLŠ}Õp¼F”P1IË[-®4h0°Bk«
+¬pÞ
+‡­°Þ
+eVÈ´B†Âk^$/+/;·“•t‘ãM+õ¢ãùxm´-&“»ëk_ºã.ï3®o{±ìéÝÆ™^ˆ‰-JÝoþ3q¹Ò>>™ÅÈt=õ¤Óˆ³p7R ·I6¯Wˆ’p&–>Î§·EÛ¢Kƒ¶D7Æd~°¼›E›§;ki»à-
+Ö«çšÒ’Òy×ñÒBÞ„à·Äû,h¦º€ñ‰N2)@ïÂ7ÊÚpÎßÓüÔå‡-”Cpã¦ã•ÊhØ»Ö¾ú¡¸LÙsÇžXûKp±~š2¤¡½ãWEX®Æl-Í›S¹¼Ùå”dÙiæ£½&K—Ëf#Ø'Hf) Hë¥íÒ	éŒ$x¼”Íç…’GN»s%Õ5þL ª“Ñ©¡TAéÒïþF¹¦ÿn™¬¼}âOÊûÃò%¤ßôBïÏ„‹ÊÇÊE¥]y’Æx}ŒüÆÃÒÖg-Y®®/Ò=ŠÊÐžNZÀeuD$v‡&ª4¨áErÞês0¯Ž[ìœÊ^Â›‰ÊQ«X¹Gyïhû¿à#˜w¦¾Œò/°ùÛ¥Üñ¿(/=‡ÌÜ¤¼ °]Ú·
+ÙZ;óm
+Y"ú5:^‹ÞŽQ”JƒëDxY„Åâj‘3‰ ñèø ¥Aà‰\$VŸ1‚°B”¨Á_xŽ¢M|èzJèuù~>ëòùâ²-Ê GÇ–Nîc<èˆQÔHœ†×éYS jµ(E-|ÐÓæ®õ`©‡M[@/Û3yëåñÿ¾n¿°µýmlHÕ•™¨+Û™]Ÿ¨Õ‰ÍíÖ8hüäDãMœàæN/ï5—½6^WÌÔ´ÜzíôŸµ¼Ðìƒ2ø|t¸¢7BCÜ«}®.ë!aýð«šƒö+‡ÆèªúÌ„:ó$Ž;0èãG/ ÿiý±åÜ(¥˜»¥NyåõÏ•Ã»¹wa2,Úú\ßE5ÊgÊå'åƒÂ|e»]G+ŒñLô1¹Õ\Zž$tª½Á¨E›S …3è8ìø2n¹X»ZË™´ iµ23E(·ÃFh5Âv#4¡ÎeF(0•gx>dŽP ›£W,;J¹²ÅK(o×:Ä]<Ä­mo—µ?Ã^lRyþ~ÝÎÖî	”³x5Ç!SŸˆÖˆ¹çEha»u"”‰P€n+ÀüÃá"5ÓÎß+Âú®ðˆîêíƒ®ûê’’ºÈ€T¿vˆJ¤Ñ×ñ_…4šÉˆ@Ož“£¢ôo±ôhÐ—(xàybó1“<`Ÿjµ)2J®öÊD]#¦[•±kà}å‘¡¯X—–V-ÂÁxì;ÔÇ5._×ÂßrÙìÛ,ó˜,û¼D/ÉTžzY‡S´Q§g}*4¾Ùcº®ö)âAË¤AgaBû±ƒ(Ž'¿lŠÃ÷´ŸE™æÞlßrùoá±–m‰$.Ee¢Ñ¢Px:œÕ¡µÊ&´‡¸÷Äe—¼[ÔºëFÃ„À97‰6£¢£b¼¼Î­3¡ïgç£¬ëc`eÔÅ@E‹>1à‹{\ˆ1p$v2€Æ(‹B`Ž!fžeÅm1°°ú‰¬+ÂŠVFàU‘ª×°**:„ï‡¸>ˆÀ¥"Ò‡½F4:ŒèRœãjŽ®Žµˆ<F?‰éÜø*ý»NA—Í­+»Z.ºµc‰X&`cªO?”…2 Ž®dC7p†~m'É½»+îRÖõç…=—`¡=I#¡´ë~âŸÙ²þùÊËþðžšÚ×.ŠË.g¼»[Çü‡L¿ÃvÂˆÑwÑéŒZA¢)J^"hUMpØ­&Øn‚fÔ™ Ì&ÀücÀ6£®¶aB“s¨Ð%Š{¾à.žZËŸ¼\„j“¤ˆß‚tp¤íï§h£H4ÉD;$‘ˆ7F¾…^Üè[Øš³K~k®ëœw­Zê©v•ˆŸîVŽ|ú™òö.¨‡QŸÂ 'ßR~=ÿ£òè¿¿ "÷îçJÛþVó†øw<­¼üh!Mù3ZÔÿ(ïC¯ðÌü#±`dá3á¤Ç Ãj3ád2ášl€ÿ)?"g¡Ü+~óxpÊ´f:'ûÐÉ¹tF™vˆÿ=‡•ƒÊ°ügï}×~J\öÅQ°´Âh(Wî`üqc|œHŒ³zÐ5Ã%&%;bJƒ!*¡4ÈGÙôh’ôÍÉàKfÇLØÉÕ&Ca‘š ~¶R–üŒS>Q~J¹sF¿A%·l|kð;Ê—ƒ…ÊI¥Ù¿´Îx—óé÷t/ÀÐ?ý>/Åª¯99ƒM¶¡9‹Â ×(¼Ëmàl8E¡ov,‰µÙunð¹ÕÙ5+ïú>¡•*ªx!&Ó ø°c)ÜƒéÈCÜÆ€ñ1XÿË“*áØÆ'¸‘í/ŠËþôú£'cÚã¿[²¬ý—µÔ²³Èó^äÞ@œÄÆøQtÆ …L7˜mÎü‘† ¡ÚÀ›à?Øq>‹Y#ü“ü3ü¼ÑÁàç=_i°6‚±0:i,Èb¬GàÑ?*ÓÀÓà8³]YS—ïKB‹4¥l~-I½&Jâ;§‘>é\wºá˜ŸåT]
+ŸÐ6t…_”ãÊ·íí^òxþ¥÷óê·–=ùl†¶ÀW²_{î‘Ýû‡/óÆefÞœJ×:aFRÓÂ¦%Ã'õOv&*¾mÜGØ_WYW{ã-SMq©
+ë‘/é8Úh\™Ïpúá´¼,Ñ=	*.°.	*H”áRølƒzP¡I®T†q2d²ó3OËp\†Vv–@-ÀÜó2¨ùê„:V¤ž18ÇŠ¶…ÏGä±L"C?,8!ÃzšYY¬àÃ²ž5­æ#"Ÿfvúâ;Ê°¨çòXi×£WNü¦AŸYPz¥ìÊÊŸ+7b3ÆÁx]‰î¾¾ä¾ÞòAÙY!ä«Œ¤ÍZÁŒ…S;º›èa8à°Z°ÝÍ¨s@™
+@Ýÿ+†˜éP„i™ùeA2KhîÔ³Šrï¡#/½þñë÷)ÿ±/=¿‹_vyÝï—¯¸|ßÓ¿¬Pé‘q¬ŽAz$28¬•Ð¹â9N”xìÓè¸L]™n½î°î¼NÌÐ–ãEP]¤g^øÌ:`t
+.œªø¨wÚßxî*,„•ïã\äûõWþL¸-í]Ø–.:Ü‰®ÿØµÌ`1c´¬=¯5êdÙ(Ø=¢7z¼‡ooÊÏõBO/x¼ óÂ¯^øÆŸyá^8è…ÕÞMÞÝ^~‘ª½0À;Ê;ÅË§x!Ú/Tµ{á;/|î…£^xÍO{a‹ëí^˜í…[½0Úƒ¼ê…/è½pÙßzá¯^øÀ¯†áÉZ/4ya®J½0ÆÞ</ë“ÿ9†ÿ8Ã¿×za…½ÃË3è^è…Ýð‚Ñý/yá{/œòÂ1o ^ñÂ³^Øìl`	k`´·ØËå2‚<Œ _AŸ3‚Ô<Ê:pë@	ëÀ^ â¼8ì¼MÞmÞCÞÓÞ¯†xAr›™· Q©¡œèq˜ÊNît9¼yçzr:ù\¼+<HíÔ´oTGèživ‰ª)|r÷( Ë6§«¯ÕFoýd‹ÿsö‚;=:±ã¬Rþn{¯dwÞÏ/þÔß'{@z—o*ü¬qËå
+T©eOí¯ŸyùOô7ÜÇïWum–˜J}hoK²Fäx¢çEA'ë5Fƒ×8ÚÈ­1¾büÖÈF»±q˜Q˜Uh¬0®4n0¶Ï/¥FH4‚ÞŒpÊGŒð´6a‰*ŒÉJ	+=ÁJ·³Ò:V0B#˜ !÷Œ>aÖNaÙ±¹F#Ÿh,ÄöÚ°-‘6½›°GŒ™Fn¡á tZêíóÔÇŒžOjpæý¶?©JdjÄ ùg2øeÐ¸ H	*snÅò1¬‚;>Vºqz®ªýaî¯ÜíŸr)íÓÚc)qg6J‚Ö@‡€ãè‚± !#5„—x7ŸÏó$g‚:˜¦ƒBŒÐA_$êÀ©ÃÀ:€3:8¡ƒ#:hÕÁvlÐA*tÐAj×ÑAõœƒ¶é`§Öë Y:(ÓA†éÀÇ 1#ÞOÂxw2¼o!CÉPy„¡ZÉ 
+žÄ0ž\ËNV\®¯Ò¥6ƒ4d3’T$j¹Zý,«ý
+C€µ¹2Ö0I“®"GÌõ&ÿ>K#bºËH—^¯LÔ)bëm8÷0qóòëí_}ÏÂÓqùí¹|>·½œÛÆÆÉ8·?ÎÖZFR%Ž×ÊZtz-šß9	¤Ò X›õP§‡2=è! ‡P}åwv„Ã™9tŸËñÂã—¶òS.Ÿã¿¹¼‹_½N˜´eÍ¥]´Ýû•É\Šx”hIrÀ.ÆœªåOA@…û)H¼W¼~u&µað‰Á…ã~ØøÏ*“µó—ýºvÙµçpRºê\€HÏlTª·ÂæÐÉ ZÇ¬L†'ÃísZ¨O#bû"–^·ýœl‹xó?ÿ‰Ø&/Ó4,ûeŠKÇ=Æ£CI4Ð/P+
+ì`!OÃ)d"bõH)Rµô¾ô™¤qj$X:Bš$í’ø»¤‡¤Ÿ%^#9ñy†t@zGÒŒM–úbší’NJ—ðq{ü;Âj(,­­–¿#áç`ÇáçóGçÓ{àæ!ÃóÉ.“
+¥R›¤™ß(­d©O¤³’†Ñ‡³ÒúPˆÉ’pc¡´³yšËQB©Q¢aóó·QÄÍ^çs’Uª—öKoJIšº!Òi¹t¿´CiÁ4,r‰T&q€F~jI=Ý®ŸŠfJ½"ÓSQoŽuÝ¸•9ê1ð6åå; î¨çã·ßÍiWåÕñ¥R-´(ß¢ŒY=üñrÕI™Gu‹v+ÕË—3™ÌöqVñ,IJÀMôZ5„{°ØD2Ý:GvŸQVÊ“ms@›ràøgÂ>pÆ*_ÚÙRzZKü$#ƒI¾”­ÖeJçy“#ZÈêëŒuúˆE›2>¨ÕZH^˜¢j£8=e±è‚b%Òcd‡³`{¬Ï‚æ,¨Ë‚²,(È‚L–1¤ÃÇØJ"q¶ ßèº¯BÝ=º‡›×ù[	+æü…‚=tÏ7€6ŠsØ°õñŸÿüïºE‹kô¯¦ÃÊ£ì90:~ØMÅÍð§L$øvÓŠ¥ögzªM#\Y?aŠ_Ù§¤Œ×Ö™«ënŸy÷”G'.³b|Q™ºf½’G8J\È¡’@¿nbT”Ñ_b’háoAÐa6ƒ‹/rÎÖ$ÈK‚õIP—qIÐ‘g’àp¨&°¾^í(¢Îˆ§Y$Oû¤îsRçV›Mwø­|ä¬R¿äñlNâžÓ´	BÖ·{ãµEw?¼fÕ¦U‹¹„ö?§Ç5éúî¾W‚7UMQ¾S¾úÛ‘_ýéƒ÷QoØïƒPÖ2#0œí6Vk3òÑ^³« go²¯³Ÿ¶v»ÙìÓÔiš5'4g4h¾Ìš2öx3´2¯Ñèt|APçŒëºŸ0.w]u;ËÅ¶¨ÙQ£pT¶U«Ë–™8Î<ó·sçÏì:óRT}õºf.áÏ'ªæ¶¼q`Ä=³1jÊ¬×UYLBúÏ¡,èùŠIÞ±$*ÊäÒ˜4‰~«#Š $I¾‚ dæ£‚¼s}"Ô%B\"t$Â™D8œ’BÄ*>ª]^W!$…H¥ñgvw*—?-¾ýÊ1>‡±î]²3‹ãÚ4ÏðÚö¿,º{SKËÆU‹Ÿ«švps}§L[o\²íîknì	u;òÉéOß{?4ÞÜ(+Jaa`„Í¢Ñz1´Þ­A·ÃC
+‚FFÅl29‚&³Œì–'¼pØÛ½°ÞÍ^¨óB™
+¼é…yW¯.Ç#Øorº†ÜªX¸xU*>‹£;“Šìl˜¿Ö³µ\yêü¥Kÿ„Ï_6­¿{Å&üçå?LÍïÕA Dƒºµ¿ányúÑ½ê™(t¦¸Aâˆƒ¬Tm AOÊ!8—SgBE!„×`l8â\®q®RW“kk›Kkråar¯ëë´ëœK;°SœZÆ›t/Ë]Iù®@÷´|Ÿ+ÓUæâ.´)©©ªÙ¥~Bx®Faf±•“lõ`
+º	þœlv:Âå Ò‹…lT·=üðò»F÷éå>øcþÅË#ùWÜ¶a¹aµ4âÖòª®)“ùsÂhâCo{[ "Þ%ËqßÃbáãøÌŒ“Kg²'íæ¨Ô‚`”“hÑ @/o |™p<Z3a=K“L(8	‡3a\&lÏ„æLÈÈS&œÏ„,!M9J.Û(:Ë¡³]ÄÉ¶ì’»ÓŸ%Ç9Ô²Õ_8YÌ|ŸÐR
+;Â%îû¨ÛÖ%`ä²÷/|÷•÷5ìNç$áiÍóù+&¶,]°î–•ùÊä5ÍÑ£ÇÃÀçªªA/] ­.ï¶AÛwÏå·•þü;+U¾wæ‹7+^a:p/Jù›nRè°X¬’ÖªõDÛ0ÛªuðF‘æÑp8Z£á<ûîˆ†3ÑÐ™¹=ê¢¡Óa¬[Kô÷òº®<ªßP´¡n±º<vÃ€Çïh}ò…že·4mjkÓ¿lÖô½lÏàž«¯íÓú`ûrñ¨²ô†å:”ïj$úæWiIM Ÿ×jÕƒ&Ád"Î¾êŠÊi³5ml5¦.¼Fs>¢H]rÇŠJ®qqC&?â+;ƒ¯nkk}Ï<sñŒ0àÒ;„ëø#úm*MfòŸÀ3:^ÐÄY¬&“çY­W%ì¸YaˆjÏYá{È³B‡öZa{¬ïßd²-œÓVhµÂv¶?Žg°ú7`s¬ø8ƒÀâf+ÔY!Î
+&†Q-:ÄP«•1ókõppW?ÿ:¾ýÕñ[çÒwh&<b)s,ôüV÷[äYÝ¶hÑ˜¬ÁÃû«¼š²©E^£É¯žPýÓôñyä™ž¬ÌD/['ë¢§.¾`4ÄóŒý*5v“QM6Å\c`â¤ü2c³q»ñ°ñ„Q<Mƒ]õY F3©Páãy£¬å@«$úf4s8ƒç¹ra*USæü©&'‹Æ&¹×nTñ™Êý+ÛÚàÔÇÊHø#ü0Wi^.çŒJFûFµ0˜É}A`<1õòçE8#ÂéðÎà6šÙ>`œ&¶3x:bÓp½ãDè`UN°üNàßÍU»„-mâÑ‹}OW¢ñã•KîBâåxŸU’}rjÏ´y1f·…8õ}¦x™8*Rat*ä¥Bj*Ä¥‚)¾M…Ó©ðJ*<
+kRaI*Ô¦Â@VªO…YXü+ÞËŠ›R¡8Æ¥‚7.¥Â9V¹`C*¨¤2 !.¤Â©0j¬;;ú°"l8÷+ÃšÛYÍF†zt˜4=k@m~'£K-õ2¤'R;Ìj®O…2J†ƒ™©‘
+$UµÐ¡ õÚí¯È@öºÑî5ñ0Z÷¬¼N«žze‹LU'¶O–2p}ºgwã\Ì#t†n,[-çÉ¤º†»ž×ìŽçøÍY².†ï¿mÞÎ÷Oª[°‚{îÑE­ÛÛ×ò_ë)¦åŽk˜2möÜ²ýPËøè¢½µ¯ËÿåMÊƒ¬²¬#ÑºhoŒÕIœbAÐi6štÄq"Ç@kœgß1p†íwª™ÛÙ†hW#îc#a¼#û†}ÉíykpùCm¡Î~|ñþ'¸çf/è³ë•Ô•ì;Úž¡ú„B,Ò¬C¯0?fa»Y.·ÅA;u·»a½Ô}—27¸!Ó§Ý¶ú·ÏÉÇ_í}_üáûáë_¾yíÎG·®]óàŽ5\7å¬òÄƒ…ËTÎ)_žùàø_O~z";(“‘¶1ì(Æng‘$™ÈÉIÁÁ©±ƒÁ$y¹;$C^2¬O†ºdˆK†Žd8“‡“ÿ[ì"8>¡»ßÙÉLGDè>UFc‡‹“D¡Mó¢¹uÙ{ï¼vÛ³ç­Út×<¼*íP‚¢æÉ¾Bï¶Šå‚òùWoN9´éOx»Ó':¼¦þ÷]B—d±˜cy3Ÿè7{fÉ&=oÑL|4$‚/Ž'Bk"¬gi’ˆ>óÄÇ%ÂöDhN„ŒD0%ÂùD8Á×÷~Ç_;õ¯ã·Ð#x¶ÈßfýãatÖ·÷EçYm›ÀõÝúQËÆÕ‹ßµ©ÅNpr}'Wv{@øÝ¥¾ðâÎÙÅÜà=ý·#		nöÙFa©±¡?c°;LY0©AväE6e¿Så¾êo:,÷jöHBjÝŒÄ¤ÄAuøÁõ-“ÖÌÐ=¡{£­ý(wì=èkö$AZM‚#Æk$ÄëÐ©iÆÞíŽC›ë6ó:tx§9HœOƒ3ip8ÊÒ 9òÒ ó;™ú}AöïîÞrKÎ€tõüp×-7ž?ð?'þp*~›k}óê¦¢iË6¯õñžÿ8f‡iEÍm™S7®[:²¤nÚuçÚ¸ÉãÑ	=ÆÔlØ¼t=Ì¨Ñéƒz&%Þ0ªœö1®ã<‡#—ØÉð@¢Ñn×›L² 8Q¢„¶Eo’ÁÀËÉÄYéXhv†O[E£ëêáçª—Àcr¨oß/Û‘íð«Ë\Ï`ÉŸïX™³è½÷²ó‡IîŸ¸VüøãŠö[ÆæE©þ{Ç‡0 m\i` U’ôàÑ{b¼V‘™8§Ñ!Óÿ¡‰ëòÂ{ØCgcÔ(’ë:j×Z8a@ûfã¸†ËÏ^±qÜ‡H³íò¯H³nüD#ëxŽÓèx½AæLpl6ÀJ” Ð Ãà3€Ý ‚Îà1Àvlè
+£ÌT‹Õ²È‚S,_Å[Ìò½]ó×°üÑ,_o€~XðA×‚¼ÿ!0×pÈ0€Ù ÄÚÂ,ýéõ·O¦\ÿ`JvÞU¿°ˆW7jòÀ–ÍUþIYxøc÷Ÿ¡h=Þž¿€{“@G;}Ã"}‹"<è bÑj¦(Þ&xo—´vŒ­%	ô’ƒ²ñ’	^ëXà„N(tÂ'ôuB"'N¸à„¿;áˆö;a§rÂ]aÈaÒîªvÂWNøÄ	ï8á ƒ[é„F‰QÆx€¡ÛÀÐU;aRœuÂIÖ$ÂìrÂj'Ô;ÊX›‰Œ¨þXSGŽfÖÎh'd²b¤ç+ÚNÑc”»Ä	{'xpž5ðÚXó+Yiž8³ˆ“™÷ÒëF×î8—\WÆ×î\¨+ÿ£ÃMwJèöµÙgŽüü•Í¸~¶lýúðµD9ù¥Ê‡û_Ô&Z¾zãµô¸c­\ûî^»Û3QðñîçFñÅíž××ðÑÌ~¸p,~ƒò×Ca`;=¿¦@KwàxQ+ëE£a¥a˜‘îzñ}Ù6š“m”ýl„³F8É6Ó°Ý²Æ»Œù
+#hŒNc²q„q’Qœ©awZòŽñ¤ñïFi“ñ3#‡@“(ZˆDI‹6òG(‚dc_¬(ô›aÜe<ÀòE#]8ï{Ãü\#$h`Ã] "O`XÃ·ÑýºõäðìTdaxcÏgV5ÁêÎßÎöìÌÆc‘Bk0AËs’ÆD8Gç1=ºÛZZ’!³ÒúúÔú©ºÖ?¾²‡þeKä>¯|®œz–)÷½Q`x_¹î‚W•a\¥ÃíÚ?¢2aïUB™8é1l’ÉbÕÉ2o²
+n—d3Ù\ÙDÐºïýnXî†F7T¸a‚†¸¡Ý`uç†n8ë†Üð¦ÚÜ°Ó‘ð“"à~¦ZádD…‡~·B$<´ºÓnXvLÝ0Œù¦>7ØÝ ¸á¼Î¸á7qÿ¯àûq¦„à;;!;Á:qFÂpa\Ä‡Ã.3ff¸ÁÌ2;O‘PÑ]oƒüwß„Qzí@þ/ïÃP„FØi[B÷œíó ‡2Æ8Œ!Š;4*+9ý©ieâá³bÔÍüˆï_WÊ†6®U&ëïÖü'UÈißÕýãÛÜ¾Kï<»{"ËìýWô÷H0-p™Óhx$èu^à‚‚	´tU8>ÑÃ=´éa§6èa¥õP€íöÑƒOv= M¸ ‡3z@øÃ¿?ŒÁ'êAÐÃÙ0Úí¬ùz`vÙïƒVéØÉ0V0 5ÙYÙ¤
+ ¶„4q'Q­¬µõl¿³€ŽTG¾éä¿†®WËõ©FnœFžŽo›:&r%íoóæö\Ãj>yÍêË	í5&(“¹UâQâGßl€³[7=oIàµBb’GÒJÚŸ‚&iœÄeH‡¤ão’2ðéŠ‹—$1Y±˜ø.»›¡Eðyõ‘?ÚýÈÝ°>ÉÝsÞûsÕÕ	Ò=&Ìá iuuÍÜYw®¸;¯xÌ¬¢`õ˜â<eò#k z~ƒØ$4Ì‡Yk^6{Ž²eêjçV•+›gÍ]†ýxQ%t=nüƒž'd¥ìw¡ÃDè#B"[«ùD„#"´‰°S¦‚ð¶‹£AÕÎ²â:VÐYY]÷Á:ÂÕŠ>5ÎXj¡6|r<ò,zÿã]Ï¢Ç…œŸ‰8…®V8ÇÖšþPø8ºº¸„ áõ(í5'c®(F—¢Òkõæ:þÉ`ÝÏ¶¼¸K«]úËò°ŽÜÖ½Ó)ÄFÇúÍ¨#ZO´'•À3ÎÃexyŽ{x“'ŸÎyPG<KB‚ÿ§`‚×bþ)h!ÿ±Q×=ôRKè·×lÿÑåˆ¢:¢Áœ©Åãª‚“f+´rÅ³jëªW7­Tþ<wTN[eçìw—CÅœÙË^«<ÔØ(4	ó•-›—Ñ~ÜÊ¥|wŒ¥k²ds¹‰åÙ ÝénK”/ºõíŠÉg÷(;»ÒdC>	Ø)ƒòmz½øl0N?N¿MÏ×ê›ð¶W\Nß¡×ê²1_¯¾è¸ÍGR£?OMM=’~OÝ-`ª9,äSÏ¢gtóðûF.+ÚxcíÃ}š–Ç-êµ¼~À|.%-ºWJÆºÂètCü­öL¦´¿¯ÃRîÂcLlWë@6³—Îq0%«o™ë|Ïý^ÿë_iÝ|a*Ý»Ž§ugßšÖ´e; ÿ³ãÊaŸâb•oÔ3Â>î!ñc"#Q”x‰×ë€ßP$|L9´„~>'›þÏŽ~SõîT5Reß½ÛÎÖ4²…õœKÓÀÞ£0*~_›lZ<OÏNÆÉœÌË|€w¬šø>Ç7ñÛøCü9l”Ë^åÆ·þo^çæº·¢âÞ{+¦¯›3¶îØ›¸Y\N3*ïY[ÑìØþý&Œg}|¿ÐßÝ‚.ðºÊcq$2{Ði4Ô¡¯ÕbÔD"ÊÖGØ—H˜Ù]ë÷?%Âf¥‚™oD%¬¢æ:­‰j:ÍBYøW*×Z†+ŽÃõ×L¯·TzÕ:õ›ml·ä=%z.4¨ÒõôÀáïî×úQ£¸‡ªOqÿ¨úæ¨ð6Õˆb¸nb`8;+”ðhˆ I¯“´÷ø2žÛÎ·b .±×¤Ì»JÎ¡7Âð´ó§½%º&ÏÏ¨˜ò$¥O¼È=¤QgfÀ«ê)/éôÛø½ˆ¬9èÛKé‘žŒ’èc%W©m÷«ÕV¼xÎ±fƒŽ!ñ"œ×œÇÁ’p Ñnãör‡8žkŽc©”þZó
+N:‘HÒÄ‹ö¯b?SÏüùw@|¸8!ÐáðÈn»Ýh×}ô8xºe’aDý7’ ±®JäQ¬õÀbT{ Ø#=ëTx= {àgüÝ'=ðîò@£¦y`‚†x Ë	°z€óÀÌ=ð•>ñÀa´z`‡î÷@³êÃ†y =àô€àóþƒß†_É¨ðÀ$Œð@ßpÄ*þ<pÄmØ&hf0x$2=àó€™UèhÄ6Î0šŽ0š°ÎÖFÊ<PAao÷Àúj
+ÃB¸yàÖ³þ!®<dx Î&Ï•¡QzµSu=?¹´$âs•ö_<ë·:#‹Y¬cì]O¡WvBÈ)JçØk0sÙYÝðê—ð]ÏÂ±7Åõë+ë3Çç¥ŽÞ­Âr«¥BØ—Ô+ipîŒêð¾pÃ"ö·88Ï¦¦¯ûm.5ú‰Ä©â½À¯ÐûçKÒ—vµ? ›¥ý”Ð?Áõƒõ´ƒ•±d¨®íÒ®‹·éf…þªÇ•Ï*!Ç¸=äßB™Œ÷þ¨Þ¹˜¾“Ë%wÓ&Ó|¼Ók"¦×àuËk “è…uRðNð>š^hOãølr›ø.yŠÂá}+^Uâ$Rª7™÷’øü¶Aðz‰û”åËx9µ±d$–åÃÝ¤
+ñ5áeàcI¼ð©@Øƒø\Œ÷Wh]„/Àk^3ñ‹W^ðªÂ«¯ ^e!øƒˆ£’âa÷R(Å‘Ç°-ÒÂhDšiZøyJ“KfÒg¬÷öÝÇò0ƒ¥åå4ÝÕz%X/õw‘µk‰Œ÷t¼zaþˆçþPÍüD'4t|‰}™âÉJÆc•§“&6”¾Þ%«áÝŽ?by¦[°ýU˜¿*T¾2$ƒUTnX/ŽÊÓZñÝŽv¼»˜QvÜ3$³“éû+ãÉ’•]6>¿IÓØÆíÜÃ˜7…–uÐ×M'“¾d,™A–’‡ÉsäòùÌÐ†À­Ð÷ÀŸAá†q-Üvî¯ÜÏ|ŸÌæ'ñu|?ÁŸN
+Šx¿f‚æÚ2ímÚ=Ú¿J=¤iÒ*i§ôªô‰ì”‡ÈëeEÐmÕ}¦~‡A2¤¦ÖŽ~6NŠ2D•E5¥›jL­¦¯Ì£Ì[Ì?X2-3,+­S­;¬çmY¶‡lßÙ9s;œ¹¸g¸w¸ßså‘</{>òü½*úïXokLtÌÊØ˜ØÆØ×»u{9Ž‹S|E¾]ñQñ«â_NHK¨Køƒ}âú¤)Éºî¾£GA¶kJfÊ„”E)GzNêy{Ï]=?êùsZ7u\‘U0’[	zYÄŒsÃ­È³œ€ó-í5cm2i¥˜ G(Í-ä‡Ò<‰†»BiaÞ¥Eb„ïCi‰â<¡´–ÜÆw¥%bçß
+¥eÅÿJë ZóY(­'1ÒÑ']ú%”6’ùP:ŠDËH	2>=Ç¨¢iÀ¾H¡4G¢ (Í“>PJóX(-b_>¥5$.…ÒZrëJK¤¿)”–IÿçPZÇ}$ˆ¡´žô—††Òr«ôH(m$³äî¡té#¿O†‘j2¯F¼n#•¤‚øð*ÇçrLMg×g1©gPU˜ë£o˜")xÏbq(S7!T-–ÏÁú>2ÓõX‹~—3¼µ¤†¤c‰Ž•ý>¾,LMÑ‘Ïê§aj$b˜N_0¬zfucõm•¾ŠòÆrßôÚºÅõÕ3«}=¦§ø²2{gúnª­9§Ò7´¶¾®¶¾¼±º¶&Ý§z5\–oâÈ/oLó¬™ŽˆoFŠ¦a»‘4ûÈD|ª¡oW¾¹zZ¥ŠÍ7±¼3(3É|ìs9}‹û„Ê™óç”câF„žŽe5ìï$Õ#Ž^xýì76L¯¬©¨¬÷õò]ÓÐÿ_Â&1Ø†NÈ,d[o¼r°¨²¾f¥÷NÏ¹>æëàý=2ªÔÇ4¥‘•Ð>Ïe™yµh÷~Oš>„«dÚGÿjT%{ª`X)î[b"ƒ*`5)OYk5ªð:-ŽÃg`ýéLÃÓnªÑ*æZLW…¤3eXÏ(¨`õÂ}k ÚÁÜê_¹¯±¾¼¢rnyýl_íŒ®
+ä«¯œYÝÐXY™Õ5¾[Ò'¦û
+Ê+k}å5¾ÂÎŠãfÌ¨ž^É2§WÖ7–#pmcŠ~Öüúê†Šêé´µ†ôë)ÒõÖå‰Pyœ³Ç0>Œaàô¹A­2±±rA¥oLycce‚ !æ«‚½‘1e.>Q-dìk:~Ót9zCG‡qM¨æ4Ø¾ßmØª[Ržö‡Ã„zCë¤…”bûn`íÖ`>L«šéc”Rêf\E…‰µœ)‰ª˜s±´‘ÁNÇü9øoqÈ¨ÍE>ª­N™­…ÌVuöáã˜ú]á…ªÒ3B#ÌÇrë0]Ëhs¯“¥¿’QESåÌ¨NÃsX;*ULqË™ÚU†Ô°‘QæRE¨W”Â:–Ó‹g*Kieˆ““Ñß|]Œ*·"‡•ÄFoCîFmË«íä,…šjIíñfêgwJeÓF•{[¯ßàïÆ›ÆP«µŒ¢
+ü§ÊYÕ¨Z¬;ŸIMêª®7^Ã¹rÆßÚP½:f„C´ÌU‡îòŠ8po¬¯ž[›æ[XU=½Ê·°¼ÁWQÙP=³§-öu>,-Ç¡^SS» ‡Ñ‚Ê4Ö3ê+ªªkfúÐú*ë«g„Pø«Ê©a˜[ÙX_=½|ÎœÅ8!Í­ÃªÓpZXÝXE[/Ÿ³']¥­Æ4Á¾ê¹uõµy½¦×WVÖ`;ååÓªçT7"ŽªòúòéhKÐ TOo`¶M„¯®¼¦×ðùõµu•Hää›n¾ˆd©v¦¡vÎ‚Ê]SYYÑ@íTvqVÂ†çÔÖÎ¦]™Q[äU4VõŠ wFmM#V­õ•WT`Ÿ‘QµÓçÏ¥­Jc˜¸òéõµXV7§¼±Ì¥–ªŠñ:2 ¹Ôú/ôHû5=d½ÒCú‘ëdd,\¸0½<dÄ¦£KG¢2þÏÑR©cÊi ê™ZPœsQ]~·éÆÅu•!%©oH¯jœ;GþÔfÃvr~„e¢‰8µÝÌ¦¡ºÿ¯¬c‰mâˆÎÛ‰q[h›ª0Fu«¸vDE!ÔKCP"­M‰$UÌ	EŠ°ÕÙÜ*ÅRKÅ!°‰äæB¥pu ò$QjW‚ârä’\¸6¡ŸôC·­Ä	EËÛË!iÞ{óÞÌ›™7oæV#mkï‹–×Ç·iÎ¹í‘:Fj:8žÀy'ÂS=XËÁ3q»€n"pâ­
+Æÿ‹çÉ®ävsm@cXvÂ‰«pÿt…Æº„rG6ðÚè„cGu©±ñ®üç—¶n°aòïÿÒü:u¼	ið	‘ði÷‚EÞ!N!æˆOn8ŽücˆQN,ˆonB8mÖ<Ô7¡²	dÞ²_Bü%¼ÈtòE'ÿG|Àÿ&Ïy“žÁ<ÛËy®Wñ";þé ¶.8[k]´ó§MÁW›¦×¤V³ûcÑ1þ×sŸ?‡ùgßò÷‘¿mlÈ_ûˆü…øüñÉ†l •ONRùˆúœ=äXbï‹Õûp·ÞÃÌáw~èäþ÷©jÅ¾tûµ½)Á«éª]ÍW'«sÕJ5û
+K7—ôeK0½zØ
+¼Á–ÓËÞ2-êimh]×kš&*éŠqsA/õ…µ#q;}Û˜»õùµyÃ.»e#QÎ—ï•ýrÛ·7ñÌÈÏÂ½Y˜ü›Ò{œ•xi²ä–üRä£kÆ(Î@Á-ºÆ´uwÍ5ì©ÜT~Š~-|>w¾ú2É•æ
+'’¿ÜÃ/‹£|?Ää¾î˜ŒvS¹§~e9ÌŸ‰$îãÃˆßNí•4O[ŠÊq
+»h ãôñ²¾u1kXÙ£Ç„•=Ü)V3pFÄyj>¹" !<a´§Þ•{€ÉÝ)&Àõ'À9K³›dmŒ%˜ÍòÌeæ³hy£y6	žuD Ó‹çM³¿õÏöëhfDÃU}x0€VvXï¸ª‰9¿p}èÊµk¤·£_§ÏëCýú"V@‘ØÝ±ØNz‡”£œ	3H°EÇ4•
+(Jæ–,¤ÀT(ÆjØÎQ¦r@)ÜHòŒ"­0ô _6Á¬Ì–þ×š°ƒQT„ÀÙêB)l§Pju%¯ [çýýendstream
 endobj
-143 0 obj
+162 0 obj
 <<
-/Ascent 728.0273 /CapHeight 687.9883 /Descent -210.4492 /Flags 4 /FontBBox [ -543.9453 -303.2227 1301.758 979.9805 ] /FontFile2 142 0 R 
+/Ascent 728.0273 /CapHeight 687.9883 /Descent -210.4492 /Flags 4 /FontBBox [ -543.9453 -303.2227 1301.758 979.9805 ] /FontFile2 161 0 R 
   /FontName /AAAAAA+LiberationSans /ItalicAngle 0 /MissingWidth 750 /StemV 87 /Type /FontDescriptor
 >>
 endobj
-144 0 obj
+163 0 obj
 <<
-/BaseFont /AAAAAA+LiberationSans /FirstChar 0 /FontDescriptor 143 0 R /LastChar 127 /Name /F3+0 /Subtype /TrueType 
-  /ToUnicode 141 0 R /Type /Font /Widths [ 750 333.0078 556.1523 333.0078 500 556.1523 277.832 500 556.1523 500 
+/BaseFont /AAAAAA+LiberationSans /FirstChar 0 /FontDescriptor 162 0 R /LastChar 127 /Name /F3+0 /Subtype /TrueType 
+  /ToUnicode 160 0 R /Type /Font /Widths [ 750 333.0078 556.1523 333.0078 500 556.1523 277.832 500 556.1523 500 
   500 556.1523 556.1523 556.1523 556.1523 556.1523 333.0078 556.1523 333.0078 333.0078 
-  375 399.9023 722.168 556.1523 722.168 722.168 666.9922 556.1523 388.1836 666.9922 
-  750 750 277.832 277.832 354.9805 556.1523 556.1523 889.1602 666.9922 190.918 
+  375 399.9023 722.168 556.1523 722.168 722.168 666.9922 556.1523 556.1523 388.1836 
+  666.9922 750 277.832 277.832 354.9805 556.1523 556.1523 889.1602 666.9922 190.918 
   333.0078 333.0078 389.1602 583.9844 277.832 333.0078 277.832 277.832 556.1523 556.1523 
   556.1523 556.1523 556.1523 556.1523 556.1523 556.1523 556.1523 556.1523 277.832 277.832 
   583.9844 583.9844 583.9844 556.1523 1015.137 666.9922 666.9922 722.168 722.168 666.9922 
@@ -1173,7 +1317,7 @@ endobj
   500 500 500 333.9844 259.7656 333.9844 583.9844 750 ]
 >>
 endobj
-145 0 obj
+164 0 obj
 <<
 /Filter [ /FlateDecode ] /Length 720
 >>
@@ -1181,7 +1325,7 @@ stream
 xœ…ÕËjÛ@†á½¯BË–RlÍJ œz¢î8²’
 bÙÈÎ"wßùæÉÐEkHæµ<Cžh°f~uw}7§fþcÚwëþÔ<ãvêûç©ë›ûþqgmj¶Cwz}W~w»Ía6Ï‹×/ÇS¿»ö³‹‹fþ3x<M/Í‡Uy}ú2Ü÷Óæ4ìÇõf<~¾;mž†îãlþ}ÚöÓ0>þwâúùpxêwýxj³å²ÙöùÝ¾mv}3ÿ×ê÷¹¿^}“Êû–ÿF·ßöÇÃ¦Ë«ÆÇ~v±X,›‹¸]Îúqû×gm:ãšû‡î÷fz»È¯eî¶ôÍ5:±[´ Ûö­¥ímœSÚËõEYåúmé³rÝoÑçlC¯Êœëú²\ôUå¹®ú¦êÛ÷n+ÛVª–ªµj«Ú«ŽªÏª>¯zUõeÕ•¿­ümåo+¢?•¦?áž'úó›þ<ä¦?¹éO¸Ÿ‰þ<ä¦?¹éÏCnúö+ÑŸpÿý	û›èÏCnúö1ÑŸ°G‰þ„=ú~¡_àú~¡_àú~¡_àú~¡_àú~¡_àú~¡_àú~¡_àú~¡_àWú~¥_áWú~¥_áWú~¥_áWú~¥_áWú~¥_áWú~¥_áWú~¥_áWú~¥_á7ú~£ßà7ú~£ßà7ú~£ßà7ú~£ßà7ú~£¿|÷~ƒßè7ø~ƒßè7ø~ƒßè7ø~‡ßéwø~‡ßéwø~‡ßé/Ï§ßáwú~§ßáwú~§ßáwú~§ßáwú~§ßáwúË3-èøƒþ€?èøƒþ€?èøƒþ€?èøƒþ€?èøƒþ€?èøƒþ€?èøƒþ€?è/ÏØ ÿõ„x=	pVà |;ŽºçiÊ'U9-ËÁƒ#gû·õ°?`~þ ‰õ¬°endstream
 endobj
-146 0 obj
+165 0 obj
 <<
 /Filter [ /FlateDecode ] /Length 16891 /Length1 24836
 >>
@@ -1244,16 +1388,16 @@ pê#£ÁO/¡œN^î¦ƒj4¬Õ,\%_±jM:“Ñ¨3]—…R<$rÙþ~ŒÛýx’¿ÍO$?¶‡“wù÷ðì¿èWgøû	ò›ý
 ª…‰…9Äå¿Ý¶¸¹."$-­Ù³ÛæÍ›¿ð°Q=¹ —fŽ®¢‰`ÚÆ03ÔYûÅ©—~ê¹ßšï~Ì|ƒÑ|¨ð.`Zòrâ¨1Ri3ˆI1ðHŠ4È”¢F¾_v¿ß’+¬ ßÆ&ÞÊÖO6#Ö,¨/ÌÆô„°¡¹­5»µanvSË,iñêå"Ýí~…þN÷¿†DZ\»è4<‡cÙ‘ƒ§žƒQ ‚òð„zÔŽMà7ÿÈî¥pßAX>\WÈîˆÝe¬†»‡Ý·c^ž€uá}]ua]é,]Á—ÊÒ<?§y~,ÎðT^Xv˜.”^¨¼°öÂ¾‚øõ¹DÏW_{L_bùËb‡çog‹=GÏž:{æ,'ŸäŸ-Žõ¼ŠãÑØ(ÆÁÓ%—OþŸº=?ï&Ÿ/ùÇä¿ç¢Éß÷Ýäï0šüm	šüêöüå†3“Ï`nò_oà&Áu{LŸ`Ó'ÝŸîOðöñGñ}¿V–â©zµùÕöW9ùpÕáæÃ [s‹M‡
 Óó…Ï_xžÓV…šCd]hG(âÚ÷®ÛKvìí%ËžÁ;v‡vÿ®¦]Ä´«t×ö]gvñâŽíy»ÖRŒvšw’AòÎ²$´óØÎÓ;ti§Ô§ø‘­}<Ãµ®²­øi%žû·ôñœÞrv¡A½-K±é0ÖÉS°ió²Í¤rSÓ¦S›ÎlâM›<›–mZ»©{“°qÃ¼Á™P,oÐê‹Mëqåúíë÷­?ºþÂúîõ*y}|rñŽµ¡µäØÚÓkÏ®åÖ¬.öä¬–W“öÕ¸éUØèbt–Þ»a½üÑR,uæt’»ï*ötÌëö´ÉN-8³àÂîÂÜÖZèiZµðÌ‡KnNÉ,–šsšIäáŠÃ±“]ØÉê 7Y}Ÿš‡Óçá¹ª®ô{ª*‡{*¡ÿŒi¹ž›‹ûy¦Ã|§ÁÓ–k, “ø\nr‡M\!WÊ5qË8aK‡&›pz¥Ùó²úSÚm ´»0¾{<‘ÇX,ON+>U†¥qéþbÍ8OR±v¬k,)[>öOc¿ûËXá±8vLŸ¬âØ1	RñcžCFç{FKž@úF¸öã3ÅŠI{1väÆL¶`Óds®i2QÂ{<¦BS¥i™‰7™ü¦RS“i­éŒ©Û¤.„²&®	áRDÏ×|¯Û?ibFÆèÃêî	£Cê²é!¼2”<‘ÞåñÓBª•!4yÚôòý¯	Þ½z5ž0:”;±<T•ª…„Lí0'ìw áÁÖ¶Ö¶ì{ñ8œ@­,Ù–Á’,+­À¬’~Z[3Âù¶pAkÍµÂA2üOK[[iibÍ[Ì€lšÑÚ†[$Œ; Qð´ŠâÑóadÌh…Ah'†Z+ô. |Ú¢]bg ÿ­Ì~endstream
 endobj
-147 0 obj
+166 0 obj
 <<
-/Ascent 728.0273 /CapHeight 687.9883 /Descent -207.5195 /Flags 68 /FontBBox [ -664.0625 -303.2227 1360.84 1014.16 ] /FontFile2 146 0 R 
+/Ascent 728.0273 /CapHeight 687.9883 /Descent -207.5195 /Flags 68 /FontBBox [ -664.0625 -303.2227 1360.84 1014.16 ] /FontFile2 165 0 R 
   /FontName /AAAAAA+LiberationSans-Italic /ItalicAngle -12 /MissingWidth 750 /StemV 87 /Type /FontDescriptor
 >>
 endobj
-148 0 obj
+167 0 obj
 <<
-/BaseFont /AAAAAA+LiberationSans-Italic /FirstChar 0 /FontDescriptor 147 0 R /LastChar 127 /Name /F4+0 /Subtype /TrueType 
-  /ToUnicode 145 0 R /Type /Font /Widths [ 750 277.832 556.1523 556.1523 333.0078 556.1523 500 500 556.1523 354.0039 
+/BaseFont /AAAAAA+LiberationSans-Italic /FirstChar 0 /FontDescriptor 166 0 R /LastChar 127 /Name /F4+0 /Subtype /TrueType 
+  /ToUnicode 164 0 R /Type /Font /Widths [ 750 277.832 556.1523 556.1523 333.0078 556.1523 500 500 556.1523 354.0039 
   722.168 500 750 750 750 750 750 750 750 750 
   750 750 750 750 750 750 750 750 750 750 
   750 750 277.832 277.832 354.9805 556.1523 556.1523 889.1602 666.9922 190.918 
@@ -1268,59 +1412,66 @@ endobj
   500 500 500 333.9844 259.7656 333.9844 583.9844 750 ]
 >>
 endobj
-149 0 obj
+168 0 obj
 <<
-/PageMode /UseNone /Pages 151 0 R /Type /Catalog
+/PageMode /UseNone /Pages 170 0 R /Type /Catalog
 >>
 endobj
-150 0 obj
+169 0 obj
 <<
-/Author (\(anonymous\)) /CreationDate (D:20261023095917+02'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261023095917+02'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+/Author (\(anonymous\)) /CreationDate (D:20261023104754+02'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261023104754+02'00') /Producer (ReportLab PDF Library - \(opensource\)) 
   /Subject (\(unspecified\)) /Title (\376\377\000S\000o\000u\000p\000i\000s\000 \000f\000a\000k\000t\001o\000  \023\000 \000k\000\341\000c\000e\000n\000\355\000 \000d\000e\001a\000t\000n\000\375\000c\000h\000 \000p\000r\000a\000l\000e\000s\001o\000 \000v\000 \000A\000m\000a\000z\000o\000n\000i\000i) /Trapped /False
 >>
 endobj
-151 0 obj
+170 0 obj
 <<
-/Count 5 /Kids [ 34 0 R 61 0 R 89 0 R 122 0 R 136 0 R ] /Type /Pages
+/Count 6 /Kids [ 33 0 R 60 0 R 88 0 R 117 0 R 152 0 R 155 0 R ] /Type /Pages
 >>
 endobj
-152 0 obj
+171 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 4204
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 4142
 >>
 stream
-GauHOgN)%<&q0LUoZL:W=U)\NmX"Inah$h]'NoFUZJ#PFJ5$:lL'n(8-,4n)%k[u2P(IBtjXQAmJXPrje(ppK`e$n^'Dh0661k#>Iem3/OECARKPf@`qgknf?i9)@+f')4J.0UY4l7SRg7IO3<.'+Vj(2R#L(r&^-ZBLY3A*m;\=P'1.Ur8F_[?m1Is;l1Liug')NG(WW%VGo'TP\m$d::(Nq!NJMdRHd7C[SlB:<9FkP1,Q`V?Z0^9D6k=r(N^YAiGs9s5>k7cd3.\9;S_Wb&K104A&Tmk<r!So0$cN==!MIFj'7J`N4.bB%OhTS1b0(ZC9A644EPNJ)iumo(+TPd8Rc1.`-0_%MrhdVuOi4JY\NW;DtM+VLVSP(mP<BlsVH%;'c;U[(1\-Y?\M7>T@1@$KPVY"&hD5*jX(4dc&T2$Yn(A8a%DI%F</BTC7\VYKP/`/\Qa]u6fIq4W2Q2$OF%(nLqk1n(h_B"?oH(.V?1E&"/0SR)F+=e-j'`*c0C0[dEhXMY!Hre1*Y]."IEMeST5lNs]#b2GgnJ4G`Rfnfs!Mm,&%pH>:gp/N,'ENUY(6J1OPYuJ(*SLMcWI'4^*U";`CiNHAs:FM:%MDc"mSAW\[SeV*l618;U6X7c):Kmj<_MZ5-KP/`;lVV;R=DZaV(OQ/aQ8QJ(NY/)GZOO/*)B=JcnV.%P*#[E(F<*1,@Ck;fG&*oY9>]mh'#PnCdbk_GWd.ThI9eFR#6;=XI=9b!ksE"Rh]$l.&'V[-Yoj<ck-O90)"Bd_(*Sp5We`QU&XLs].XL"3:8Vn'c_?M4d&1V:B8%1`8ZbUb@p7g-=d<s;e!+nYp(P(3HWjW40FdbZ['^A>1Y0-+r$P^6[J&>d;.-sfj7N5V[D!N\Y3-:(jZ1k6?sMp[hQoEjfImrsWf!TUYd7);Ets*VG#)#gQ-U/)&6a#*YRKVB@sX>)iU8_j[tc*Xp7Ec:Gm88+FD;QT!"2/sCF1;i+8Mu-MsU!s_9%JEE["(T^4nA/.SEBqYLA^E^+1HPUHD=C$4M6]^ffrA!g9j"d+33&C4BN?R82A3WG?9l_c(Y7SS*gM9WtWWm;b'7,1%\KUP_;U::09t]'a(jp9_8g(ED#WdFpX@Y(p,'a0B2[p,IhqOm2+$/0<@PLLbI'5AYWFW2dl`McZB^[Cq>r^P<>r/^4gB2CFaS4**iKA>>J*\&/n2REBcZ<2?5?PRE(gJSF4;VFJp1`stk+*gPosDWq1tAcJ/!4^q_H$u_b,`Lu9'9`"X[\$3IXSu8L%q"r2LZ)q5<D@@*tW*d%G8?u7<nS=&9]*nUqHX<:soHF2PAp5mcgG13_-02iKR6`:i8/&DN]Vpq4>a,/a98!b<(PM^W.\gQmW#TPe14j\%A=@MW+`gD7,^hgr[sC9-Sb*_(qA<^>o)M]$>L8@4fE6-Rk*HlE=b1@UdW7tsJa[#1aEE(?bE^nSN'9D/83;*p;J1W2o)0@#;m0,l8)XKB2Ub8C*g`Fa<4n0sJUbV+dUj+5m"<0HrWX<qi)*4^UUY\%j(PP:ng.N-U5<@b,NZo;]D$ELb#K-.*e_>@Q[A(AfK-J(n#'1CMYgoGYoVTgCb+EJPMb*72[tF.Vn^1Tb-e-h-?M?p#V7D7S+*+MNO7ZJ?]l;%grp\t(Q+.;k51l]Ju7(/*7CuLCG-7UmMBkL_-kkR^V7DX"A?"TEQY,%+0Vm+QHV>"R_@3'>3hW*%EaBNTc'b1nq^35K5jc/Gs!$SFIlpH`u144]SZ58SAg8gE!-3%\Y!u8'*0:B3k(W]EFj[(Y-hcp*-XQYD/CB$/D'BE#gSH]cg.]E1!27M>gG#_jgMV2,`-*K?]R<F[aDMInOXSi&nK*M.b_Qh`?bhK9Zqq\"%I=Q&Wc?AQ[::KO;GFoP6TjA<'Nt'F[i<!QRYF[6/^<G.:&0u5gLBe6'T_+WI)(NG<'>V==3].cqNZ&Oaa,;aYZJW3sfejI43L70-+.AQrYnkRuJ[=4_^HK*IJ&!jb="-,%-IdSKu74(0q4E3j6D*R):c*cMW+7&Iu;JmWD02#+HBC(2G%P%1"f1rC<[cXHE,0J\_#AQ9@IbRRYrHE4G@bDAW>k"=5Ldd*:nBEU/"dVRKX9=#XAUpcl#fZ.V8=k/,dpT\VCQ7@&^Nbk.lG7!Yl_\q6>JMRpZuNX^<%<4X'R!X.4f_,K]?p3M-/0b)<h<Jam3W^^+iFhFC5&7lF!G`!GDLqa2crqY?r[LD+"EY-NEb]!AkpVIbI0<[dCNJ*#56(Oc]VKPo5,2OT)H\G0f<LP=gOb#tpK^BcRM,id!oTQ^#&IujkTB08&T807s8UMZc-8>V8@%BO"IR)+E+PcBm:srm?Y"IGs4Gplh@2.#`,'X'cQ`tS*(2J:G]mYK1"t;WFs)t]$<n2"m9cA5J1)c%YNEPs,5)k\jVFecs_='"dT?maW%44fqkt@:k<Aj781g[i8JTK)s*NI_*\7'Ef.5_)uhP--QWE*T<bZ.(6*F8SPdAG4a6/JWY[=-VfIfsJo2aH(7C@(7e$)sDDh0.KX6'-)frK*A^'7cEd/:ED#$=R$uJ4Bp#(P3ls@5BiqFE[bH?tNW[-H"CJ_'*V<:iuEeS;1MNfB\o-gkujghHg),f2DLnIEY![1Yi2.lg$KJ?S)6mWDR0:bXV&-?64))=q+EhS-O)0I^<n.KX*)<=kY"OUtNCoIhkdHOGAgK<Sd^Xa<Y!YL=]-mQ[:C=Y2Vkl:po473R[=nk_hnDK0HX9DUJl0^/SZL^o=o8C@Q<kH(7d4E^YLqK!:D-CRpcXC8'c-DR9fi;W4m7MA!GfBC0FG*++3;#Q(bhl*=-]@1AAN4<pO@jc^="\2ZMFO)tRW]O=sW5B$hI2$+_]kK2r&`uS@Y)n+Z1d_!P.GPLd[5AjeUI+QADn_Gg;<O^6Ah`ne8MZ9Q_`F0O4<Ou87Wg9@cF&hWdF[5-%o*dZ_bX&\#4K=KgOt]Ne#eSm.i<HU"R&OM(XmO7g#pbH'\\V&,Vf2ANkTZRs'6FA$Nnf]-n*FR,hX`o`N\tWCSY^W17T#@V:!md=0H[M1#8Bn586)u9q)R\?I*@aFH%M"4hkCm;IAi9S``AW6DW$n7dMX@)@0n+&?_<T`"HQskf@h%YQ!,N-N#r(cK%o.BY0)j\BGtf4'?tXDjK`]d(M\TF$"5o3&qTb#;J!Mbg)!T/9lpKgSo?TOcC8E='TW\.ISB3Zj@5t"&L25o$X?>1jnj#M3@<R*c=>]J-Wg?7Gn4*IF\DZu,b+BmS=T:<T2f"b?<22>Cba?1WL*gJcm'b:^I-1Zb/_efO[PCu3W_;p30]]R<[Go(#HYUIQ0:2T3:Q9Gihr0iUbt\Q3o88+I,4MY\Jr:eYF;4l1t>iFPG3pcOPXVuI+ERQEOGj1VEbiUB`ucMruNMLhQU#KR*tJ?XNf^)]nPZ^gXZspSJWS8`qO5NHY$*!C7Y5[QFgr\h@h^(pUpBjbZ0/GKnTi0AR&o(e%aGT9"t_qWK/aeAYL]^,+bpcXE@:KBM(&hWI5Lt?qV1PIik5Ohh8sJjc>C[UpPNZ76`8-$d74QUu8>DBqV2l(CW7OCr>jMkNi]3Pk+Kn)04eR=[$M$eQIo:o3k61OR`bE^,8+L)#)7?$;]P:a!6B(TgX%)GaDSk%$&ge$`@7!s-4(0HI&4f/[,g1jhP4ThZ4Gs&`<7_aTo7KCTp;Y?/'>BB@pI7+0DFO$U\dIH;f?1ASOQC:r>Y)EnFtgNId6e#M*1R0LaN$NG4.)>ePR_j$2MrV(*P@X^RtN!:c?4Q'kh'7l;mX4hb'S7E&mZFO8^kJp1sPZCck"!-m6O.JYN6/#PP->mM%WL=>W;p\+a64QZ2.#X,uS)WkPa2!dIIEW6\lnu@;D:b6<%pb>&`og]2#0!Zc&8sQQAU;i`C@\cf_XKjfXf)sG)=LC!NEmT*Tj85gElQXSkGO"3fopNMQF5;+HXsZr!;KgCR!Q8U5o]NZ=n5),af0nef4@pV0EPV>X=[hfM;UtDFdP:.fj&d@Bk!J89ht,hqkWE9X_bFDP^lsg<Fb<tOBCjMkB11A1)ZfV)=<aSs*'F]]F'D1S]:Xue-SW%,qoPomopbt#:_1#*b[r@9S>Xg7^Blo42$&8r7bnW.mP&3ZL*2[7_$%%,2kAaW*^o['QukD^)Cml8bd4Nk2OjQ?p7k[]dg5e[Ss1tc-ko63nL>$,7u+CBhWGn"WT_>$!Ubkg*W~>endstream
+GauHO>Bedl&q801W0]NbR:S5?Q<G*>jl2^$-CaPXSik5C*s>Jn/>6Z%TcNq$qc-:>Du^O[HZG,Id<'U*=-p+j3eD2G'B\as6M0uCIf;ctOECMVKPS,?s,jJP?iB/Q-)=@D8=&;hIc-A8?/J[+Q![l5pi.EC9+'pG$C)ocjcPdnkPN,o18-?c^;?]@LXB3jFK<"$;Bj&TJb1Kt.%foT=C;%:o3'4P_6tV-iSqb-D2V7hi'gP6i5M\kK0("#[#FRO_?WL=]pV7r?)/q.ZU^:P:",!66s7dl^S^lu])Rm=Z5hs0Sca7)aX^SUn%&GC*D2#E+qX,O*UM-kG8Qe9h:5@i)9^6.->DKcGfQW?/6^8sLhIBeqD"[6Cl,G[c([8@NB"UGoi>*qd8S]U1FlOL).@^9S)nk0oo/s#J>9JW+#*.RZaU1/gbg9"i'laiE*Vg^iqFHT<jq+mG&3YOTC,L"<psE_b;W$<XnHRKG[JQP:L\'`Es[$Q];mM[6o(Da%q9+lngHDW(G*F1$,6PUjjT/\SL68=U\TEi,BC.F-f@q)!B]hIEY?n<rNTp7?pAFi3%=J"\e$IT^R4<6pq[a>,'c!p]:cWE[,AE=RLH,cL7/n19Jct#.7O[DcCtgUAJ%,KfIT+:^'Q0I*`HCeW81)3X9/se<NF$o5/;/aqQg3SZi\5Ia)7-Z&iP1^TNb$C/m^\PLB4&PU#^AF[CRWbV3WAl7)qcBKW?%U'g?!NCk&DaF@#'\D?HaD@sUCNM=c>Z-6i$`:';W_5)[3q&g-[d&jb6FNbQn*;*@!97fRi%a`afE/-7gIh9AE!(5N\\D0/KH65+`C<=Puj:,oG4T@h*NH"jt=[_/q;lWWpn@UtDm:L;S21#*%P?oY?Rlo8^sT![ces)ES-^=VtCVj(9a?\mu1Z;&3p:Gan/Qg&>'#!3faFaT_'5u2+U].MP(jI'6ch!7+5bM#'h[9ho*puP\,KT'ef-84Fa`:6\^3]9_K5gC;q,qDa],#R1b(DRPE4T6d[`H!ZSF>4#f;k9gD#hY8J7D-\n+f_'Q/VOtRf,u\?1]UIBZIUp*Sf*0_5Ym1,j5a2nMP?]EcK(4WBAXR*jV`A4i)*lQ1BN%c'&()!qT$*RjbLIE<CU0Bb.<L[0?LZhnfP9/,2'\Ma5UeGZ"n8!&rC`4E)?C@PJa<Cr7]uDY<TgaZB"BDTUc2-b`f</8\-TGMT8Qu\kI6%R;+MBf]EWpq17oIBs&!)VofI0fKE-ZFTSmI+LCfLJ95nK\l)Z02FKtepFoin2>(/?*ea!O,r#A-r'd\#(r2+[iZ3jaB*;pTAaI@dRdb:4Dt2%)dYL(6?_dPX[:*?!79']<SYWeb)4jA<8]S?2+ddO5rEsZ""d9eurJboo@rOs^)J[0A0nXS8F6XnVNf'>an]]2*qoN14raHa4%RJV$6!)!.kmf`+*Id&Bf2i,9TkE',pIJCpi8Zr@<R;&mPKP=6h*"'">C7mJ&qe`ogCa;2SC8sT_?(n`;e7d,+.$"`j("kglm'W[JP#XP#8o`(!/r+`WAa:oSB'/O4?%loaf&LPIVbp[]XYNO5W?9Wib7o$"[9TUK%Fm^>X-ldXhIm*pVGl>fCE2pj@W@ti=jiZ>bYCb@Xneq.8'r3DhXl0`GPsR)V'BUrq7WYZ'O-iX8/USCqG*[C$D;XZk8(P.?:tME,Uf$UmM1eS(liW?ek`3[P/3'FT(Id$>.DeA!t!]`^Cc0][+F+O>jQ<PZ+/N$6GS!9i<73"$l#a#$[%+=sf0'W2!4q>8R!HJ?lX?cVnS/#SG?&[0B]eGj@@/i"gS&j4DS&R,`FW01:&**V_a(,E#^%\`UPJas"73p6$\]"b1skIG&nt[b)r.kTuV"67CQ80#]+CLMS>_q?:L%8;V8VX33)N.e5s1)em^%cHJftc>u<Q3n5*Q$llaU9pt)7!:>'PV2-&<+`re-FBsD97s3NJ<LNqO2q)^;0c_V1F%<4!j6d8]V[E`i%Ajm6eBLDnP.l$5*=b8cKlZ.)<?bt3##:?[7&O=0r?eZK0!&L9p(I@icOl%MIugJ60ES,J*[O:<%Wr&!M"r,,$?/K"gl<NH&XNA<>XK`@@4<gZTA%6PR%U6tlaln>IBK9)kOec=rp#e*M;W#).u)=3G92\`)g#.T8sA9[*&E$.(f?E_Yc\"*7e&6RBG-5p#*ia.W1X2tYi$h9(je&gN1#F^BiQCMMe<8;s#-:l9nY?Z=$4J2*VeM4EW:,mkW5"86J6GC!S2IIP?VIIba2,"2B^sdN)O@BRHr*/5"QN(CL0m(;mddk?t>qX&oP=sF(,`IIem1u%WI2YR%ND!kE!O/_'4FA4\4oN5B'@>@6_Wl_%EhS)3hRlAXTB3%ZcgWAJ@Y0<KatBek7,klH(#!g@S7(ark5-Cu6^<WLAgdZU&Bp6e7!tX(Bk_3hOf^Ni#D!NKScQiHiAh=W:p-oUNY>MQaVMAl!3]>7A"q9O:RPc_:T,_aSDVYi]8OPZ(l<ZY?+Ge<A:t2\%F.S-O)\$D6.<])4^[k5+6O_'Z>kq\bgj>2h(V(l0,Cbqu@lC15(]dNmqUTCnAB"sNp?13nSBd&=(!&s?f#"_SrOqK;c1=.D%P2DFt05f)qiSH"@^N,pUXkRL"*rb.7Tfa<roqa=#lB<.5CKBj^Vrh<$Z@jG^13^Y1SLj+8gLU3S<HJR7e]"9:W%OlV[88b9K#%f",X$4<JH2\oh6,#'15+:$UQo7[5a&RKVBcR;>K1aH?bmD$Ifn^CWW(Jg[,Cbp<d#b[EBnee`VA&&&D)(UdCCgWJWF+Fh3KGq0gGs-(m&'AIdaWc5Xn(X6,!EKM\;t/JHq%g]7us7b-&&RnN>O#47+gIi@SaTo2X,'n/TffkKM.VH(4oT!6MTEK5l4NAs7Q*Z%JL^Xa6TdUD^)Spnb:#8S(uM9l/q-aq_o1eN\l=&p,Km9G^[+M%T:hi[pu#NMcYo1!Gg_sjsEV<S8:1,ZMRh(2WsJZ#-4JX8ar>II$69:\dWgp4mQ%Z=E,Umn^m,N2m_M%<YC<SZcOc()'\fSf1h)]\YR=W+(nb&).gBEE/.dq.?!ADBi"CiO)mGIP$[J^_^7E>&Wo;IkSYV2Rl<e)Y!pZRkTS4oc(bs7a9UCo7&IT("a#h25L:6dn<W);6-gC4B8$W"cb&Zuk0U*BjU1](/+_D1%Y)4gqsBkKf,^+h0/eZfVX%spEVF(KrjV!(Akl0)D-C=nen&.(Y3O7m/Mct[>pViP`X't+&^N]hdjS!.?rC6oXc:pSkmc4j(>;tfQm^Y4@&'1&WoEFp%%jK.]1;>V@!Cr,"jO%&f3.fb7tghmcUmt1mkhG:fbSG^P:=3J5G2]r.QA@^T\Sf&`"+g_!Ohk'H[L+j8LW=#cX)$DI*5Q6Y8RVB?o_[:5u1R&WFmq:L)%3Q[MW"jRN`.;"B?n]PGLsH"gO&Aa^R'Q%-O-6Y.@r9?;.+2DEDS8J['FIFY_4R+)#[!VPiD`31<G3Y.a+N@Ju%tV0tRJmm5UqOn\m0?;"5,$Xg8M/@o_R-%+[*4S,uL5O#%&>rIJnYe;!sdE,YQX.k@'e$E?7('@KU'$*McV@W;)L+c;76bZI00CQ5MW')WnW*N9bABCGP"3\+NIc3dG^A*'Gb0OA1pJ"jdis^:&H/n;'h8To4C0n="2JJPf**uQE,.rt;rn55LaiPOp+\<_sE*$uMK_FlPa[j2(I8dS]Hl$G%]DLa+]=G)N#I,M%`2DZnO%oFSRc]NSm!Q@a3,p9U_s[=e5s!StO%Zr9TWCm\@rUSB-EYKf_*$!8A@G<.dA9N+o.9?h;bl%]$`5bh$9#+8$E^u`*1YnTj\QcNJrH?ZI<tMITPtoDXQIB%cIs?N/.<!brGb6e^tY(:+)-gRFfq-.,PHL*bAU)"hBL"r[O@mS8GN\W^'5[,N6C-XNR8:(e`VC+W0<t,I.=!aoo)IDGr4T&g],Z/4ibM,D.&p[?l]Q=OKrN&:;BjI&FiJAQ2I7/Co:?FPFcP=q[EGO&+P&B1bgfm2N&2Y/(XkYM&HT#a^H"aN"4>G*E]d"pL)I*oXA_AhS9*TT.p.GQf$fRZI'QtnWdLI\ZY.[*gXn`gMEU)`n-N8e(Kt;041)S5E([(E$mlPq4<)F:\Tq\!4MY[)Fi&B5J?n81FtOT~>endstream
 endobj
-153 0 obj
+172 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 4256
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 4676
 >>
 stream
-Gb!#^?$"aY(4FN4\1cZX\ltC"^XFPl8X"8F`(f$1VON!a7G+J/&RLW0/,f<-(SE$7O_r(']/uTU,RPeLEULk-(D,Zf:Y:/p1SUWXqX+SS6INsnM9lXpj=S&-H1IRTSrb.R1\-.M:XY=e)('fs;02`4`m(L(4=Of7;&4F4M.2XrMj$OSe7^o?p'Ddt5E*Sr@[K$;?6h9g1mP?/M^Y9_)<R98a7HsbRc&OU9fVq2-f5_=?/n.@\]0+ba'Z^J"^O!cdOi1$eC3AM/PTLbK^UY'Aq!aeFJd3@It('<QZVdM^QB=#E>f(,T1nh"?BE*6Ehe=D_?Z21B41cJ'5(`cc26.mSk=HE2OUA%Q!fNljJ?$4W)g:L)fr"C&ggIY'rC2;ARB(\e7dtM1WC"8]OU*4CD<@(I`fuel\cQMd_q>uQiLar4IX>=aj6H=M"lN[j#eG/j8b/[ILpbrEB_'4V!u5F.!j?>YA&_E@GC&2`APQAS!F1`YVp>W@!i=61O)JX(mTB'[7P[^<F2%CQ.omM$*,k#-Zl.7p4/R=dgm<9p5n"&PT0Bo5PK?*2+m:F.md\)g)3E2R>iq'q?'u$m4b`f]P&73pkui%3Uk_Z4PI8o_!U'D8.mufqn;Lh5QOe.R>(E#Nr1H)&$HPa;<I[o)T3o6/57=?:BUs=+:_IS.f+C,Edp56S-!cpoFKjN,PVg&risIQD2NDmcd@&EWOr43*stC(oQapX`st$<(#;mt(E,*[**<6:.c_lFM8A!F&.Up4lIgi*IEC-]n3a/eL9sqT#gA"[Q#l8`&SD]F;I\om&GU'#?=J/M"8d2&+mXM:Y[_QQ5[NV`dr_Uq.0tu1lG<Q`!oiGs/r%$N2,_E5k9#SgbQ?*$iN[0oK.uoV0MHCSHC0)f1-8tBlNj,ZC3fb2.RPe.L>bPJFqt^FA'!K+V(7Ht91bY8n,$'!\OGb##i<5nKmp"Z[\uoIoAX]X]bq"W[c]ku`$*[jlPKjU'/,V:noYN\V^Spa#Fl/Sl5(6OYC9\T<1E^3oN:2XOJ%t\/>YPl2EW>[kJBY^[3-M,,.H/318iSYM"<KUho!?^DI&^F/bu(gdsOr*._7ADVQ;c4Di-TB"e6Om*4MrMXc(Cr_]M8I+0sJC&^5`)AB'Jp-''(7Z1#YNJ5KkRTe4:]Nm)!>h82Y@ga1O0`lqCG/G-oUSce95197o8(CX\*Uf:dY!he\e3a:.^BEoZO_t0lc/\$:L7ZeKN1(lmq$Qb$A,f0PL3=2F.,Ol(^;.G//2afs\kConuFA]$o<@>g_gukYS]>ZR2l8e!CH+S0'=!P)N/sm4iYen,Q(DC9/,Ot,PY#GRJ[KB"fWsdJ)Mk\UiGp#eSO*MeYPbh[jhDGY-+SB7\mi<`F+m"Y89\U_%p8CW$a%Xt%:W0VhVRg5?1;u3FR;R+0/a3/RGP(h3ET$;kp@PdQeIXPJ>^.-H(4HcNp"28D>cD1A]k#O`VnP6(7Thk5b?nIBV2TV=!CWqY"$(B&AC2sEn2m[!%#qH;JJX#,^n889n?N(s1^ld^;*^cN`P6jdI/W$nh&DACcAhk<Nnnkk,!0K8"+QmY*=(lQP"V=d9f'$\qU<o+_d-K=BMK@,X%KFTf?"+ObEd!EFhZLs*dIb"46%De/#)&AEfThDS;X@]$a:`Lk0m8%Cq=*CGal*%kT#'fo$g]uSd\6gW[KhaN_^]:YDNP]c%J^a:9.G#Tu%`q)dLURMJq5m69_?B4u3YR+FVW(FKY(2aWjdUX`!r"2&pr7]=-F[=\Dl)?#S+eaOd>J:7"&0#"fa#<t2ncHpM`6)X&!D0h9KE:%`j(,lT9!P==iDLrf!kDs>0I0]]&H5;k<a6/[TQH$JPL"#\Cibu8/)eKrKj2.a!""?[ZFp].1g?_Np4X?b)b9^b*C<-5*0%,kqpc6.Su%&WNl.sX5AMqo7Z7p;NNJ"NcQ;/_:Dq@t!g-(1N_q6V5FG](9tM\:R\72+_lYRUAV;6u9"1(D;%QSn,[/W\h<K;&-HG7'MmDDQc?=%<E"lUEKJSqBT\.(P4ARJoBq+\]eCGi]u8T:\ArbAj!T<AFo"+Y<B[QOQ-Ih$"tYR$,Pu9X"+81WZL6g0lB2aS,EL0%4Oh=lJGgS)k@A=LZ>;"f'bRmLmqAaQ9M$@W"Fti.!,LB-\*E$#*F>*d,ta&hS6C-<l!:d$=-9@)(n_&)73[*t7#dDZIBu:?N2b]"LPshZ>\+lj[ftrBVI`8M\@VqEBYlpOb<Z44^S&7(JTHY3s4nYu\PAcE0F#g.Nc:!4i2:DlaA[emaP.7M?@VMI4+XVQgeCe?VBb`c/i/2G)eRc[B/'n8j\:fU5i,qTaL-F,H)a^^h]ps(3(`q!RWXkfWPf]/MJX?6mFN<ep&2;CV@$/eXX9DU_8gg'W@G_)%P5ed.H/=jbG/`#Tj_cIM%LZ7p>=-RMo\,3fK68g=SfRDN6'bVU!>JYg.tO:$k[6CfT3#Be_3lJ`$U6uogAdMe00BBUkt60K,['#Y5%9VlTh\]dpC<_8e<bdn9c#j*EgE(94m!_e$F:=\?1*eLeJlt0!(#PblEWm3$:68)*P/]-S?D,qV6N$uRI?<rtj>O!`E!9_/Os*40uGY=hmCPm0ARU.[7b98Osk%jt5R&rM`a8XA?Sc<*[FUgEJC3jN]5Aii&(J0N9qY2Wa)0oAH73`tDq&X4NgjdKpn80jF&7)h9gni;%+KKNd5S'Ek0No$g1"QR^kAHLTo0Ads(#$kSU%R-fFLuW_miZm_Kad&:??O&3RgfDmcF:DV.!X_FdVN<>-DVn\QE3-S'#N#AesDm\&9*WE(Sg1i;D4!W1qVG1<d&@p9+5YC0=43NgCuTU-&t//rm$r)m@0FQDFkslgtI*WP6\0UCJ3#'F,JbS)5k8mS\nC<nb0e3.;)n[4?>A\MU^tf9\&d/35=\2D68WO<6)TY#>AAd4f-F4gC^m.3BC[W$+Q)aR78k5bRo64duDm)orqkSB@%W!oV5T)h/(b.TN;lL:.;o4*E,j>?5D<B<"j9UP]Q;J@em&`3N,q<^Z)-7\jo"Y%>br4p%#FPZ=DG;[qWTJ".OV[e[7_a+&uJ!_("HhFKj0[o3fruD!#^=5_a'<mTt_8ms:Vs/$nRC,(@R7'ppW9T\0l5BWiQ"mai<RT17a8[;V$kVLXQdG%VqA)gBU'HBrnPYq/K`!gbFb#:D4'Q*MbpBPt?_LFG`KJA6JQ-R[PC`,2dD6CuGAbgcn<!l(+g$_">2OKRa5X^KuEEJ\pj[boWq@RpRZ?h66J!e2$&p]'Aq+0DFh)?aD5Vg<'(KWB`-[s+V!bm$DgW(,NN.!a!\kU;BN;rJuOD0"qhTKeui\Z,D+O`cSOWKkgaVpiJkmHG2bXU=uM;4A(.'Jd=0:\''"jiA[%KFO^o@FM1#1rYuS1jIOYPODma+@bOLp2n=>Zn]8[qK(JI*@lJQ#MJ)p6-*EeeoPP?4XKe%nCekbnFDoO(0*csYl!BBAs"E!WP^kW!]*%6R#UtJ+ft?TP8j8_++1HSB&%:BaFfj<6.S8K2F9$Nr+Mf!Ptg%,hCbh9,:VF[[r[XOA`MA0+\9d4,&m3jU7ZSlRMVi*1r[;76dtf;f`LE3"Q(ZYlq09-o;^3L^='X$K/\GO'>,NOO0:0)l36F^)$m1S'X#)eFnl\(^0ALK+i)@8COiPX0BZp9`**T]IbD<CNoIbl[(?T;OQ"5ueUFLKU=>*3)X]g,YIA96;S2N%3Ks]uq>%Wi1<Wk3K2-/$Y=kf2gN3+/K10E^2egO`V,J[aHSp]R\84p=K\!D1Y3tBR,c8H*/Q)>RF]+%1i*]iX"SV$+p76'6`UW-GG7<N/gOl!$n1,"+m@&KN[2`i3dPc+UO5@PLod*N#$=H:Np0p!GhCgiDYIFs%6?pk/$X,H0-Lok8b1T_1+h@1nlq7![']'58haD%H+I_[/]'iBY^=hKWn,GL+9n"1g;qI.oO*lg?ojflh>q(o]0n/RV*Y3QXASnfsU!"1+eT@3pcD@STZ\`PV"["bW0EQI^HiY9613X<eLed<IU=GB:MKul+(:S?PLG++Fd*]Kif@tJsSu_"dW8K%Ac+I`S7ACZ3o+lD[!q]F?lr60>U49=\F*4[jNgu\j>bkle'1&(G8uRiF(\lSmHbgpPX;N#Z_mhPmr6]5m]m59)8b\4T>+]kA*PPa%=ffg!m`fe;,kF\__5W;p6#T&C-ZiJP"lMGhmF4f@prd!KC)Q,k"[)$k0s1ZQe4-jb)^*I077h^Mk@)G-BTKNYT)9D!2jGc~>endstream
+Gb!#_gN"7D&UjCToZO,mKKC&Zme2jO^2DM.XmKZ"2Tc+m6K3g=!Ah3<r;)of398.R8[Ln9VGnj=j:$Q)TC+n@)\hAn8(c^_"ju!>qWf(d6IM2n&tp,iQ_3L7QY6>Ijp<K23$U)4r?MioP@<H@)-'ba9&,qob`bB5'P3CSP:.b,]f8SO6C"Fk5<m&YpqbLJ6>U6CV&+ssK;LEtHk@[sAV'[=?SJ&ffd6Ebj<^>omDAV:7$mZnBr^\NB_\3=18AEW$=2\aLcRS&W3n)GSFD#%[:ttQ9p]VOnE8-^b;F_D1I%!<6ua+MGb.V"b[-CL@<1Z@AV:jD'lJ^+<g^B3Ap/Hl)qE?+T:)$>d`5,PMTJQTC;$?>d<\uaCJED_'$Z>^Xr:Tu`u-FC0QVmbis6%*BBHe)'Lj1)ndE\7]*ClifF.X3JXQ&u?m>NehI^lBp?f<C:&"$NF[[Yo,"_,(]Q(g/J-$Z*aXkBf3:aD?5.q+0A<M1G+A$f\RRFNU+S<?$'2ed)6(`)>m;FAm1L]PtVY7;7PIkJQ]YlDGI<oqf2Q!4[BrAM=O86`@YAH;M<KWVLe92YBn>@$&D"f&"r[4]R4e8cia`$FcbY24@VH06;gD@57.__rtWRTO01K/[6aCEF&l+*cp28:@P/M.?1l=MoJ1<1uP^TKN3pO<,r-YpE2("&7q(%p@V(Q7mK'&sQh_,HZqS<S`0])qRUc)d;":>o]VWLXbdrk,(c'0F;f2IKI3HN!-ZpE/;ofH5J-^l$IO)^sC#P;)[j;r^8VW@*i_fE"EQ]RWB[JH@rFM3n%[%6t)!?5+G$:iB@_jKQ_\'HX^YUM<s8/i^/HGl@bAbpR9uMl$eb"+dAsbpM`6'``s2Kn"YXn2I1ecGj.j_Mj:Z!oM=:``f">='Bid_Nh!9[59H[WNko9G)AG=g0t*Hdla_L8pd[11b2O,ng\A!pI@Z4%imuj?h$49!tb+j/8m@n1,XOF>,uBnq[,k=\o.uWn4J\jl9P\D']"[4T-Qq@"lTJjZJ.1`-AMl;8L!m!PJEs>m:<)%AF)gJGG_'/>I0&AS*tm(q5G0HQZcI<nL<B9`blIX_;-WJ<)]8/4s5lpon^n8iCq5V[#me]`Cl[rV?Y_VCCf(;(`rA;CIQ\.-/jgSJ+)JHDidB;!V==)(Hlm@M)*D<didKN"qcA8"S"DR"uqki!CM,'5DM^bGD2LJYgoZ,cprLa)>LqP)^fc6(CG([AmuuT^fD1jPTY.rn:P]O!N'2-)dh?%i*qA-db9G(Ru@pL[p_e=LsblBn9NiBaC%LS))BG75(7CL7MRiX@/-PAeO)GV%^Xo1`>8'+VA*1kq&p;28-,+pLLGM@V)OTf@g;_K^clO6oD[&C6T&>-iBY6D+""8_eV.j?Dn&208Xtn2qc)X:G2."fp[A)VIkUCS#8Oaso69oA_[KFfrfa8H.)s"h4%PcaW=4r.o=-c6,WOT<S9#i8EnV1USJP7oG4!^+9ENqm^6JKT''dPeS3*o'<]6"nM!a;]b]pEN@_9&+9-=Yo/a'";ljLAWL0a9K,Yp=q/D/cso/[Zk*"84s$!"SOgs-AD&32FT=5+e7hi?ccIcMeNm?t6J`;m]h1]>ZIj(!Gu\`<2GM6./eZcXiKFL0B$<S>7=;l]rZ"q7--hh4s+DTLO2(RKOkN=IY\%mXI+V$.BQ:,'`CFP"nk&Z!(u@CWX3(kb`E_&^,Q@?po(NAWWHW`UN'I?g;-m>34MT&V3dogIEVl36%MEm1DiCT#<4>RTPJ[C_!=mICm!MHQ"YfH@;r!'<9X7R%\F<RIk[dZ&OJR?@jI4EW,H]aVPhi%P2M<Yce59TDH^"jK`s+Cmg3jE8@6e+ukY"c.kIo#[D[&Z34jPqFFErVZI9rUBE(i#f9!oM[s)Pq!icnXsp^Qo+KkJIPF*QrpQ&4S3!/J&mQM1#U74RRO'3%tXdD<MVQ',`&0tK$3W-U0))V'*V\V$3<87U#9d?[F-`?iD'E%NJi;cG5CXUl,WN;9dp!`drtW)jM]pS!InhTL)orp'qA`JWf[b;d*.ukp5Wh+X,cLQ[N;^`*hZXoD'Q+QS$hJl#CtV6IotHG?bAYJZ"T\K10&HlED#+o4GT1rPAc#]gT-OXnRj#c2Ht96OP9T-i9H&AjjA@G1`/.rRKGXZmMEeV)($;mbh%_j4/<Rco((4.Lk71R-`qhg-BF81pVQK`C,kkL2d;dZRC.]:h/q3d$LrGTC@qH'V1k<SUpd%siHH4l#``./qSd9p;)>B7$,;*\Z?7p(%Mf:c@Yj7Im43Ut((S7#Mk@ZG)?cX&R"pH'g/l`gbu7#^r[h2Hiu/jBGW=dR!LB/q^RY#8b]F=dF%+],^^uf!EX)'_P-'pBH?hTNi8<j/B3JY/Ip]0t?LI>9q?K!9$Sl?0o4^EA0Q+?Po/RdNMFNCB?lQn1?F#UD6lPdp4f()DH.;MP]1u_t7R9r-^W[4'H'X)emc<Bl'pqsPPcO#MkoLHR6BOEZ4^[sj`4$_P=gAlIkP4`JSUE?4"YO,L3Kk1/^!tZX+JWd>I_jE\g&a$h[ZqR;%\6`un/puipc<&'f)8kuHAPbLH7J&X#mC67Ab:RB,"<_-o"q/VC/CY40$S'ji<==7ggA^93mAH^@.uSacg`A"]?8/GKYFVX;#7Yj3^B3`nreBVO^sO_oR..amg!QSFBecgUFB[D:(/Y=W`/67.Kis`#7-h#h$$McX:2a=@Z*cH,8%_Lhn;(K+c(*f\jF]^jb@PfP.l9WbO@NQK?1r<@KG^Tpf(ja/,'lFOKe\-LBtn\V[p(N*'AZB7Rk7QjNWEPm%mT$hms)0o"7l6*4-R`mfb@X@7qgN`g:tY=HRB09\&g\['4L$?8GTI,3fc>66c]]V8?M3bVU!>%8-_:&.7u;7#dYI$L53Dfu4I9Lu`lC8P9J=`MP:n"ef-0;@jXp0U9(4k'Dp_e-Bi>1(,,S#ipb]M`N*e4JEu3J42SC0o&UC8%YM\!phQ3i^DQF9HI;J[19?`h5eD7>Z1%4!l0B#s7,G3ED*+=XR[lH1n!$/g*SH1jr8PRRr&aY@!u\'cJP"tS3d^TP!5?"5Bg8p&4mfDo'&e21@h^nMZuL'o0(H&H2Nh$i*0i_DE?r@'(j[6ZC4R0kb0^=UD:$PF&h^Tl],J&m:[0;65pfPa'I"cF%Aal*g67lQLVkjc_Se*V&6N)!:h@dkW!miID$J!C8pETXt">akGl=PDJIrZ!rr6&6K/X7HJU9IRqpb%[N3@W'rl1PGPc9bot"kJm=0beXjptEl?co,16l7sQ7'r,_#t[Mqq?\OE/M)p=Z\Dl(oHn_'A&++!&+4-A]MD5;rm'<+^nJ"n^AlN5knY(,X_'s5!7X3NXd+B9\Xa3#LsZ;$c5l4SiE.s\H\Pk"Df3K:''B/enDtFJH_]XgM5D!b'`^Hc8%2opV,e-fm=f!9\l"O6#.+Mj6K(9QXe%1^+KENhl%F02,_A;<KMeqa/a?nid/iGZa[+K63pr.KuBB/V[n@]Z?#g&!_fJ_*tJmtLa;S&)Vrg>HlsESbnRUk#EnAL>p;YN3W0iX)_1$)ji^$+>cVYeTtIYH5P3pNp7)FYkiJ.NFX=*@jqGG1plB75cF@gL28.k)r*'4m!"Hn`N$jc.A9(Zn,oti][1+/QeD=?6^;JfY(te]r/6%Pgee;5\?t17S:`[M].,aJ*gp?J;8Pb(i[XH=6Pm"Bu^uq8s&B4L_-r%&&+kj,@:J#n3_Y-=.W,7Cgp6,.&VpjN_KDkHAoqT^`@%DMmXgc.\]22`-11i\\6SIXY+#3uBBnibQYNY7JhK\*$mp3P%-%3q>AkftBN;]el\22BD0LCjg[!#m/C*T(@X`Hg!gO'uL+n->EkXJW3OHuAGWV8HrBgFt`[FWm"ehauk+I!912/g!p6#5fc45RccI4*@M^3ihYH+W-hrjKPb.78dI7VdEp^>`DN_jFF'N^E0@)Cr,q_I0%`E!Ok<9@I:.rD>YFg$%CP7l&jPl2H[Pq5b)5)C"_o_&3aT<IsCDG++u3pCf1cZA1<&r_O-\.)%dVONRlDGfY)!>!Y]ZI%ATS$XEE06\)t2$Y<-0;/:;%].&)^n2Y4=V^H]MKmg]">i(WORu=As_=@-=HpnF4iga=9Rb5.QEDeoNQ5kdl=C=2i#3')cHUtF2rs`t?/Q*:"MM4'Mp"K,+qQCjnh9"FfWr7$@ESQ_J^)B/uC4r?qmS943^n0n,ho3N]eHEDbAu[L^R;oFJm)_Ts@Li8W;Q5%;0e*QI7nZ$_RiJb&WQ^)%>,3Ntn:8Dgs*+5nOJ+P@$O.O8hYt$Vf\C],XYqoX`\HIoiulV6*d'Z>fJc@uL_;-%75=J6dPd4o%)*$(`0VbdiPkDTp&H'K`n#O98iJc6`/WX7mY(D\d-BohL#.1r,.=CYGCoB)("igt9b]S;TBHMYf'VIWUHNhnc)!RW]FUq280$=V?,JK;G/k6A:U<,Z.W=@\J+um$pZ9mG=H%%M4^"do@2W$8VU3q=_KBQ1m,lJNbB@-0!d8]MqV8,:J9J"d5&f#R5]u[m=,OVhP2.#R+YNTV2GJ[SC]gkH@A<e=Kb(OcAhC>^L9'FhN\ZJhi/1G#R&=4loTGI;$B^O<9B.EUcdK.V=qA>:nb!M1ID@I9>=+/pHq5dGo1g*3dC^iScsI-+V)qtMj[,:C]jE>@Uq%<:o^%&jk)9<~>endstream
 endobj
-154 0 obj
+173 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 4606
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 4507
 >>
 stream
-Gb!;g=`YOm&UsJXka,#cM)$,[md-,g+0/N;.^kkI36D?EJOO5^.!+d=^HUJh$ot[dMP?muVc:*L?uYejh;?h7(qB@Ybl?,ni8l8tGf,&O\GQ]XGC6n_LY%m=rqjoJS-<=&NYf9(m"<4Sa:/c\Y+M!SE6JrM1EJlE":gKE&3+mN-t3cf'#+A@)0Um%fG]NQrMVo(!g[5l0b5:k"VFuT3'R?Mp?)Qj$Eh9\$:jQf>aJ/rM8)$G&q>09^%&!V\?/.OCO?d\#:G4-kY`kFpEA%t]i?q;'j3o]5DRE$\GS.baROj9%R"&m_J*Q$MaBY^3^XtH$PkN[6P!fHfbl,KHCl,'5t5Xe.0Fd6-YUMmdnD=T:^U=#Q+iB"K2[@Q=.*`4DO*)Ie7dnC7goKii#O&o9dR#fDq)rpcs5H[+GrM+GPqflN*hVM_Oo3>HcOa@flj^dY5,'"iTQ.fOVr[-Nk*dc_[QuuioBJ]E0D,&^-s#d+Uo&S^ml[1![tjB"".]P5CAX3-Yeu%LV'T_$h+`m;&JnE]C@0&jXbEA36)`rkTjrM[(sLqljE*g7j#[7b?Wca7?=%lT0]5X/7]s\Oe(ht=%BGY^\W3Jgaq"Dos`bnD(Z_//Y.KKVT*PU\Siu-S]in=PCT**GqpsGj0,I4k/X>n+`c&-Im,]M7h/ePCbhIG@*66q_ci+9$$E,7p)%bs/A+j#@%)8kBdPSYY]#X?Ahe[fbKK",Up!s<`S.E4)5Uq3*PS1YZmUge/\qZi:&AsRAB*J8@R@pbkGP3!$6.$)f/)kJhS9$OTr[A%)IPKk2KVHNh9TM8^p(-P,7-fC!RF7P!u/%GUiTX7jS3$K0bFKMB&DRh*M1/o\<#flO#`mM"r)1>hK:f!Qkq-nO*]]?4m^8Q,MrePLF#g1h083:EB3!hml2ll4bgf.2cE'#nemA&mG@L(QQK#;&>[Ut?N4ZoVH`tppSCTTIDV"r)["(k$=/KX=/mk17V(^T$XN^JQQp[H-W>%<aoKpih6]-'IK-#6'FM:ScF*<]RmB@t4ZgYjKutF'$)f\_WMEjdcF;N0UT5W"TXf(t_7=H2opin0W"o.^Xr[PEpM^PcNIrB$@`K)Y["hGjd238j"=MfdR^BIPAR0fS0(>iS;^HG:1m"Xnju!I;VFm.Q#rG!jilkTdg>qPXY`bbc9j=j9!?G-STe[98,2=_4a[P#VH3IW*dp<=PNm9OXV0Ot9@3X*59Qr&lZa@sqeZ!/pa!sk;a@mG%C,gKa$6S>I)ch6n08<?jKMUol5.QmG`@DI/kaahrP5dHOH]Kc_D_#,FR`s<\Q(.15/P9?nD('+cCunkVAK8kTR%XgUdAj#Y.\C3\r64UKi(G_ih;%'TC0P(0C1LlnS=W]ke+m%2.qR;g>(9j>o"kAT^rY?V7ptJ88G#.=!qOWH:s]Id/!YXc?VnX6Q^%/bhVLd.Tm+u1qc3Fo9h_7KO.,)G&AK?c)S&_o<N4.@5cb4Y"$#&LR3tImcZq;*C]oD.6$ampgOT#>hi?#2>qb`_*Ud?1Iee6ZiJcCp_>_9<5:]Z,YR50)Q=<:@Hp`d7_Hp"LQNX:D]ObPs=omrOZ[e!\$Z\+6>X`Eh<t:?@E\p.^8jO;eLFi*,2Z]Hd-O/=.<OTG'!f=R3i-<0aM=eVtW5oBX8Y=!,Q3F^D@.I,0(34m\#`3:"KE;qA8@M;9p4d%hf6!nc;.q@2o-mF.0V?2`RC1m]4t*XeHa?&"F<nDT^VTF&nsZXnj;:8-jiFGpRBM$RAs_ad@tao\>;_.>n$.L2iZBl7*Ba$)b#u!i\>[EUd+67$I*BR3NHhZ7+$>?!5E*@BHnfhMDk'dTr$;!R4i5DcK2<,i0oH[Og2EJQh^59#kE$TA"%ko];Sdl*a3YZe$:A=A+G2_"=c!=XC9A7%AWfbDMpeE+%->,AnjKJC#/qE?4DOc/8)c@j<o7&+1rXip484pZCp9=#$Q.!t><SNSLPqaop-fD#LKgC93.[sG$,!F=3hM7TR<hUseVI.DWu@+=+I$49mKs=QXlV1c.t$+l%?q9iK8)REMcXg,#r7&JO'Lb&TZZ<I_;#`a2-,B8cc80@NQ,uN7S,;6:O!jDnK1`$fS!!tUd7@?Au9FE!#[a/-<XGUU-55]#urga:'l5[?348/=@Ug!Vo9\]qn'"'OWu"`-'G$i@]%'J>[4f\-Nno&U3M5<':>j<U4^sd=L<%%,k_+j15/#cZ@68Q#O5PfXRck=lK=:f8b=:G%1QO;E2lOrCNV9,151u9_`HP$/+-a1X'a0`66`9Cn#;EdiFkF?qbb^^I4(h4nE:/$0t)mLqNB=)1E22aQM,\lq`eb-ZblkPojloVN=qL9$AaGX$09N*6uKkN+#YtN#ms/EQoCo..C<IoJ,hL<nsu-U;X!'D`!CVFQ>'Q#M<\uJ^)+73PqGN\md-:dn@;MsRe8r\S!">0nf3K8dW=(ipP"POB(G`Zm]-J/Pb(qC_U\m<;mA%8]r*I;7iN=D9]i]k8D8Z,fbXej,tctV_AI4m#r9u@<7@J+ce#^F/S@R-AY@N%,hJa(@[pDq`_Ks5[2Veh\%,:!I%XkEWt"</&(:`SP<?6eWUpsNHrTWJ@GpVd$/U)D%J(-ar]Or>4-Tcb5Z4#>gML:%lj;t/7B&%!\D\YlC*g'K&Oo,tM:#EA.\gBtX)^os->P><QlpjjQB]nLo:OV`0WFJE<Ek</$mnX>d2]RA2PP8FIYq<C6I"%eZK:/l8kZp6bIKT7:&Eeub0a*-4SSn%$67r"N$Z[/bi&l_ENmh$ISWK6F[FSX/lX;nnm((D8n==C<GG,^$DoT]#[9`soO=bC(]u]A['YopW_q6HGQ'po<2`*]oO=^Sl$GGo#L"*dgr"B/E2C1k[DKon_pM?@O)PTeTob2)\fR&g:<^S"<0'<gm6iZ>f*.H.\k\c?UNX?n32+[m81Hi-Sam.[lrqX0,39AL#^cefWc9XH)9od>^9`p-XB_66<*NCTjJNV="YhVJVO:Arco?S<d8^_LKp[Z+^P_uL#6FU)hNiTEPk\rXUe%<W5*Y[B@l9=iW=jV_>=Q&mR@icmc=^(qK.lQ\\!A.WfcLHl#jZ/Hf%9A^b!dpTft^1E*>2!/S9IUSI6:#-kk6P57gE<NnJmVeH_f47%H&=N,uc%2K(ceCA7a7dATZdGNJJE^e$=-<+VPfPmfn4mQ-g19h_G$T^ItVNAg!!t?(5p"^k%E;2G#WB'@sqY$TP%g?-Utl`Z@Co<J0V1M?Z6XQ('&^*e<k<c%(.K&MgX21$B[m<'=a%Z=@'c>[_uD=sRsd'kN?l$db\1WfHA43F]>uI@mMa1<K^]p@,(,:P*FTo$M+dkCMY_M)VH\Gdpq,V5PJoAmMs=gM>m;$@-&p*+:.0oOT*AZrZ6I7+f6Q>nlj<]SWCC3BTq&BaWk/+f?a%/?5*NMBBdo'\+ToY?3N!QQ8"#2JFEq#nXB9.K(kPKAB(os":+Yd'bDi/9Y"m!'3DNjE_u9#%/8lqYL<e7%]ZGL$>kfqKh\AM`hEEULFD>(e`Tm;CP$L59,L71KnfPq#g&2+W:",fEZhp5iR(*UYk$V0<2"+7M_A@qGR$Q*/\oWj?andZ9iG.>.&uU/:-2YoANQRa3`_qX>9.<V"0m9Ci4+P7Fdi-7c`\=!di+O-#pTV1jRRC/NR7Q;:#ok7Is:i*Cp<(7<N5q;Tt(h-Uqe;>p'G#ACZ\'H)qi'-INKJMOD18/@L+I?HE+rnXauQ02rC![5)56">oObX.DJGUe\FPj,EF6H9Or9^7uTr=KMNJ97-'"T$C$o3N'do2*7Tp7D*/MnbNstp]^C]]PKVrED`f''tG6g\:tKGLOSsU9]ttj31&6d:2TD6s5!Il1U.`DNltMXPcVbB2fX&?d)2r+@6@^pf:l4PdW)1b:b\=#FD<b)nbMB5W.W/g9g,f3^_sI5h,GS>F'6I!1GbQrgSDPa\c0K?7ET5cq:DC0M@:/Or[;.Z80jV8lf-i2VE1!QmNkIIB3/+q\N"pBfjGtV#t<WRD%1#nY2QVI(q(KG@4<8?\lk:X8[$%R<"ug_O\1kPQa3UoS?&gHLMZqC2V:)rLn(^?^u?&Gro5'f+'P1Drmj`BO/L+5J>!%*a-TSScq0B@]_b3ajJ57^WoWlnWLhDZ<VftO]7kQ*PX4te9^/3[7Glin/CnUrj-72^5p.?j7;$G+Uj.CUL4!JjXnTV)gg$I==`5\uh(i*12k@UI%6E<"?#[t:?1`8dS5(sI*q+55p"n,-#=ME>*.H&FmsVVi7R2^'$Ro%(og3R%?hdJQg(us?($XNh:H]]CWj39dA*A@sGKogAEB+ceif\($g<@`>N&%>%J#FPPh8?kSm6WD.]PR]t12V(eboZ*d5RRBY%[]a$?"3+V1?poqK-+$D[3pXE'JB"-d55.pSFn9/F=H3eBO8t0]G4G(I/U.l7@BmK3k73QR8d9V@.L3aVN8RBou9u>PS(/Bm\,8_1h=>:N2s.Epi=tk6e(4lbph616n($0.\3cM$:PYk_WC#pKV8(VrZR8-#\(qI^9RW9f#gJ1>V8W;'O):j`Dh?[QS)M9Tlq)1VmH3;*(c1R#W4AX+qi*@G9`/R$_7!@Ls5-=q*^9.GkOAO?#^8~>endstream
+Gb!;g?$G$oEdd\cW0bVg2[gJXptg:Zjc<9YngLq/kJU4=RKR.e"ORXlG)9Ru>MUD.N[]g^V9S)bGUS-&mR#O-WdCd$JmA3ZoAA5Qkg^FHorT>[l0="Vn+_"tT&*_cpn&@_O<OrDEkKbY@\4Y)7rFDbp%:b1Rq%R?;TOrO,]I9.KI!B-7ZiM*b37t@0/+i(0H*T?@9$YqJOhJ//47Gm5t"c^X=sSgo/V@V_0%#mE:W>&l\\hGi^6V4iPTI+%tAaqb=WLPNB[L0k]EME?040+muV;?0(YNLe@ac/?ddIF?2]JLaROj9%QupM,'db?MaBY>f0UA5(D.$jTa(rMCLL\rqp_R)k5<G>1.`9D_%r50kGhldWMiTCI@&>%9VQfpcW-/Dk&Ej[NE-On@Mlnr7old^8mum]1s:Ba?/Ib0'M"1*r<R;\f;"%)P!%WR7)0Jmn)qMC64U.Q_bU>h5$c'MGIk[^8./_&7TXlI+@UT;]@H/+C&<mJ4NH1nGF3/Nne`=Y.6bsJSB+eY*P3u.osE/</dB7-fWhl?08V]jFXM9th&/H%Fd^K^0sK0hBqab8BBK9,KBNTQ&K"`F-QHVT-K8G+>6%YDYc^Zi@%T7F'064pn@Q<'g,2+ailSTa,-qDBJT*?;J>n)nI!g["S&Fsh*J,2:+=InaKTj>O5RW`=XE>bu^/E=US]0F0l@9/k:,hUnXDSXJ7qXQ.6A$EUC4r8G'8\-OIegI8kJC@sF[j&R]Xb^*E[nD@]@<BdW&><se<;Y5TUqW%QQ5qfMRo'mq`9ch2-"sg+^EiJj6_>;f>aH\hO"&Nckr*I;lFuMTXe5W<QTchG?'rob=l>rlP"@64hJh*^)_#ZNkFoQ&=amYmgWU.%>#[E[jPY*Mj%i?DReDW!Tj474Y6T'hS.pm[sM4$PJ^dhIbJq3oj\L+e.(sp&tF*<\`j,J*oMma)W(B.3rN7De$dQFXKM#9aVG<Z3sRM/\Bc4TfP8_In^]c&8u.FEV[pd#fn-]dluc0pXlf8#PGMF$?pFO-9"HYj^(<:[jX=G^"crA)#Au6PR389i7^JFAAl/t@'Z$;/*XjDQDmIO\Ed]SR2KCa2mYT*,?$r?hYA1(<a+RWPPTE&u2gs1;rgG9:49SmJ4(0!&RnN+od^X;aEA,.&M'"m/qX%6HcEMB-V+tBgs7Z=/UscZ''qs9<J_bDuNm)'@m!-$XfR_;)qPn+MQ5;&D)(GQHh!qFHADITHpK$lmU+d\q('fN\LZt`.4b3=p+#gc'O)d/DB_^qfMb',L3-6HkU6"h?m`8&``E>p?MhJ[eU&CDnK7'O6k>HIleEMEKWm8`H_'qI`'C>[<"Wde_RZ!h)FN'h-3J"*+ON1S4[!.79T>&%,d&XVQRSELck=el_o)^msY?Pu9f2]8jBksg?%^)GglCd]Nkc$&q9U0pL>ZeT>eE*)]*P.:#ib2:XL%IYB_dMhF+G+$gCp.;QloAtMqbN4X),o*dH>2YZ`*u:s9Q<]=O*nc/L;Pq5B,l^@>%BcU<PHQ=4fIk':5^ra]<8GcVC)ZI^/H.Cj*\*5P,>:"-/e(I(44DilEoPU!P/Ktp1'\dd.>\g!,;9Ng@]Q\n\PjYN(9Q2ikUD)kO4#B9*C4,?:Dtdk)R=R`u'?^".BajZ!ECdIc+=H4qg&M>+$BKlj3L5ouW]LY<Q@.1lo3iK=!1/@hJs4QNqepDep"Oje+4V/E]s/H2rm><-4=*Mj:7oZquGo1>Et?gEW2U,"![M+:TNgT'N8EX>AhRZAoEYcG;m_k#TI<(+'_??"A-sJ(8RBC?I0"8rZ--@Qn8q"BDTEDD:>F!!rVqrp77Jqs3@_];$M7#L?184[4*pDk+RiA@1DXo%-<:jq\`R7W"j8*4g_b_.ml4qkZM$Ue"dKa"rH$Hp_A!1-*$kV7ZoE[-=%KG7gA#<*A$*;p&]a3,90D6Str;O8(m^c(^`7%!0h\]MRiVd<NcAK(OoL$3W7+KUSn[_VV]_iA*Hr<1at-oO-6m@;[[*Cjh&t=VRi&T0L"Q!,QRQe_E3S2j?L</Vs'%o&]rm_4g9qFuCu).>@L*r/`uls2Z6?`/iqUMe*.?13j#J;MKtB=aIpk%@f@nglm=_H1D1um`!E)\!d]?%jORi;1(UtXd+.$E#8;0Lj`(ojS6_?"GSQt'],IIs6J4Udk?[MpZHJoHe51ijP:t,n!i[XT&#s+",=Llrq9/Tn$r3538_"q(I?lag\>4<%t0g*.L*E"=RErt@Y0Y0?9!&-&B"E>VB)mtVX88lQkg6b:C>\If.WQ,>1SRDa1pFJ-Igg2-rlCs6jTtDl3>V5VG0@K4!Rj,Xd;%7qpR)$J'CZN8qsRO2'miI7_!o1PGRCnf\HPgXh<!C)[<1;KrUW$Ij6Usfff'Q4$,FHbe7^`dgSNPVJE^jVX;%<],Y#?nY\L_2#S)R#,eZMkX5(<UQU5thpXrA\leSbS:#6#Q3<p\`_l=,/]'+O;Y7-?FfgWicF76U?u-8bR`U=n4ha)#(jAL]=4tfkGjJnh@nF/#nbjVDg8T_3gGW"Akb1a"Vag2[d$].TDn7q=TQf"iL8XUo7l2YPX3kmhm."FCW((4FFB+bGs$WrHj9LLjTp7#!*FHs"`;LPZEHFH]?k;*!Hoo(#EkT<hrHS?_qTHq.&*F&.&O26Mo.ni)X0>(%<*O\9)fkm"m.D(&[#>F@1,XH/6+`P+6$&VL!"%C8pI/jEcQ+@mVA7)2ko1,B&*O*I]WK>b:_4gEgt#aEA]4b2QAWmQ<]k%(Y\Kmq!0bI/Gq\^]KCB*Vm6W%gK[4pQML%lX'Uh5$SqpU4:O5e155WK/2!8r^Sh$JZb,j7+C93ojV=?kPF0!;oZpT!joT$0Na%tn]0=[(O5%/*O`R[M!Ur-^S3IVhFZ#pUNkd>D-ol2;O_sceS6K,GZL_=t"mtZe0h_tU2OQdj=$3kM`;e'(4%#n,"3Si(5W$.2O,0ssJ[r%PtN@%lR=5sAea>f!%"T2O0i="X%bA<fdd\@]F%<h.e]@bhM/jI-BY:]G6esmuqjE/j%I6=UW9,Q$_0]5Yge&AGh2l5[G1/+7<A_s@p&#&oqYUeL)AQgTiDSl5);^3n!bu%,0kjnE$UQUQTNC)]oTIM,F:n+2a`eq"'O#lq=NTC428MKFNH-i;5e$g)pOTs(Uamq"sVJK[\$%G@b#-'PQ!]0K,?3XQ>Y`,NueO.V7r`rU%.R48>$$,Z1h<&G_0!8JU14jGCZ2Jhh1K,#U"A%@J^85n4e;HJ<#D9\E`eb!CWXC]?3E9;^4:3f\6l9fTfV7W$fHWK5QOW=7.m_b4fa_6VpqsiFmJSb1PYpcmc],jKX81WG<#\EXopq2f_36+F5]0Ggns.IgcM!Su8'1(Bs481Cm-kpIHFiD:r?*M.4oo;:6:GK3U,6S(8/n#q"G2adk+-?B;/<dF!3iGf^T*Q.Kc]YJN1u6=9\YG/SHg.7Wo^9d01Itir0Pb%\]gb9ohcE-#-JX<o+0,6_%JPLL1=3;-$YpF=k35S0Ar=[Kh:_8D37#0A4SGedu'jC2SRA.+n2,(`'uD="+*YU9^=I+rOf\U/p(kh42<[#S_CFHFaq@5WD8GF_Kt&[FbYA=i<(Hc3o<lM%WJP7ci8S0\)%0^NfVr3^l`'hI2B!t*ibk4*OOs1aFM6uU^FT8gV-83;s7<SifLHn"KPSVfA$Y,p#$83=>05*-duX5B]_&@(<OE=n]C4b:=h.KhPJ#h\sI\Z-2N;]dC[ZccpmaASNFb=[*k1ok6K+pe$iO5rOOR^l=`%,h0V4R:\Ooh'KEh#(u%sqiQ+DLE'SU%$V\<0RC[!YSn99=Y&@+Fjs]W-3V[E2Rb\lIfIfdmqfTZk34Kj"V58I&2u.9<5eG*1DU\Y9K@oE^q4=^P"0+gs*oO\,Gg_B'Fi_a#_ON[d$-iPSK\Z)&p]pM&P0f%S(m"MJ&CO;fbA^NZq6'&%M)Q@9qgfFWnpmJ*BBrKF@>S9jgS%3L:,M[8S9CeGR>U-4^O38JZft_aFAuIF!qKjX*CF/?Vf^]I1dU%pFYs04=&[Z.X4Z<V&A[`A[H0)#mEDV]+@V1Feib.B+]ljcSE4K6CR`O+0_7)+>'osC4Sl@QJ*W%mOU]>3&7HSDSW3<_9t;fSR5K(ic&YGm_@(hNV1\pQ6(i[b+<2DDM8XHtkoW`*s(h]8W%4,de:XFmg3-V1e5'XthQd>0f!9#=4-.1qf$/C@^R!X<JC6@bJ&Ca'WkC9O78hb"+?OQ+Eo!5G*4QOFhs^g%[+*W@LL_A)1gMt`%dn#gSuCEl3=c*0CA5&Y_ECFS.>)Vuapn/8bQgmD^BGT9W<*q@Em3\FDp`d+.e@D+W8XsR`@qpcAC-?#$kdIAH5@IibqP9!Gp5EQNAi5XcksHYqOo&B,F$h^(Vj!s/+'Aq[>.(!qOJ:e3D$'>Ft)GWLeCdQr'"N*a/MaA!fMQ_@:6tg5EEc7ebjnnn2n?rrd(Q%QF#Za28]OLNe?XHm[]l?>sML5ddq3QPH+dN9J?A]CB<$0~>endstream
 endobj
-155 0 obj
+174 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 4515
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 4607
 >>
 stream
-Gb!#^>C5,E&UjDWQp.=<S2(@nEK?_;fh*8l_THWi20C",`6*aP=VeK"q":32"\DOF,j:Qf;dp@U@L"u-cCC;."ucH8rU2KH34XS.cPS>G(RMpBbCtlKnE/`LIpQ691XD,tEdTqS?*LgXfNn^BQPTi)3+S/j)>Ct*4GsH9&"HjQ&?l.,$('P`^k^nkhMjn,IT2Y<*fKN]+nmRXGl_123'R?M50rf,$+@gpKVNa`D4<+gJKGk@M'#Je#OZU9lV_9!_?1<P36jsjMBi3bp7YC/3iV%8UbuG-#o?Z^nL_G:j`l7<48:uOVi`PYnD3"l$b;%"=NHGT%U'\d$R9NFVcpHhdQ<Z7^hoSJZ5?Q2MJ`NMJ1`J)Q%UYE$.:@r74g=o3Wl,],C;DEn"G;VN*Oo0^o+esVu."[p!jEQ@:4*0%FE@EGqb<hS=Z&LoB:`aqmlG0j1T7#m73iR^XAUKWn;iP[E=XN?gb_"EJ">5EcqX]F,(27iIN>m78kB\d$AXobf.4/D%^I_;OU[>(,eOL>*Z(QcKR,u-D"=U[%"-'Q?p@L/4K@&i>b]??0\pd43nIu;eChUQ8dq]r:@$3&GY)<5MF\<kc:K)/-tkZKQUne!u[Qmn]8[Fhm9'hc@<dZFWJM3^?nh*LLK+,%W5h+qsrRB$pNX@3"E8=F,T'^giERAH\Ur*)JJRj7'N>4n]j]f$b$djked)"1,7YYTV@)2#Q5tRrRZN"D'gaW"b)@!06I+n)?Di@01a0R8s;OgQ7LLC)F>CWThAjL&AYJLY-2L/b@d<t'U8slG*CA%;V(@58<88<1t$1^cXBP<,V(i<3Sh:?4+$ku7j$i2Ps.A#d)uaJo>Apqa"bB)km09@NVV[!4nCtYdR4\".]FAlPcuVr3'!<s=spHGeE<0B\;I.?(<D8J\S@39<=G]r)[aOa3dQ*;XIdoU[7NXp%Ie.,%a)4$1^Kc]pKA;If0_('aI6op`5qSS<@@Aah2(md3_2sDOO+kQ+Ibjqq$Ii8.`!Jb=8:*F[`4[cajI]&ClFo#Hk_rTb$9Qgd59T9X99Z\e7rdA;-/QY(*Z]PVY[SF-'QYU$@8Y==,@;fc-T8bI;pUC'1WIh?ar;`kN:,DF*hj$'R]`MGZo>aNa\0l_dH7^bep4lHHq`'a#4[+,PJ4b$skF-d;je_7BCd,?f$C`)5JQi1!87h6\0enJ90%^8!?_9`3Mhk6-/"fk6H70MD$9qIuBnsC:+h^7^^h]_[9NRTpl'TUM^4.Qr2G2m#kHd[C/+=UeW,+%lgjsLs:SI`Sm-]h#;L7qAF!WT4/cFeID,eCFR92D(CQ3Iub;q$SC*>Jk$tqbf=cF-sL<ka?$+,MW(q.-(Q&EW3<Oi?_M)L['2Fp6=7f"'j4G-_Gt1(kTJF4T&@#coA^?gHOP@`%gLU*;,s`%+G6B)6GV.9Act=X1m=oKdN#07MD%s]=0553rR4paj'N@gAHSA5;_=G6O3`qiOGn6LjO.g['r+*lVj_+I5/"FbCtWkm_Z%@%#tPdM=i*b0IOcHB<njmrB.#3oR#]G.4U.%MGSK_hM4H@0rj#7R]>tfX^<+aF=gF^e=>[^/"[X`>)!3=8cot=*D=VdboUoA%QnqV=SuEpj(.&WH=R0r6R*SQ8+6R.l\^PU:0!`EYi$!"0!Y"d8f<I;?`;T0ja.gHQs&L.ulk`*hhOch@rN[q-DAP]#0VfOOi0qf.9/INVBrA@qJeODL85Z2b;'gbaps"b*,0Z`N;MFG7-jjFb(C)h]SW8+MF1!R<Ef<p\Wo*gJ+G[SF9qq:ej4%[caG6dIL@kX4F=%'A@D+dZB%N"R.+.'[5+5>@oq`Auc>d=V3&)&m4Y"IU;b12NfPJnV\,eg<ciT8)b,D$e<CVq.T%5hW>-)>iNhiUbQ@+euC>:Q*h!'/?o<`j5[2nIKFFD#o*A;hK50+_S8[t1e;8S3f<]PV5VAlm+hG?rkea$%D'epE.<8@n(5K[HX:SO:caNo1F#D&:(>CV%KnQj=\_pCCH1M7auQH/^nEM$ARTDNGDNfAQC<KKd,2:OBg/(?o^iW'Rf(.[!L!g]XdeehMXb9BrgWOY^i(@..Jo2-mn-]sY2GhEk]Y%LZreZ8B?-EU3t'c3B!=PnPgH-DVGd%OS#l]<EGZNZ(T[OE-)/4DUMHN#=o:B27^RqNdP]8kM'4$CgYI+K64@>IYh6LSOQoRl$73q'9geH)bh)J^eOejt82+9kaRS65r,GIm`^6oF5U!rn;he\%V-Vi1K?&)f"cA_`U61q4N^Q.D`\8T*H1alP)qg;E5g?b'T!nC82Z"6Y*c^sbtbM;M/ticfZ,BO(:dQL9F_&Ej$<?Lg60j;>XY<Q/6UKs'H@=&fcmc,NA'*WH[W(;g0?$^Rhf6MS*M"ocb]lX)%&a1kM)GlRK^^CS#)6fPa)rOu2k1KOCuJSD.VXmOB8JdtqG;H:+O1bVp)YIP/_4@j_/L<ar(CH#7qRPf5F0Gp/Z[M/)U\Y#ms'SD.pVOPCYSZ/!$9UBWF4dEIKL=?J3HV-a'EW0RICD!R7Q?"6b+''/89h+L[=\GQ:NmC.X(tuk^Ue?87fsSSd\%lrCH^;(!aF`$$l<Q,37C<o<E$-rWV6=THZ'f!hrK,!N4-hnVPtYsk8%McQiMgRk4'e\#!3j263FV1mXHEJuCE&<&4TF,iLSKQc4_Q2t-a83DNh3o?4-Lte.#LT=.mZSES11J<9Jn=6QRFpln95&DRQi*P>%=L[&@I*393"t!A"1=B4s\XAXIFpZlZ8bH<-ZYYk>l`(asbX8Ws6P/ek`lA1tg=#+ZG0k6qO4!:\78;2h<:#2/uJr.Z.=PH!paD+O*8:5j-hT!^VLWfmJms4?KotXdF$C$XdEQS,mT#9N8dUcH$XNiPff$k0Yg5ah^F=UYBVHG%"l4aqV0M/rJPMr0?M?0,&"fg$!&*bTI1k+d096Q0jut)@q\=^IB^=F@oZ'$Lf/q9rOkV\eN[#MWQ)rmIntVZ%+CISf8'"B<`Ri!s-UIB!I0J,(Lb+#Nq=')BH>Q8]iAohOttp<USV*it'2[+0rX?WsDZW-Q1,S<q?]hAunrgpNL>8S(3A(XF\OlKbhX>SVZu):j$:"%@KJU^n*itX/f<3I*a'*OGl.VGWVUUUX#`%"7>tAr.kOP:T>k%OfE0u'R12G<!kc3/U3E>]?D.9$cC?Nh#9pt*d.p>f6+sJRbXSO$8%'XYeoI55IRUP>*Elq%so,gTK:=73R3(^MY.IJ<JH%ObGMkm5MJ)IW=-+%&L2?&#r.nAqgpo?VHn>d^T3>K_-kA"OPZHN->T[_73\m#@.lJ5DL%%3ITP.sA-R6i.+t7GWch*i$W3^=+j2u683Vj$\Bk1>8j7,_2s!^abFY`tM^#1_4:FY/fG8l@=RJYj;ggaM@q_5K%dnEU(8[_b?+\Qo8A<jcL22=RD7TSFmeg./AE[-h(Z)Gu]RBC66F&6a/XMUCG(o&&L#fGXIm$$qppOO?B9+YlhkXGBa/Us8df,*Ah(P^(jlY@+@02#-p)U)0?HQ.]E<B4qD]=MU#/ert6a:%;;W\qPg6@]`3j9!nbQMMTFT_#5)0ql4E\03=:?Z5[bk1`5S"U@ufRef*AN!C1St:<JCPCRb\gC(e5=E1iNKg'I"Z'+B[$\RE'ZS3fCC2=<R:WB*Pp^:P.mCpk@2ERj=2IGrUag;?Uu&n1JUTu2VE1.0%qXg#2s:fj^i[m]H]``AD]Z;[&*Kg`h:*c[dj>i)f.O?$>3-s_^WkR:WO48eQZ_^fG:[jU=ltk>1bDAFc(:7s;AV_Q='.[DH8!hPZi"L@XRmd7oEX%qg7CJ2(gO(-DmO/b3bGr09`=9T`e]d,PNOq:Yk%<!2<02%.P%F91P\JQonNMV#_Ju3b&bpE\lCR/WL.j/Keo[+=[OpM^m$M1jQ#PbT9*K"Dc4hfW-@nALFi)+/nC,V189j&NJ7VPg%&W%[ItfO]Rl3EXA\+lC?'/B84`*[QC<`C$%+HSIO9bekj$_+J)m3;gMl(tQH-nV_PP4Q`sQY?44M7YnR>#cZ\TE>*0S>7AZYr2[5WaRrm:2J>9rin2DJrC?(@IVh$ti])bTMj?mVl2@9ubpKlJZ9?6\0nWhp4A-`,ZIk%=ut2k9k0GED)bodR5)7#f)0<E2b5C&ml":Tn+k;REa(1kY(?"DP+reQZfIp42!:<i??3.Pj.tIEL)d+\hD0TViF/XsB0"H*C]io`FY7,$SAN$KPfkX53kM9<WB`2j=(r_86,nh6)kb[FhjnGMRA+->\Z))siR'0MGLk^;$InoD8-(Qp?j=Q1t9_G/o59ja<U'`rbK32oe?1?7#^qPbQsM1iZ5-3ufKcpBMWYSBs_`Nh0[#>VA,]QA+2-YTZ\cZTW>Y35@Z*k@a:mLs:tIC2gKA6D=8ccL(uPTJOn^;:3rUW)jVq8Cg_jmZ.,ef.,(0Xc."oeC#imI_P3;;6m*oQAE7.VY^f^3Y:eqHWYVEaouP3H';6<9..KAPlhsQ0$uCJ.k%:]N_.@$fC0&!rX0=`L/S~>endstream
+Gb!;g?$G&C&UjDWQp0RN3E9MSi]DFK*@l8B]5"G.S>PShML\,$+3WXo+b"k./3jiT8W&\-1d*m[6k\:Gh77UicKn#^N?;U.4"H+n?IFaQ5sj#]7hVuddcF\ZIJN4ocR^5nk=9&C^)_kZ=jdaq0;@ao=c"ee,-n#+5'`9'ah[L>9$7_H&Q"b>a02+D;#K6c9HhDY?"nR._P!Up/R*H#>o&f7rYaa!Sh\'i,b&cD_j,(s=]47GUc?1DVr8H[Cefm\j[kFJ*d)R*W*Yg)8pK`%XkQ9JdmoZ\r:tEF]VWfTGt"%Zq4[7b4d"fn/LU&D@'>:4_]L':K7sdd$jI(aA);u1Fd2Ebfjp7(G(M:m*G;BZ;Q6UU.t*o6/PMli:G^NH\QR4rW6*7)B(S5'GfS$N;^m[n:.G$ah"B>%JhXF)m07Mc5+YGYPN;6@&fqRnhp8'1KH+9-*^9r^]&9^XF?DNQ?S=KIgQaAg/YdKY'f_Mc2X<?#f]4_9GWT.I'Np!l7p<fj?t.e:"`ODiYe`eOMA5<#V=Bs`5U<EUD"E5`fETuH?lX.hI5LHsbK^,UFi:rfbMD80Yus%mfUJ"?o)ff">_sRW1GHb$NU[-&ojm.C\*r!I83_QaLm<LU*CLAD.gcB>$?@-@_TZK^:/2n>k$IL;glJGponKXt+40ho3uiTdLJNg7;LCn#$7jW,COW<^\)o^0cr]kF;E_e;dtFl!bbFg4L_p%c/RG<c:pl_08SWSMRjo'B[E8,)?i0dTp1b`U495fE))V-Y/b(g'^n+cEoHj*G3;C>mM)_XSY2<]$PW[:G?*H&BS8c6P<X,^-M=h3;npoB9?]Xm9cPnnKFh*N,YqC-p@r-,bs)C$#I&j6pIBNHXm/R0E.+6nF\N6SL(:;/#<G'01j1(WFXWd-+nsdDn6pHrNSX-ja(CZEebuYsoH"@r(T#:r+X%)Q5^ja<KdOk?q*UcBeY[SN'/e!OUa#i.Y3uf\n3:`W?At#0a=D/sQA)(s_Z_*__:V`J]c4_sqb)As3(n4_a4CNS55Md#rV)&NXElp2!`pG3d9i</%`>+Guj=,@ASeP$=>4b"hm?X9ca++*O+aSaA):NG["M^llgcnFlaa2I'\nh,T3@>dcBE4CglR$1Re]>pdTaCuY0)7qpVdc32[TB76FishZ*hKtc*oAEFMske'k'dlg!jM)+F$1/%-)Kp&E9;]&,3_9Lf7-=""<+:Qo8`jnZ.%HVLij-=A9@A<'tN92kmZc`6D<([Q2kPrW)As5C=V6XlZ&4\puQA`)nes`7]8P=s*`4?nkAD'O_%2L`JJelAOkC68+t5^M.g2NW&!`T[ea!-Uia;o28ZBAGQT,N,(@*qEM.pFKi`#P64BC0%]o8f_pgY%1Re3iUcu(LCd.dq>ig!THWjLU@m&Y>&@Mfe.A2kHgJtG?>h=slV3,CL?9>cDo9-DELB&!"gk?dh,]*1C%>StA*9:%5pb8\fU!0am\tZO!.MgB%AY\KFW@C>Te#k`$D#M%9ePXeLar)]7M!lb<8U'1)8!)C?]Kf4_=g$a1oirX=QJBa(?K=oSrdBto6MRKupOqYL:enm`o;sE%TY"9h_bP\#7@"418JGmAR0b9_Ka@VT3oF?uIm!U^ZejFqYQ)<'[QSqEe-`el_`5Jo.OEoN9Tu'm9ehN?>^^ZaACN.JdLhP]#DtG1]g]cm)Q@^K7P8MRjS]er&D<kiU2Gt(c$l5E8X&(HkRI"'Q3'23O>39Ib+g^H&k>3YDTeM%\Od\Bh'mO\Z:YXc>sRKefofm%00DO7EWDh_\<#_m&#(fd!D)+;5h&7di]@D;_B0Mfs&::f^<irNr.CAABGsa2QCU>[K@0f-O_idL5"?WUl,D"Z>->7[ct<99eKfc.h!.b-*oUDi[SJ@<pq(g_$_1&Ir+Wq`9KN>I"W:i?Y/&m2>XMB?)'lRq,aFgdJU:,m!Yi:*DooHX[g]:+,G9<B:[!.*`R*phl<KT/MQ4"@#9hQQXQ[cgl%2$7BA0aY)%jIZ&U!Rb%@QD#\G?EH=5"QF7Q&W'3HNG2PiAsFdeTb@@7F*K?,$.A&9M6Gc6N*UYu6>O`q-O4:'W,jPJ0^n@]+oL0fAUh=<$IdC3Q@m2IBcHSFWY=<'ueSO:\:*$D8WQL_Hsnba^koSiD6b+ncXKO,#sOFY-g6-#[[F49(B:Hd>toaE6cpA\.%;Nd:pSU$kiefD=e.@Ck7O#$<Qal=NTHg^!%`22]^h/",!_b-rst^Wj9iE)P3Yp]=BtY]le'fm'Z-WIu@"M!4."\(%<u7^qp/f];(T4H5QA,47US!HR%_C&k5s/kd>\9qan_a_bc&&boA(WUD[>$"9c!`t0#Om[8Nb5k-@<T:C@HX$a;=IK[9V[i<.jfV&g-qLs?WkZqYu(VIC;4/*5pfklG(gRGrC@SC:/&k:#_T#4i[ND8RUD$67Y9ZkP^Qf]FPR&r`HIXb#*]Mn:AnEJ\\Y2`X$\(sW*fSs^M<9/W00R%b(2`O.0h6WCA2Q;JMd>sqUQ.A7(fYi8o,W0E=(L/I5+gptkBkDDq,,*A<ZK<q%PU4s`<"FYE-T@p'1oU+cRIR=\EfAF,]3)-&Z^7k=F;Wm_^HO(9354#maZXn3GRSD8BD(*X2L:dt9I'p@=OV;nSla]&qj:tiC79,4%VhUW]YHP@19J4G.*Y%Z1rQLAVJk'7CO=Udj'G+]QT;KC5HglfC$YGH?D4F+*IH\4:OsgNCb!Q4`?HFK)kB@bEjteg#u@Nl\CrkdW?*qQ">.&Hf9F^]mu7#ZCHWnTRK6W4RFE`S:CKAq63ipq!-0IggM\7VFjHLkQc009VVQ8RCr3To2=Tc-Gl=Uq`KiLf:%P7HZk[A/ih=QLR3J$`:1*=3C!h8r+&u=."_\+(8XA8$`P?;R3B(`9T5;<CjZf%f9.XJW]1*m2pWZd[B@d?iFodi@:8I46A2$:[W*CDX:6,7(3oW\&'n!2-$oVoNO?gJ*Eupl(=.'m(fH`I3&1E<3Ec&1BoWFc-#g$#f.Se]FOaqX3k`e@X]HZGeFsp*H%aS:0GF`[9#@61Ofn"/7Zu5M&`U.VV1@X3AhuXa:K!srg`$>uZU.T_;WNn6Z1\SGU\FpqT<nD*^+?Hpd0@970p=rLr6t")17Wf]so#55hY2&dXUN"qWpQ4s:i';A_#c-hUcEEb;..>FFS+)0m&Ic;Y?/NSb?Y>6,Y80Jh*,.d,H!2Qe;--2UO.B,1)#=$jip>La*i$Kj>8*M'/)!fpT0Q3SE)!drJKMe,fl1Ua>?(ajF.j?3;O-#;SQ.a,Wp-b#3r9NU#L-QDKag%KqCr4F4R2F)Tl1YCU/GK)j5.u/emhm)bG7JAe%_1Z!NQWVbBn98JtdEbm7^7q:if+bU#W`i@W7mDf9*9#D4AGdH$\<'N`jYDs./tQDqnTa]&PEr\Lupm<It@!G[]_`l/L^QGA"lInD*7gKM,4:!d]s_h!b[irQ!'(50K:A\0]ngYeWIOgSJIO;/jHf^c`@Ycg,oBYZ/Z]PTbY"*KK>b7$H*1EE\]DHE$KS'NJjGEFU**3b=ZeFh?te=5Ta\i__N;Z1Oo[ipLpTG=eK@Q(%+"PkY%+5<[*HEpquF,K?]7n5<"]Kc=-s+3:E;!=TQB?9#Xj&HO<#*!"eRUMt]['l1jh[H#bsJ3M=0)MP1C-5RHli9(SROO<<mKuo8a:R_SmUKNB?;-J"hn0TS--e/\8o]B:eSo1=%<YO;KXq01<h3B$e9JT*m,huW^W(9nBkQ67YZ6cT5QfbA_dX*R09)!B9Ps*V.W]m<AC$'aJQj'h;n"4]Lf5f\$FLK":"lGF2`9'(:H<=Y3-\HJ&#`,1K)H'6bg_YMW1*97&0pGLRh'cZ6$6+te6-GR^mY3pDGZDjb:0/gVU;*\7R`<ONGMmf06tfQcpJ"hH3eX;`9&#YSA'X:$`n<5d,[ZihIB66]D\cB$&_<!C)3g-\]3hIT6T@47&);Y]fQE&nnoP.F'@s+YTWLM/jt[faWhjcPip;-M*qi3;MY5^L/iB[-[k+LqDuE,=P/_(gMWP>WS-5,.;,pN"Us$,9^@22XJ=P;69Bd#p+[CbJ\A@h$/[-58Nh30^WgbnAfgc.@l:"l(oO4&S`,Kki61_A#?d@,J4rg3V(AA/iMb&_naZ6sfJIdJ*fX:A'"kK[m\S65`HeXH?@f;Vm(Bh2b%Vqba_JjYJFjCMKqd45(f/Z<YZ"W2FKfo=,3/7!Lnf,d]5WC3],QZ6":at9H$".[g-h7?%*nQT?]/WFFR](dr;sK5T#?'2@2dOCH4q/Jgk]MR`5\CH8/bLWj,364DcDeaD(@lbo&*@;FF)8!u^Mc561*"Z>I'$O8]oHnIRp<@]*O;rAk2&dAY-<p(acs&#jH;%JE=/SD(i]:'=gX1*?Om3p4h^"W5J2R/4/SO644#IPa#V!O^1W-4!anrmnZ@Dij]_oCA_@1Nm_R%1g/7;Lg.:OUds;up^#MuJnud<ok2rd+eXat>Z"W%_SbHmJ2Z?Z:F\<ji>pr[)aJQftgBi'Em:HOZKc&O;_WW-`ZOen*+4RH>1#-NcL'kg^L/Hi8]KS3t$uTY#G$MTSUc!/*bdh(Ag]ITa7,r,=#u,q<Od,0lpEOi0kh1FdV66,&~>endstream
 endobj
-156 0 obj
+175 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 2787
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 4981
 >>
 stream
-Gb!;egN"7R&UihDoLi)D6a(\,^/=!CUe".TM]%Y;.LP`#^^c4[?3]7j%"*Iucf-8h,[j<J`5O2,>g?+=FJ%uBH6gSNO0JXZ9;9mNH@@#.G]\@$,&dUpIS8kU7mA(U_@p@BP2f&MS-7nt60s=Te[J$`?;<oRGf#@e9LHjY_h^G$M;hXU<%GQUmKf<A#HM9"XK2Vt'8dKn-=5cC,)kctKRN;BfZsl+$a/Np$_oXjf+h4aiPVEaiPTU0QXDkLGqBESi0TOO3[s1=<*BraO/Oeh>W6aLo9TFUN3;X5qE$m'j+gJEq)D18Z":t:UEI;&6SH@oObgh@+!/FSLT,FbWg,a/HtIPi4;X,fO3(qC>V;t<[*39+Vs"UC;-rHk[]6RPfl:cIEX7S##R;HVgpFK-m^l!d44<f&"2mdrphgWfbr2%DSdLuKo[3`3;<Xk`IJ<ib'X!K*`Z>F6:#_7,&uiYJ"D@D'TW;@"KhFV-#n&o:HKEkQqKCt>lGPTKX1s\Ck;GSVlVa\iLC-1A22t-"%/78dbsiNG(M[T?hQ-Z5oUJ*o]Wc<jXGt6GSBp3!58'*/NHHLicTraq<cPRGZ9Eb]T$^ZYYr0?/H74Rn7)^9LgE=Lm,Ehj$(p8iC].fcr)U(.JDY6t-2`FB.O'N?>GDuK1!)Rot:`>V$Kr$9h,c&X@XfR&i4&o-nNbN6A3U&:fF$i*V`q)O*G,_Wje[2ui)jW,Wk*aH%9)rJP'ND*/VQAqs9">H3p[7kpUL)J)XU/;>\$'Eb)+(_0F?m]-SA0IIrB$6"I!APhI73=(V#!#_b1i,ZT4S8YHYtfp!Tg`3FDEJpcRf#()/4FcYM)]!a"bdo,Y_#nheo7ul50&PGI;]8nh$g-WWesl3-P8YR(*1nC*N&3W8-a:qF/]A9NAo2ETfa@V5-T0bYX?!Bl3=\X.1_K[PiO[$V>aiRs$KEA2ie8m"j;Np1J$g:VOOQr?u]6hbCS&)#3$T`"*r,B"tS\:M[N%itkl2(Rg8&!B$97=&[(s&C?R^kGI7c$SY$5\:KEMYa&(Tb_E<sQ><96_MGc@O027(cH"6@W0btW-ZkOEk#S4tmk:&F&g'Z).s@(s(gFQScJNYeb48u3]$VfGdc/$'fn,M`gV9]-;%gj^P<?C14YJjp?$h._MeK"m1N&B6!QnUcLS)uW5XCkMHi]'<=A&Wl+@I4*h\c?8qVgKKA)cnAo7)7][X1'QWb^tUm(KBfglS<>;e9`)V#L3eT:)(7D><OR,6e?[dZECF_Ur0LLp)A(2@h!8FcTO`RL`bk:c]IR#1<X)Dei9ngE*X0fa.'C0KSPW05N`1reM*^8<P9bX?-F\QR5WgjQTU1,(b9W#A&JE3.21!q+r+u![N#q'<etZJ/<5PXWK:EYS)OI85X'Ii5r4OLO]cm,hY9u<^L?T#][-Ph'@$RFPHA8%Gg]6rnjB\99:RAJKPcY0GHt1dA<qHW#h#0SW9=*#jTDR]&a]t=lj&m/fD0h5V"r%$[-Ojd"2(dY$O;1Tnl[1X)bm5).`"rpgX10b.IHl\S.qTA,6Ge\)pG$h$t.$Nj8Bdn9b=a?-o-1N=NpQ9W)n3rEH7XTi]gfkg./e]<BdVFJ2MFlp<E@'H]m^Ahqp&o8GF\1DuPE>\8\eSE3=u0,uupLJOrj1(FRaB8['4Ucn0gW.._t]:tS;TFH?!41HIdDa!7ZRB.cD_cI0I>dh]I/(8&4#:]mo$[EnB?+f)LDHpiA3Tq>qHJ>%"rFZ,GXB6J1a^nO1l7)*F9Z;EXk1c#_%jpq$37sP.O't,##Cek%3n6\#32XV:r*UCH(uEiL,QeTk[QacF%_`;N'']fs/8kQ71smZ!4EG1XN&CQ2:Qrc'=u:cncsmi<kpSJbWEKba$`mPVEaqAF`3<Q`>=AoJBpfLcR??Yu.h?Z=DR-gPD&mW4XB8BYH,1.tDYKl;Y4B"j/NjTdf,22oh8:T@d_AjfImZCm*/kZI^V`rhl@@8:h0dLG8`0`SQR4dE7@H3@Rtb:OoIpu48[:-36^Kf>PWk)Q<hOU;_#ec^qYNSXl/^BMPP;7@_483B#5T:1[d1t1^)>A^-Ee6aC9m7VE?4tZ<RVg9.F1c6K4<ij%fMblD=S1Q9]N6g>>sF&-HkcZ&!GZPH8D+cPWEtS6C2?5:7/-0AYFI6<i\"kW#``sk]1XM?Xh#h=4[H'%le;A<<8,!QuAnTE@Aq$28m+o6C"#]%[D+V?,1$rK2cWd0?W7@*d\R]GUk.^Yp-K.5,^q\9Z)%#8E[[l@p6&TgF+`ZB9cWA>?]nJVU^B':X:#$N580A.!YaBTURTu\Wh/VB/bXEZd#an,^08V6B#1\+@Qk("]DV`7RBgPR'&puJhBV3!XD-WXb>UsTA$G/D2s_^iB=/a\<u'#D_a[9J/3>,h8((BiHbEdaR"C_kN>l(M9OJec1=/2dgZBmX&X]1@C8/";*LDJ=unH^XX("gF#-t#k;2J4T$Ii@`t=S*k-/B-OL,s#en3c9^TZ#IZ:;$JcK*/4HW.k$kSCS=<D@ieeF3Wg!%?%XZ3g@-$Y!O_HXOhLC-\X<TWSXH$qd]sWA[1i2Nu[n.V8UTS%TpVNq^-nY0_lb0]'Vo`jNksrg481b0_=KU]gse\sC5RjZe@@I_f,_pA/`P1,!`*9MRfoZHfhY!1&sJ>+ZKs=PMH\m[`H#l)DjCcMi<Qh$(I"V3HCiXjioT!8n"]^G.O3cK\HfBKKX2k`ItL$mQ+?#TX2Jah(TUV;e's$bfg)0/$@WBFUBR;X/31ni3F(L]45O?7[.O0HL*.7TR4W~>endstream
+Gb!;g?$"cAQ$rD1\1^Ef&e9lhO1=mLZE5!W`ZD7XA88Hn6^)2O&3r()Y9!2cn%%6S$-=G]a`:*RWj5#*6oXt6HgWo'gCDp3EV.#P"ju!\]fpY]EU!=c*8g>OqIb,(rT[an/B;mb0HnUIm3q\MErF&h&un.1.e2WQ8M&J56OK!lEhaa&f<rIDE[%M/h>ZXRDMfN@N?Og@<8Y(b-c&Me2mdBKM!0/9n_HFiITE,>?s>6ZiT-mUgNI27`%RHTM-jT,0DsLnQB`k/N>DV<FLi$!<G!--F\&oTQW[%l,&d8Jn*'V.Y5cF9A9gHXLE<$7EHu*<MaBY^4$tsB+&;0i)1%ZYA7h4ml!60@UR[sEVbF7QQ/EOD8oq7D;(61L<pEH.*Mu5MOl`="KmoQ>UdcR6(blFQ_+-ttRnDW,j%&ubK^4O$LuQKrD*L@SnaU98Rp<\bJt.@0\3J8eA/r&hNP><9Z07`F"?J928hC2Ql=?%7fFCq(X"mu:S([5?7@rUXk&t!?D"8D]]I#gSPus0?P\Z[u\_tHPS(32_7TLEHWf\=BU_7l41^5kh&^q,^B1rj*hnhD49Y/c"KuokfNoGk7h8BYDKa^2>eH5l&gY5req?O8d\T+?7&&D@lCu!CR<!,)LnN.0G,c8a,OLbH^M\DnD@jQ+/&9-Pr<g;7Yn4l8NpBJ)cUB:c=45I"7B(Y&Un&OKo<gEN?@(<ZAMk6ESo>BlBnN=r1PSU9i"%Y=Ja`1l8f4?k(FHr,+8N/"=7AK(%9%C>\q$rb$%XlR$XN?oS.e*7fW;+R2CnYdqWHHcgc,dOb$IY)/KNWn8ap;/>L&=gXZ2*5t*q:KlMbKBS82hpmo0'.sMgrhNVO=/7;5Q*9L,Q?g?Q'+3]47LH4!Ws;,7+&VE9;[P627_$5[_W5LbET$@M"bbp&e!9TYqcMk?0Ll(&jhI0T(fIGk$/MdoA^"Ke<A>/?.\FY#JS>RU:q%Vn\+C."BDUD^]64bVJHOeT.gJ'8%F-a%4Y9jG4''6]Hjp?f-CVer1;i?Kd9aHtJl='-7bc?Ws[S]`U\>U(H/Md1`brJgHt+N<N:"-]/p_6jJia3=4@;V<Qp$X$s'&[r1gfS(aF:%[$o<_--)\PWkV.IQU'DGO3q[\,e0]Vi%RK$e\KoMIgZknf6S1hC^d2&Tq*+0pcXt[u_SSUD"OUE7=@lQMfp!1<S&\?U43gI*_m<+<uj2d9:5CBSp;mJbf8,ILnC8<OGgUMJ#5kpT<MGdmB-uU!HQfd"3@[QL!8]!F"thpO(kVa)EKLM_/JE2hk>r=a#D.q9no?#sN2n'TuX8``QXAocKh,C?Ga#PB,l-7`g=L"b0R]ctP:l(qH<,&YiK9oE:ig=>NL"ft=07*()E+1lJ$BUl$?GA9.kh4uB"U6m`s?@.GW!%bsHa^T!!918.2gP\d%OC@b-)VJB&kF=jO^#"Uq=Snu`1G@T&q?3lZ1_Id4:6=f-Y=n+jIqGCf!DX?5t/oi<0gr%cem)4bTA(!K]'+oMT'jA,;?%26&$#gKs_'FTK@;-q;)1@0iDel"?d"SKmCAoiD3F9!sOD/<#cVgn,_A&Yh$#s10M+])CcmO>skYd\][1egnfYLk$V"Ji[0YYj_Z/uu?RC)1b^(j)cb9`*4U<\jT2Q$=?s6UF3aJ'm-8]1.(.eZtLPVX*)3U1Lr,+V\:>HQ'acguB2>c:V&YT+<O=9$B]rag=Hgo+/tJStO<'YgHb^X1sROin,pY%Z)'o:%jO,+cR(W8SZ8H7Y7b2`rFNS-4#k"(kf:3!4W]#N*+AZ?aXSLDr4?QlhBloGguTfF&a*krI*#Xr!(<%KT!:IZ\XlO1e7DYUl^tLqWb42`s)9.D2:"<o?&7'U%Q>*&<$ip-$IR00B1-+/_>0SppNDC;8g,o0-@OW/b2Hm(20Q>hdD#<MnsK5L:DtAT(=G*o)-e:sX4`7]2Gq6']*JPq:CMC;-T-=-Q`;WXRtP>epp_SG41^<=Vf1B724AF2<HNfi#:Np?b2;glokgXd*lPJPEG,am]UG:o"k$74!j:/^E+W/,COkn*-+XYS@$cRb@V^7&@Za&tB:En#D"FmRpN:_Reer.L!q!Q"lHCm3_.QY3J=Ap"dI*)32qkU+N]`7IrjqI*WOn>W$bPrhYSM?Z1ktFJUE?i9LRg]3D@s=HnlHr%+^S[H"eMFTfO8L:/D"6`U[2eL\9C`V+!e+%Rtpq+`QlX:hi[UHQmXI^7R!4BekJj;?2P5bDIIk(CU]TE9b$KFkYZa%<mCLFC_^C`b>OmQNhuo,m#^PW&HDT+B4":]J8ao^dk4?d/bO`#nARVQd/OX\r#T`2YmAIQ@IL&-0fK^?k$YVPWSQ!iVi$&rl`6RPqOJ_EIPQ,6Ka]"g)9GhS)9Q0=/6h35[5n+\rfL'>GTAZf'AbE*`o1C[RW)Zkg@Jk16QlSrUkE"CQGZH>:,(GN9,a-r#n)5Q#gQBf8EPUb8sPEVNAcSYcC9jm.-A;ml.>?*CNe@iQCM=$uakZob8$ZH(*>jU9Q7?:tc\Ra!?[[Wq$4Ld%OTGU#ZI,43pAOKEgmI9gjV(?&C^H+(:oioE^UE@A"5@%5\$Ms!OTR,uqD=a_5rqpo'l]#mW-2q]sV$f_jfd/hM`gb()Y1$jM5K1'gU;IlC?:LGT4pKWNOY^qDO5.u;m"keL7JWYZ#^h$9XN>bMelNKt7/13:BJS761V+%!Z$>qlIG5)PqTdd,)%AKV\g5e$nhU!WMeN$$YJCGI<C!;`Q.<Tg;O3$3aLA7_>otkr\Zh:.7C`$9*)fN>0?j,An,!-5$pIcLa`D3l1!\Xg!8E9\\/sLV=#@glpMd?r7BWF71@J>B=qY^9h0VJ&L%AYCW+Lg*US7-'5j;tqnVCS%jHJ-kD#&-#:T<.A8rc6tKlJCg8FEOp81F^LIh-c`o0Rp]\pP,uZP;R,7gY7Fh<#K3$#u_k3N1s4T29(;CjamK`oog]+cZ`r4SP,&6Kth5@.)iKqVTcA3[_-*Ul"VIFoaK"F'l#chB%&eQg]lT-[l:]e9ikV-c@X"I0KqY7fVH;3dP./Ko]^4ap[?se%oo'l7R-^l3ZQI<,^7R@j3&a3Qc/YY9LcJ?O'N,^ih7lFOZ-]nc]uL.a>f$jkQIU?7?K[Sc,@GcLO,32l3CVeIZIB0&keT,,;5F#nbnf$RGmB(-hO*+oa[3jO5B4@;s6ua\%0C2'!)XUNOiCm1RH%`A@"MSUZC]q>cMn.%1]8q/dH*3ZP[ji=;#R7PflAML=OULleN7]^*h.uXf/,$N>HG/b?_R(loEg&\4gO!MI58F:"_pPSFK0[FKKK96SiM(P[Zf%Ia\\DVO(W<YJ6Yn-T0Z^`;ZmhL8-gb;)$kF6+Y"^bO=!S4)O@_Xk<k3(rdM4?]ZiQZRAhSgP_&[cqHa(\#Jd@C6iI(eX,tDY;^D9Db-]I_!NG4j5,LST;L<J/U"N_iC:?)@@I1$2/c%u<pL::CuXmGcJq53g%u]I:CHiRaMP][SP5g%rEbg4Woj>8Lbp,QY8desZrrL?CGDqbT#&%AQF[7$j(@<<:t(^\<:h-a$RTE>kYsZPLf/DsIVZ?!XB9S9<NsE?aE-L'G,`O=&Q]"]lrKD:8tFdl(n*SnFtJc3:(ZbR>d894?X9JEd.0;G,gUik[K:?;mS1WKn0dAW\6Kk*!c8H4?=uFoqP7siW0iq.Z!].8gNSbh&))XFk=BHU&UAG=Ecq*L4eJp&1geNlT$h?,WQubOUqaB)4:iKNI.HBCCrX(hWp&+rHu(Uqoe"K-T>4mj`;U?qU]561Y<e/p4VrFK+#[,?:&+FZ7[OOu773_S'W+03H=3V=Cu,Hd*R'lfQY;.i8TuUu9W>-Br(,4Q3TNI2CpU+ln,40Z@GVWm$VPe>f4\i24f;0XeGE)9Ea(_6kZE9B,`EEnJ/</O4d=0ajX7lmac(n3iqT3X`YS_jMfIc8[+p:h`suqIr3"Be(J#f]hmbG$<2XG%+"+B8Z`2tLZDl;kb;'7!>'Xe3)j0R\];T<ED2nX=i#Y5[FYan1*qU8h7],U*Y;X7C]BhVP-MJiKV=4UH56[Ws;-m=G-]k)M3@Anq<m\UXS1=A4O)je]oBYF<CEts-WRNDkkYFt4O[Pn?g[5WCqHTkeW_8Hi)<Jcp04$YaQOUWI]fA9GYGO[J2k9Pf46=%*)?C:N%i[Yuf<$8,`K.;;`C".[F2(Ui8shjmTkst*&^6+k]Sr>ZZh?5%VVeNqnW*^d]JsNTkchHTJj-p6SER6M_.RlgBXC:i-%Y/f#6/sKl7>lO(8<dU`YsT(/$U3#&El:/iRgRF+E-r3+'bQ+(6D&89ViVRNm+">e)cWOR]b6'WWkj#a/jHMUKl=Wfjp2X^q)-dFp'3H6mJa+B@.&Y>3&.7lQ^Jtb!tg8N%\2-o4Zd^jOrPkJfU<J`W;r0R5^BnVZ$-QGLsJJ>;M<B1,@;3rO2B8F/3VNV':/"a+M"7?_q5hnng<'DaZWXN/F)egkaJYe2SKeBBV+o%?ou*Zet^p_GBO,X2e&N1$M>r=0&KJefD`<2>$pBUg3;UNFLnJ/c$ci9'%WH-Af1*D('g::R7K9k?@3RrHKh#\i^_)]*a6EMQA%r[5sWU3@^E/4fG:4Xl48g^($au+a?W^hj8j<-HuKIJgV$S=j!1//ENmngTE),c8!"_Mi*KnUWOrC;26@sRpPNZX>AKcghoX0q'<@Bla#5\Hh*:"24Qa7hdtS$=+bk^-0O-Y-45/($g$MZ0\9bn//IpA/blSh"g`_'5!oC4'BrOU6EsuDTmBS7[K?t)Qc)CcAc,[rn@tT0<h7dRXm<LCg-[atf4#P?]Nd/n)*eSahUn2?/R8%+mC7Yd4?n2r$/deE<gOQL-^A71DcKe/62e`<5+'^o1Z!cQrL"jJ&oN'*!(jN5jSiX[k1gPj-9(fk#A/anD698:,ujL9md^bB9\pi4!>"C(#eJbHCca\uSAft^A6_Fb8%"GJ,^_Zij_)+8q;\#/HM.;;KQkK~>endstream
+endobj
+176 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 939
+>>
+stream
+Gb!<K9lJKG&;KZL'luZ5$7rgTrNP6["9eq.6u.?Q_I8;1XlHTm4->\5cceFe':MfO*7-2*Y.Zpc4#;pLJE%4"IoZT_:>s0K!$NN!"JM37oFnl37mBL;8>/`Z/2H##$CFeYlNGqB;2p?@OYA5[!M*mNXYq:J1Y)m@XbY)p&I-4*]2:n2<L%)u,T&A(L2in=U_W1<V\kKZ@"C+*(<.GoS;Wf=nKK.JG_p`MW7a$Z>$(P1(E-=n>e*R-k;hJS5h@P'GmB\=kiqmGdQ+*nPS&h\M+r[!,a+BpA<!l*3g:O1+r5gK#T_X8@1qptpML-<j\1t+Ei]C(L*eG+Adu/#:"D4D%s,)\7@=sppLQm.a4--T7Ra*"i$6BMh`?^6G+sB(G25g,>/M%U(>Fe/GD'oP[Z-;g*m,O]cGO>!?p']p&>6lHNWB;!9Zoi_eS(PmE:sc%Lc"g`@l4E_@]Q1hIDlUr2`F>ghp^_sionkL]ei)r(/eXG$"48s-)ahZ7'%T+aO%^n_X(ZRfK]@YEW#h&q"2Ig$].+<4]oGC@OU+%LELCo*:UU[F[g4!iJVVY#LbDN2O[BID@[`r\69Q4Sq)`f'cQ%R@'Rqf!$T!Z\i.`;%1_7U*\Mis6bdA-aZKZGmpSM[I0U(6-X4AR'Z@[uI?s?\r;<^Bj4_gN;ptq>-a"DUq6nU&o7FXI%H^Ob+b%uc[nEO&/!dlHRLLq&TG<t*hL1[<$YE^^$dgn(G"$V$$AsND?63L,&@tU4X7o&nhJ^Y`3am@8+%BAO8Cp'q=;[(6$$1m+'UEb*qu=e-C"%5oo1*3W+TiT>[@MS&C$KM[o1emSKk>P3C1%.nGtgJPXJ'JHCW(KqY3RAG/-aZWFFfL%TI<&qZam9TFZGhV+(D`01Bo]SV\k)7dk5DMfb,e,n0Y1"j=eSYQ"2%Z&5(n&,nEJ[!3Yh!ao~>endstream
 endobj
 xref
-0 157
+0 177
 0000000000 65535 f 
 0000000061 00000 n 
 0000000134 00000 n 
@@ -1331,163 +1482,183 @@ xref
 0000000913 00000 n 
 0000001081 00000 n 
 0000001249 00000 n 
-0000001417 00000 n 
-0000001587 00000 n 
-0000001757 00000 n 
-0000001927 00000 n 
-0000002166 00000 n 
-0000002377 00000 n 
-0000002588 00000 n 
-0000002795 00000 n 
-0000003074 00000 n 
-0000003284 00000 n 
-0000003544 00000 n 
-0000003808 00000 n 
-0000004019 00000 n 
-0000004226 00000 n 
-0000004457 00000 n 
-0000004668 00000 n 
-0000004907 00000 n 
-0000005153 00000 n 
-0000005399 00000 n 
-0000005638 00000 n 
-0000005860 00000 n 
-0000006123 00000 n 
-0000006345 00000 n 
-0000006536 00000 n 
-0000006789 00000 n 
-0000007228 00000 n 
-0000007458 00000 n 
-0000007699 00000 n 
-0000007925 00000 n 
-0000008190 00000 n 
-0000008431 00000 n 
-0000008695 00000 n 
-0000008960 00000 n 
-0000009221 00000 n 
-0000009473 00000 n 
-0000009727 00000 n 
-0000009983 00000 n 
-0000010228 00000 n 
-0000010477 00000 n 
-0000010738 00000 n 
-0000011006 00000 n 
-0000011424 00000 n 
-0000011685 00000 n 
-0000011958 00000 n 
-0000012221 00000 n 
-0000012475 00000 n 
-0000012748 00000 n 
-0000012975 00000 n 
-0000013202 00000 n 
-0000013482 00000 n 
-0000013762 00000 n 
-0000014026 00000 n 
-0000014434 00000 n 
-0000014713 00000 n 
-0000015034 00000 n 
-0000015288 00000 n 
-0000015543 00000 n 
-0000015798 00000 n 
-0000016119 00000 n 
-0000016313 00000 n 
-0000016536 00000 n 
-0000016793 00000 n 
-0000017033 00000 n 
-0000017291 00000 n 
-0000017576 00000 n 
-0000017813 00000 n 
-0000018067 00000 n 
-0000018332 00000 n 
-0000018590 00000 n 
-0000018871 00000 n 
-0000019123 00000 n 
-0000019407 00000 n 
-0000019691 00000 n 
-0000019945 00000 n 
-0000020130 00000 n 
-0000020315 00000 n 
-0000020553 00000 n 
-0000020806 00000 n 
-0000021062 00000 n 
-0000021300 00000 n 
-0000021715 00000 n 
-0000021970 00000 n 
-0000022225 00000 n 
-0000022500 00000 n 
-0000022790 00000 n 
-0000023154 00000 n 
-0000023416 00000 n 
-0000023665 00000 n 
-0000023914 00000 n 
-0000024170 00000 n 
-0000024429 00000 n 
-0000024703 00000 n 
-0000024960 00000 n 
-0000025153 00000 n 
-0000025365 00000 n 
-0000025628 00000 n 
-0000025900 00000 n 
-0000026140 00000 n 
-0000026380 00000 n 
-0000026697 00000 n 
-0000026933 00000 n 
-0000027226 00000 n 
-0000027415 00000 n 
-0000027640 00000 n 
-0000027826 00000 n 
-0000028078 00000 n 
-0000028320 00000 n 
-0000028568 00000 n 
-0000028780 00000 n 
-0000029003 00000 n 
-0000029280 00000 n 
-0000029508 00000 n 
-0000029694 00000 n 
-0000030170 00000 n 
-0000030406 00000 n 
-0000030629 00000 n 
-0000030934 00000 n 
-0000031186 00000 n 
-0000031412 00000 n 
-0000031654 00000 n 
-0000031840 00000 n 
-0000032065 00000 n 
-0000032358 00000 n 
-0000032621 00000 n 
-0000032836 00000 n 
-0000033070 00000 n 
-0000033289 00000 n 
-0000033617 00000 n 
-0000034431 00000 n 
-0000052475 00000 n 
-0000052746 00000 n 
-0000054005 00000 n 
-0000054835 00000 n 
-0000074371 00000 n 
-0000074631 00000 n 
-0000075887 00000 n 
-0000076684 00000 n 
-0000093669 00000 n 
-0000093937 00000 n 
-0000095122 00000 n 
-0000095194 00000 n 
-0000095725 00000 n 
-0000095817 00000 n 
-0000100114 00000 n 
-0000104463 00000 n 
-0000109162 00000 n 
-0000113770 00000 n 
+0000001418 00000 n 
+0000001588 00000 n 
+0000001758 00000 n 
+0000001928 00000 n 
+0000002167 00000 n 
+0000002378 00000 n 
+0000002589 00000 n 
+0000002796 00000 n 
+0000003075 00000 n 
+0000003285 00000 n 
+0000003545 00000 n 
+0000003809 00000 n 
+0000004020 00000 n 
+0000004274 00000 n 
+0000004540 00000 n 
+0000004747 00000 n 
+0000004978 00000 n 
+0000005189 00000 n 
+0000005428 00000 n 
+0000005674 00000 n 
+0000005920 00000 n 
+0000006159 00000 n 
+0000006381 00000 n 
+0000006644 00000 n 
+0000007073 00000 n 
+0000007295 00000 n 
+0000007486 00000 n 
+0000007739 00000 n 
+0000007969 00000 n 
+0000008210 00000 n 
+0000008436 00000 n 
+0000008701 00000 n 
+0000008942 00000 n 
+0000009206 00000 n 
+0000009471 00000 n 
+0000009732 00000 n 
+0000009984 00000 n 
+0000010238 00000 n 
+0000010494 00000 n 
+0000010739 00000 n 
+0000010988 00000 n 
+0000011249 00000 n 
+0000011511 00000 n 
+0000011761 00000 n 
+0000012032 00000 n 
+0000012300 00000 n 
+0000012718 00000 n 
+0000012979 00000 n 
+0000013252 00000 n 
+0000013516 00000 n 
+0000013817 00000 n 
+0000014225 00000 n 
+0000014488 00000 n 
+0000014742 00000 n 
+0000015015 00000 n 
+0000015242 00000 n 
+0000015469 00000 n 
+0000015749 00000 n 
+0000016029 00000 n 
+0000016293 00000 n 
+0000016572 00000 n 
+0000016893 00000 n 
+0000017181 00000 n 
+0000017435 00000 n 
+0000017690 00000 n 
+0000017945 00000 n 
+0000018266 00000 n 
+0000018460 00000 n 
+0000018683 00000 n 
+0000018940 00000 n 
+0000019180 00000 n 
+0000019438 00000 n 
+0000019723 00000 n 
+0000019960 00000 n 
+0000020214 00000 n 
+0000020479 00000 n 
+0000020737 00000 n 
+0000021018 00000 n 
+0000021298 00000 n 
+0000021713 00000 n 
+0000021965 00000 n 
+0000022249 00000 n 
+0000022533 00000 n 
+0000022787 00000 n 
+0000022972 00000 n 
+0000023157 00000 n 
+0000023395 00000 n 
+0000023648 00000 n 
+0000023904 00000 n 
+0000024142 00000 n 
+0000024380 00000 n 
+0000024636 00000 n 
+0000024892 00000 n 
+0000025168 00000 n 
+0000025459 00000 n 
+0000025824 00000 n 
+0000026087 00000 n 
+0000026337 00000 n 
+0000026587 00000 n 
+0000026844 00000 n 
+0000027104 00000 n 
+0000027378 00000 n 
+0000027635 00000 n 
+0000027828 00000 n 
+0000028086 00000 n 
+0000028344 00000 n 
+0000028556 00000 n 
+0000028819 00000 n 
+0000029259 00000 n 
+0000029531 00000 n 
+0000029771 00000 n 
+0000030011 00000 n 
+0000030328 00000 n 
+0000030564 00000 n 
+0000030857 00000 n 
+0000031046 00000 n 
+0000031305 00000 n 
+0000031614 00000 n 
+0000031923 00000 n 
+0000032148 00000 n 
+0000032334 00000 n 
+0000032586 00000 n 
+0000032828 00000 n 
+0000033087 00000 n 
+0000033396 00000 n 
+0000033644 00000 n 
+0000033856 00000 n 
+0000034079 00000 n 
+0000034356 00000 n 
+0000034584 00000 n 
+0000034770 00000 n 
+0000035006 00000 n 
+0000035229 00000 n 
+0000035534 00000 n 
+0000035786 00000 n 
+0000036012 00000 n 
+0000036254 00000 n 
+0000036440 00000 n 
+0000036665 00000 n 
+0000036958 00000 n 
+0000037221 00000 n 
+0000037436 00000 n 
+0000037670 00000 n 
+0000038172 00000 n 
+0000038391 00000 n 
+0000038646 00000 n 
+0000038883 00000 n 
+0000039697 00000 n 
+0000057741 00000 n 
+0000058012 00000 n 
+0000059271 00000 n 
+0000060099 00000 n 
+0000079666 00000 n 
+0000079926 00000 n 
+0000081187 00000 n 
+0000081984 00000 n 
+0000098969 00000 n 
+0000099237 00000 n 
+0000100422 00000 n 
+0000100494 00000 n 
+0000101025 00000 n 
+0000101125 00000 n 
+0000105360 00000 n 
+0000110129 00000 n 
+0000114729 00000 n 
+0000119429 00000 n 
+0000124503 00000 n 
 trailer
 <<
 /ID 
-[<c309b914960b801c91aaea58b5477f5e><c309b914960b801c91aaea58b5477f5e>]
+[<cff2cd3f5a81e1aea80c089620aa3e9a><cff2cd3f5a81e1aea80c089620aa3e9a>]
 % ReportLab generated PDF document -- digest (opensource)
 
-/Info 150 0 R
-/Root 149 0 R
-/Size 157
+/Info 169 0 R
+/Root 168 0 R
+/Size 177
 >>
 startxref
-116650
+125534
 %%EOF

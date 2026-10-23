@@ -1,11 +1,11 @@
 # Amazonie ve faktech
 
-Přehledová aplikace do zeměpisu: 65 faktů a 22 příkladů z praxe o kácení deštných pralesů v brazilské Amazonii, seřazených do 10 témat, s vyhledáváním napříč celým přehledem. Stav k 22. 10. 2026, u každého údaje je odkaz na zdroj.
+Přehledová aplikace do zeměpisu: 74 faktů a 28 příkladů z praxe o kácení deštných pralesů v brazilské Amazonii, seřazených do 10 témat, s vyhledáváním napříč celým přehledem. Stav k 22. 10. 2026, u každého údaje je odkaz na zdroj.
 
 ## Obsah
 
 - `index.html` – celá aplikace v jednom souboru (data jsou přímo v něm, z internetu se načítají jen písma Google Fonts)
-- `soupis-faktu-amazonie.pdf` – stejná fakta a příklady k tisku (5 stran A4)
+- `soupis-faktu-amazonie.pdf` – stejná fakta a příklady k tisku 
 - `.nojekyll` – urychlí zveřejnění na GitHub Pages (není nutný)
 
 ## Zveřejnění přes GitHub Pages
